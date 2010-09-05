@@ -1,0 +1,73 @@
+---
+title:       Toimihenkilöt 1959 - 2008
+layout:      historiikki
+active_menu: 14
+keywords:    toimihenkilöt, hallitus
+description: Syylliset tämän historiikin ilmestymiseen
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:19:46+0300"/>
+---
+ <div class="story">
+
+h1=. Turun Alueen Sähköinsinöörit ry:n toimihenkilöt 1959 - 2008
+
+table{border: 2px solid}.
+{background: #ddd}. |_. Vuosi|_. Puh. joht.|_. Varapuh. joht.|_. Sihteeri|_. Rah. hoit.|_. Muut (hallitus / johtokunta)|
+|1959|Vainio Timo||Pöyhönen Jorma||Nevantaus Olavi ja Sjöholm Gunnar|
+|1960|Kuusela Heikki||Maine Lasse||Vainio Timo, Varrela Veijo ja Vilpo Simo|
+|1961|Kuusela Heikki||Maine Lasse|||
+|1962|Blomvall Rauno|||||
+|1963|Blomvall Rauno||Pöyhönen Jorma||Renberg ja Välimaa|
+|1964|Välimaa Pentti||Leivo Pekka||Blomvall Rauno, Pöyhönen ja Renberg?|
+|1965|Roine Raimo||Leivo Pekka||Hurme Lasse, Niemelä Torsti ja Salonen Esko|
+|1966|Salonen Esko||Hurme Lasse||Kuuri Hannu, Niemelä Torsti ja Roine Raimo|
+|1967|Niemelä Torsti||Hurme Lasse||Kotilainen Pertti, Kuuri Hannu ja Salonen Esko|
+|1968|Lehtonen Paavo||Hurme Lasse||Lintunen, Maine Lasse ja Marttila|
+|1969|Marttila Jukka||Yrjänäinen Pekka||Lehtonen Paavo, Lintula ja Peltola|
+|1970|Blomvall Rauno||Yrjänäinen Pekka||Marttila, Nykänen ja Vilpo Simo|
+|1971|Tiainen Aimo|Vaurio Jukka|Poikola Markku||Blomvall Rauno ja Niemelä|
+|1972|Tiainen Aimo||Alopaeus Kai|Alopaeus Kai|Poikola, Vaurio ja Virtanen|
+|1973|Salonen Esko||Alopaeus Kai|Alopaeus Kai|Korhonen, Reisto, Vaurio ja Virtanen|
+|1974|Poikola Markku|Hanski Ilkka|Naire Veikko||
+|1975|Hanski Ilkka|Hinkkanen Tuomo|Kokkonen Markku|Kokkonen Markku|Grönqvist Kaj ja Naire Veikko|
+|1976|Hanski Ilkka|Hinkkanen Tuomo ja Naire Veikko|Kokkonen Markku|Kokkonen Markku|Grönqvist Kaj ja Kojonen Viktor|
+|1977|Hanski Ilkka|Hinkkanen Tuomo ja Roiha Hannu|Kokkonen Markku|Kokkonen Markku|Grönqvist Kaj ja Kojonen Viktor|
+|1978|Hanski Ilkka|Hinkkanen Tuomo ja Roiha Hannu|Kokkonen Markku|Kokkonen Markku|Kojonen V, Vahtera Ruth ja Uusitalo Pertti|
+|1979|Hinkkanen Tuomo|Maine Lasse ja Uusitalo Pertti|Kokkonen Markku|Kokkonen Markku|Maine Lasse, Mäntymäki Mikko, Niemi Pauli ja Uusitalo Pertti|
+|1980|Hinkkanen Tuomo|Tingander Timo ja Hirvola Veli-Pekka|Kokkonen Markku|Kokkonen Markku|Mäntymäki Mikko ja Niemi Pauli|
+|1981|Hinkkanen Tuomo|Maine Lasse ja Tingander Timo|Kokkonen Markku|Kokkonen Markku|Grönqvist Kaj, Mäntymäki Mikko ja Uusitalo Pertti|
+|1982|Hinkkanen Tuomo|Saurio Raimo ja Mäntymäki Mikko|Kokkonen Markku|Kokkonen Markku|Mäntymäki Mikko, Saurio Raimo, Steenroos Jyrki ja Tingander Timo|
+|1983|Hinkkanen Tuomo|Saurio Raimo ja Mäntymäki Mikko|Niemensivu Jukka|Niemensivu Jukka|Rautio Kari, Stenroos Jyrki ja Tingander Timo|
+|1984|Hinkkanen Tuomo|Saurio Raimo ja Mäntymäki Mikko|Niemensivu Jukka|Niemensivu Jukka||
+|1985|Saurio Raimo|Hinkkanen Tuomo ja Mäntymäki Mikko|Niemensivu Jukka|Niemensivu Jukka|Moisio Reija, Steenroos Jyrki, Tingander Timo ja Uusitalo Pertti|
+|1986|Saurio Raimo|Hinkkanen Tuomo ja Mäntymäki Mikko|Niemensivu Jukka|Niemensivu Jukka|Mosio Reija, Moisio Seppo ja Ukkonen K|
+|1987|Saurio Raimo|Hinkkanen Tuomo ja Mäntymäki Mikko|Niemensivu Jukka|Niemensivu Jukka||
+|1988|Saurio Raimo|Hinkkanen Tuomo ja Mäntymäki Mikko|Niemensivu Jukka|Niemensivu Jukka|Moisio Reija, Moisio Seppo|
+|1989|Saurio Raimo||Niemensivu Jukka|Niemensivu Jukka||
+|1990|Moisio Seppo|Päkärä Elise ja Kuusisto Seppo|Niemensivu Jukka|Niemensivu Jukka|Lehtinen Matti ja Ojala Markku|
+|1991|Moisio Seppo||Niemensivu Jukka|Niemensivu Jukka||
+|1992|Lehtinen Matti|Päkärä Elise ja Kuusisto Seppo|Niemensivu Jukka|Niemensivu Jukka|Satomäki|
+|1993|Lehtinen Matti|Päkärä Elise ja Satomäki Kauko|Niemensivu Jukka|Niemensivu Jukka||
+|1994|Lehtinen Matti|Päkärä Elise ja Satomäki Kauko|Metso Kimmo|Niemensivu Jukka|Holsti Alpo ja Moisio Seppo|
+|1995|Lehtinen Matti|Satomäki Kauko ja Päkärä Elise|Moisio Seppo|Niemensivu Jukka|Holsti Alpo ja Metso Kimmo|
+|1996|Tiippana Tommi|Kiviniemi Marko ja Lempiäinen Janne|Korhonen Seppo O|Niemensivu Jukka|Lehtinen Matti, Moisio Seppo, Reponen Jarkko ja Säilä Olli|
+|1997|Tiippana Tommi|Kiviniemi Marko|Korhonen Seppo O|Niemensivu Jukka|Holsti, Kiviniemi, Korhonen, Lempiäinen, Moisio, Reponen ja Säilä|
+|1998|Kiviniemi Marko|Lehtinen Matti|Korhonen Seppo O|Niemensivu Jukka|Holsti, Lempiäinen Janne, Moisio Seppo, Reponen Jarkko ja Säilä Olli|
+|1999|Kiviniemi Marko|Lehtinen Matti||Niemensivu Jukka||
+|2000|Hinkkanen Tuomo|Heinilä Kari|Korhonen Seppo O|Niemensivu Jukka|Holsti, Korhonen, Säilä, Moisio, Rimpelä, Heinilä ja Kuusisto|
+|2001|Hinkkanen Tuomo|Lehtinen Matti|Korhonen Seppo O|Niemensivu Jukka|Holsti Alpo, Kuusisto Tero, Meer Viktor van, Moisio Seppo, Rimpelä Mika ja Säilä Olli|
+|2002|Hinkkanen Tuomo|Lehtinen Matti|Korhonen Seppo O|Niemensivu Jukka|Holsti Alpo, Hyttinen Raino, Kokkonen Markku, Meer Viktor van ja Säilä Olli|
+|2003|Hinkkanen Tuomo|Holsti Alpo|Lehtinen Matti|Niemensivu Jukka|Karlsson Kati, Kokkonen Markku, Korhonen Seppo O, Meer Viktor ja Säilä Olli|
+|2004|Hinkkanen Tuomo|Holsti Alpo|Lehtinen Matti|Niemensivu Jukka|Kokkonen Markku, Meer Viktor van, Uusitalo Rauno ja Säilä Olli|
+|2005|Hinkkanen Tuomo|Holsti Alpo|Lehtinen Matti|Niemensivu Jukka|Holsti, Kokkonen Markku, Meer Viktor van, Säilä Olli ja Uusitalo Rauno|
+|2006|Hinkkanen Tuomo|Holsti Alpo|Lehtinen Matti|Niemensivu Jukka|Fröberg Janne, Hiltunen Jari, Kokkonen Markku, Mattila Jesse, Meer Viktor van, Uusitalo Rauno ja Säilä Olli|
+|2007|Hinkkanen Tuomo|Holsti Alpo|Lehtinen Matti|Niemensivu Jukka|Degerholm Pertti, Hiltunen Jari, Kokkonen Markku, Uusitalo Rauno, van Meer Viktor|
+|2008|Hinkkanen Tuomo|Mattila Jesse|Lehtinen Matti|Niemensivu Jukka|Hiltunen Jari, Kokkonen Markku, Uusitalo Rauno, van Meer Viktor|
+
+ </div><!-- Story -->
+
+ <!-- Markings going under the main story -->
+ <div id="footer">webmaster: rauno.uusitalo<span>!/pic/ats.png(@)!</span>gmail.com</div>
+ <div id="pic_button_next"><a href="/historiikki/jasenmaara/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+ <div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

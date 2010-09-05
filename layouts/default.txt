@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi">
+<head>
+	<%= @item[:date] %>	
+   <meta name="author" content="Rauno Uusitalo"/>
+	<meta name="copyright" content="<%= @item[:copyright] %>" />
+	<meta name="keywords" content="TASI ry, TASI, Turun Alueen Sähköinsinöörit, <%= @item[:keywords] %>" />
+	<meta name="description" content="Turun Alueen Sähköinsinöörit TASI ry - <%= @item[:description] %>" />
+	<meta name="ROBOTS" content="<%= @item[:robots] %>" />
+	<meta name="verify-v1" content="DWEDN5w6YgnyOBWM8lUAvOsbVhpHToboWcKQy72YXts=" />
+	<meta name="msvalidate.01" content="CCDA443B723B4541839917C2BB7E3E77" />
+
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<% if @item[:refresh] > 0 %> <meta http-equiv="refresh" content="<%@item[:refresh] %>" /> <% end %>
+
+	<link href="/styles/tasi.css" rel="stylesheet" type="text/css" />	
+	<link rel="shortcut icon" href="/pic/tasi.png" />
+	
+	<script src="/tasi.js" type="text/javascript"></script>
+	
+	<title><%= @item[:title] %></title>
+</head>
+
+<body>
+   <div id="banner">
+      <div id="bannerPic"></div>
+  		<div id="header">
+   		<span style="float: left">
+   			Turun Alueen Sähköinsinöörit TASI ry</span>
+   		<span style="float: right">
+   			<a href="http://www.lousi.fi/" title="Aluetoiminta" onclick="window.open(this.href,'_blank');return false;">Lounais-Suomen Alueen Insinöörit LOUSI ry</a> |
+   			<a href="http://www.uil.fi/" title="UIL" onclick="window.open(this.href,'_blank');return false;">Uusi Insinööriliitto UIL ry</a></span>
+   	</div><!-- end header -->
+   </div><!-- end banner -->
+		
+<!-- This is only shown with old IE browsers! -->
+<!--[if lte IE 6]>
+<div id="ie6" class="story">
+<img class="article_pic" src="pic/varoitus.png" width="156" height="144" alt="varoitus" />
+<h1>Selaimesi on vanhentunut!</h1>
+<p>Käytät jo kauan sitten vanhentunutta Internet Explorer -selainta. Tämä sivusto ei ole sen kanssa yhteensopiva ja sivut näkyvät väärin. Myös yksityisyytesi ja tietojesi turvallisuus voivat vaarantua!</p>
+Hyvä vaihtoehto on siirtyä vapaaseen koodiin perustuvan <a href="http://www.mozilla-europe.org/fi/firefox" target="_blank" title="Mozilla Firefox">Firefox-selaimen</a> käyttöön.  
+</div>
+<br />
+<![endif]-->			
+			
+	<div id="columnRight">
+		
+      <!-- Main story -->
+      <%= yield %>
+			
+      <!-- Markings going under the main story -->
+		<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	</div><!-- columnRight -->
+			
+	<div id="columnLeft">
+		<!-- Main menu -->
+		<div class="columnLeftBox">
+			<p><b>Sisällysluettelo:</b></p>
+			<ul>
+				<li><a href="/index.html" <% if @item[:active_menu] == 1 %> class="current" <% end %> title="Turun Alueen Sähköinsinöörit TASI ry">Tervetuloa</a></li>
+				<li><a href="/tapahtumat/" <% if @item[:active_menu] == 2 %> class="current" <% end %> title="Järjestettävät tapahtumat">Tapahtumat</a></li>
+				<li><a href="/tiedotteet/" <% if @item[:active_menu] == 3 %> class="current" <% end %> title="Julkaistut tiedotteet">Tiedotteet</a></li>
+				<li><a href="/hallitus/" <% if @item[:active_menu] == 4 %> class="current" <% end %> title="Hallituksen kokoonpano">Hallitus</a></li>
+				<li><a href="/edustajat/" <% if @item[:active_menu] == 5 %> class="current" <% end %> title="TASI:n edustajat muissa järjestöissä">Edustajat</a></li>
+				<li><a href="/historiikki/" <% if @item[:active_menu] == 6 %> class="current" <% end %> title="TASI:n historiaa vuosilta 1959 - 2008">Historiikki</a></li>
+				<li><a href="/historiaa/" <% if @item[:active_menu] == 7 %> class="current" <% end %> title="Historiallisia tapahtumia">Menneitä</a></li>
+				<li><a href="/galleria2010/" <% if @item[:active_menu] == 8 %> class="current" <% end %> title="Kuva kertokoon enemmän">Galleria</a></li>
+			</ul>
+		</div><!-- columnLeftBox -->
+			
+		<% if @item[:active_menu] == 8 %>
+		<br />
+		<div class="columnLeftBox">
+			<p><b>Valinnat:</b></p>
+			<ul>
+				<li><a href="/galleria2010/" <% if @item[:gallery] == 4 %> class="current" <% end %> title="Vuoden 2010 kuvat">2010</a></li>
+				<li><a href="/galleria2009/" <% if @item[:gallery] == 3 %> class="current" <% end %> title="Vuoden 2009 kuvat">2009</a></li>
+				<li><a href="/galleria2008/" <% if @item[:gallery] == 2 %> class="current" <% end %> title="Vuoden 2008 kuvat">2008</a></li>
+				<li><a href="/galleria2007/" <% if @item[:gallery] == 1 %> class="current" <% end %> title="Vuoden 2007 kuvat">2007</a></li>
+			</ul>
+		</div><!-- columnLeftBox -->
+		<% end %>
+	</div><!-- end columnLeft -->
+		
+	<div class="leftBoxPics">
+      <p><a href="http://www.mozilla-europe.org/fi/firefox" onclick="window.open(this.href,'_blank');return false;" title="Lataa uusi selain"><img src="/pic/firefox.png" style="border: 0px" alt=" FireFox-selain" /></a></p>
+      <p><a href="http://validator.w3.org/check?uri=referer" onclick="window.open(this.href,'_blank');return false;" title="Tarkasta halutessasi tämän sivun standardinmukaisuus"><img src="http://www.w3.org/Icons/valid-xhtml10.png" style="border: 0px" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a></p>
+   </div>
+	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try
+	{
+		var pageTracker = _gat._getTracker("UA-11117040-1");
+		pageTracker._trackPageview();
+	} catch(err) {}
+	</script>
+</body>
+</html>

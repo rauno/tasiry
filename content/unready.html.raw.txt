@@ -1,0 +1,17 @@
+---
+title:       TASI ry
+layout:      main
+active_menu: 3
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kesken
+description: Sivun rakennus on vielä kesken...
+robots:      NOINDEX, NOFOLLOW
+refresh:     0
+date:        <meta name="date" content="2010-02-16T11:52:47+0200"/>
+filter:
+  - erb
+---
+<div class="story">
+	<h1>Sivun tekeminen on valitettavasti vielä kesken!</h1>
+	Yritä myöhemmin uudelleen...
+</div>

@@ -1,0 +1,149 @@
+---
+title:       Historiaa
+layout:      historiikki
+active_menu: 4
+keywords:    historiaa
+description: Historiaa
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:00:21+0300"/>
+---
+	<!-- Story -->
+	<div class="story">		
+		<div align="center">
+			<h1>TASI – 50 vuotta sähköistä toimintaa</h1>
+		</div>
+		
+		<hr />
+				
+		<h2>Jo muinaisina aikoina...</h2>
+				
+		<p>Keisari Nikolai II antoi teknillisten opistojen toiminnan mahdollistavan asetuksen vuonna 1911. 
+		Suomen ensimmäinen teknillinen oppilaitos perustettiin seuraavana vuonna Tampereelle. Sieltä 
+		valmistuneiden insinöörien asemaa parantamaan ja etuja ajamaan perustettiin Tampereen Teknilliset 
+		ry vuonna 1919. Yhdistystä puuhattiin jo 1917, mutta kansalaissota lieveilmiöineen lykkäsi hanketta. 
+		Vähitellen insinöörit levittivät mukanaan insinööriyhdistystoimintaa omille toimialueilleen eri 
+		puolille maatamme.</p>
+
+		<p>Tampereen Teknilliset ry:n Turun Alaosasto perustettiin 8.10.1928. Insinöörien ammatilliseen ja 
+		sivistykselliseen kehittämiseen tähtäävää yhdistystä olivat perustamassa insinöörit Aarno Aaltonen, 
+		Brynolf Ilvessalo, Hannes Kangas, Arthur Suvanto, Vilho Vahlroos (myöh. Varkko), Lauri Vecksell, 
+		Viljo Vilpo ja Niilo Virtanen.</p>
+
+		<p>Yhdistyksen jäsenmäärä pysytteli 1930-luvulla keskimäärin kymmenessä. Kokouksia pyrittiin 
+		järjestämään kuukausittain kesäaikaa lukuun ottamatta. Kuukausikokouksesta poisjäänti palkittiin 
+		10 markan sakolla. Näihin tilaisuuksiin pyrittiin saamaan yleisteknillisiä luentoja.</p>
+
+		<p>Vuonna 1946 Tampereen Teknilliset ry:n nimeksi vaihdettiin Yleinen Insinööriyhdistys ry. Samalla 
+		sen kotipaikka siirrettiin Tampereelta Helsinkiin. Tästä luonnollisena seurauksena Turun alaosasto 
+		otti uudeksi nimekseen 1947 alusta Yleinen Insinööriyhdistys ry:n Turun osasto.</p>
+
+		<p>40- ja 50-lukujen taitteessa alettiin insinööri Viljo Aflechtin toimesta ensimmäisen kerran 
+		keskustella mahdollisuudesta perustaa alakohtaisia insinöörikerhoja toiminnan aktivoimiseksi. 
+		Ajatus hautautui pessimistisiin epäilyksiin alkuinnostuksen jälkeisestä lamaantumisesta. Muuten 
+		50-luku oli vilkasta aikaa Turun yhdistyksessä. Turkulaiset järjestivät pääyhdistyksen 
+		syyskokoukset vuosina 1950, 1953 ja 1958. Pohjoismaisen insinööriliiton edustajakokous 
+		järjestettiin toukokuussa 1957 yhteistyössä Driftingenjörsförbundet i Finland rf:n turkulaisen 
+		osaston kanssa. Heti edustajakokouksen perään saapui neuvostoliittolainen 22 insinöörin 
+		valtuuskunta tutustumaan turkulaiseen teollisuuteen.</p>
+		
+		<p>Osallistujamäärien vähäisyyden takia kuukausikokouksia vähennettiin 1954 neljään vuodessa. Muun 
+		muassa Turun Teknillisellä Seuralla oli kokous- ja esitelmätoimintaa. Vuonna 1959 päätettiin 
+		perustaa eri ammattialoille omat kerhonsa, joilla olisi paremmat mahdollisuudet alakohtaisiin 
+		esitelmiin ja ekskursioihin.</p>
+
+		<h2>TASI:n perustaminen</h2>
+				
+		<p>Maaliskuun 3. päivä 1959 kokoontui ravintola Killan kabinetissa 18 sähköinsinööriä perustamaan 
+		sähkökerhoa. Mukana olivat Rauno Blomwall (Turun kaupungin sähkölaitos), Arvi Kaijalainen 
+		(Lounais-Suomen Sähkö Oy), Heikki Kuusela (Oy Sähkö Ab), Eero Laakso, Paavo Lehtonen (Turun 
+		Insinööritoimisto), Pekka Leivo (Valtion Sähköpaja), Lasse Maine (Turun Sähköpojat), Olavi 
+		Nevantaus (Vakkasuomen Ammattikoulu), Unto Norkela (Turun kaupungin sähkölaitos), Jorma Pöyhönen 
+		(Turun Sähköhuolto Oy), Per-Erik Renberg (Turun Valo ja Voima), Heikki Riuttamäki (Valtion 
+		Sähköpaja), Matti Savander (Crihton-Vulcan, Wärtsilä yhtymä), Gunnar Sjöholm (Oy Asea Ab), 
+		Edvard Sunberg (Leiron Sähköasennus), Timo Vainio (Iivari Lähteemäki), Veijo Varrela 
+		(Teollisuussähkötyö) ja Simo Vilpo (Sähköliike Mäki).</p>
+
+		<p>Kokouksen pöytäkirjasta ilmenee vahva halu palvella yhdistyksen jäsenten elinikäistä oppimista. 
+		Sähkökerhon perustaminen noteerattiin myös Turun Sanomissa. Heti alusta lähtien toiminnan pääpaino 
+		oli esitelmissä ja tutustumiskäynneissä. Jo ensimmäisenä toimintavuonna alettiin hakea keinoja 
+		vaikuttaa insinöörien palkkaukseen. Palkkagal-luppien tuloksilla toivottiin voitavan vaikuttaa 
+		insinöörien palkkavaatimuksiin heidän hakiessaan avoimiin toimiin. Esimerkiksi maaliskuun 1960 
+		kokouksessa (otanta 19 insi-nööriä) oli keskipalkka 84.500mk/kk kuukausipalkkojen vaihdellessa 
+		välillä 60.000mk – 160.000mk. Palkkatietoja kerättiin yhdessä Insinööriliiton kanssa lähes 
+		vuosittain ja niistä julkaistiin erilaisia käyrästöjä aina 70-luvun loppupuolelle saakka.</p>
+		 
+		<div align="center"><img src="pkirja1.jpg" width="690" height="1062" alt="Perustamiskokouksen pöytäkirja 1" /></div>
+		<br />
+		<div align="center"><img src="pkirja2.jpg" width="690" height="1062" alt="Perustamiskokouksen pöytäkirja 2" /></div>
+		<br />
+		<div class="hist_col_text">
+			Alkuperäinen ja aito yhdistyksen perustamiskokouksen pöytäkirja.
+		</div>
+				
+		<p>Alkuvuosien tärkeimpiä päätöksiä on kirjattu vuosikokouksen pöytäkirjaan 22.2.1960: <cite>8§ Kerhon 
+		jäsenet ovat keskenään sinuja.</cite></p>
+
+		<p>Eräs epäkohta, johon kerho pontevasti alkuvuosinaan puuttui, koski Turun Sähkölaitoksen 
+		linjausta, joka salli asennusliikkeen toimia A-ryhmän urakoitsijana 3kk ilman insinööriä. 
+		Tämä mahdollisti urakoitsijamääräysten kiertämisen palkkaamalla aika-ajoin insinööri lyhyeksi 
+		ajaksi ja toimimalla suurimman osan vuodesta ilman määräysten vaatimaa insinööriä. Asiasta 
+		kirjelmöitiin muun muassa otsikolla <cite>Epäterve kilpailu urakoitsijamarkkinoilla, sähköinsinöörien 
+		palkkaus ja urakointiyhtiöiden vastuu pätevyyden valvonnassa</cite>.</p>
+				
+		<div align="center"><img src="20v-juhlat.jpg" width="690" height="474" alt="20v-juhlissa" /></div>
+		<br />
+		<div class="hist_col_text">
+			TASI:n 20-vuotisjuhlissa 1979 paikalla olleet perustajajäsenet:<br />
+			Ylärivi: Veijo Varrela, herra X, Torsti Niemelä, Paavo Lehtonen ja Lasse Maine<br />
+			Alarivi: Rauno Blomvall, Heikki Kuusela, Per-Eric Renberg ja Pekka Leivo.
+		</div>
+
+		<h2>Toiminta kehittyy</h2>
+
+		<p>70- ja 80-luvun toiminnan voi tiivistää 1980 vuosikertomuksesta lainattuun: ”Toiminnan päämuotoina 
+		ovat olleet kuukausikokoukset ja TAI:n jäsenjulkaisun toimittaminen.” Alueyhdistyksen jäsenjulkaisu 
+		ilmestyi vuonna 1980 neljä kertaa. Painosmäärä 1400kpl, josta postitettiin yhdistyksen hallituksen 
+		toimesta 1060kpl. TAI:n jäsenjulkaisu työllisti toimittamisen, painatuksen ja postituksen lisäksi 
+		myös mainoshankinnalla.</p>
+
+		<p>Liikunnalliseksi aktiviteetiksi laskettavan 3-ottelun lisäksi on vuosien saatossa ollut muitakin 
+		erilaisia kokeiluja kuten jalkapallo-ottelu Konekerhon haastamana 1967 ja hiihtokisat muutamana vuonna.</p>
+
+		<p>70-luvulla toimi muutaman vuoden pienen määrärahan turvin naistoimikunta. Se koostui insinöörien 
+		rouvista ja toimi lähinnä juhlien järjestelytehtävissä. Esimerkiksi 1976 johtokunta totesi marraskuun 
+		kokouksessa: 4§ Todettiin, että naistoimikunnan pikkujoulujuhlissa järjestämä ohjelma oli onnistunut. 
+		Läpikäytiin juhlien ohjelma pääpiirteissään läpi.</p>
+
+		<p>Vuosien saatossa on koulutuksellisten kokousten rooli jäänyt pienemmäksi. Tilalle ovat tulleet 
+		virkistäytymistilaisuudet koko perheelle kylpylä- ja teatteriretkineen.</p>
+
+		<b>Vuosilukuja</b>
+
+		<ul>
+			<li>1912 Tampereen teknillinen oppilaitos perustetaan</li>
+			<li>1919 Tampereen Teknilliset ry perustetaan</li>
+			<li>1924 Tampereen Teknilliset ry:n Turun Alaosasto perustetaan</li>
+			<li>1946 Tampereen Teknilliset ry muuttaa Helsinkiin ja ottaa nimekseen Yleinen Insinööriyhdistys ry</li>
+			<li>1947 Yleinen Insinööriyhdistys ry:n Turun osasto (nimenmuutos)</li>
+			<li>1954 Insinööriliitto Yleinen Insinööriyhdistys ry:n tilalle	Turun Insinöörit ry Turun osaston toimintaa jatkamaan</li>
+			<li>1959 Päätös perustaa eri ammattialoille omat kerhonsa</li>
+			<li>3.3.1959 perustetaan Turun Insinöörit ry:n Sähkökerho</li>
+			<li>1965 Jokavuotinen 3-otteluperinne alkaa</li>
+			<li>1969 Insinöörien, arkkitehtien ja ekonomien työttömyyskassa perustetaan	Turun Insinöörien Jäsenjulkaisu alkaa ilmestyä vuoden lopulla</li>
+			<li>1971 Turun Insinöörit ry:stä Turun Alueen Insinöörit ry Turun Alueen Insinöörit ry:n Sähköinsinöörikerho ry (nimenmuutos)</li>
+			<li>1977 Valtakunnalliset Insinööripäivät Turussa kongressihotelli Ikituurissa</li>
+			<li>1984 25-vuotisjuhlamatrikkeli</li>
+			<li>1995 Turun Alueen Sähköinsinöörit ry (TASI) (sääntöjen ja nimenmuutos yhdistyslain muutuessa)</li>
+			<li>1998 Oma pöytästandaari</li>
+			<li>2000 40-vuotisjuhlamatrikkeli</li>
+			<li>2009 Turun Alueen Sähköinsinöörit ry (TASI) täyttää 50 vuotta, Historiikki</li>
+		</ul>
+
+		Muita 1959 syntyneitä: Barbie-nukke, Asterix ja Morris Mini.
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/kolmiottelu/" title="Perinteiset kolmiottelut"><span>seuraava kappale</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

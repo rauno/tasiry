@@ -1,0 +1,45 @@
+---
+title:       Vuoden Sähköinsinööri
+layout:      historiikki
+active_menu: 7
+keywords:    vuoden Sähköinsinööri
+description: Vuoden Sähköinsinööri -lautanen
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:08:36+0300"/>
+---
+	<!-- Story -->
+	<div class="story">		
+		<div align="center">
+			<h1>"Vuoden Sähköinsinööri" -lautanen</h1>
+		</div>
+				
+		<div class="pic_right"><img src="VuodenSahkoins.jpg" width="200" height="272" alt="Jukka Niemensivu" /></div>
+				
+		<p>Tinalautasen lahjoitti APT-suunnittelu oy.</p>
+				
+		<p>Vuoden sähköinsinöörin valinta todettiin vaivaannuttavaksi ”pienen piirin” jutuksi. 
+		Lautanen jäikin sitten hyllyyn pölyä keräämään.</p>
+				
+		<p>Valitut vuoden sähköinsinöörit:</p>
+				
+		<ul>
+			<li>1988 Jukka Niemensivu</li>
+			<li>1989 Tapani Nikola</li>
+			<li>1990 Kai Alopaeus</li>
+			<li>1991 Ilkka Hanski</li>
+			<li>1992 Tuomo Hinkkanen</li>
+			<li>1993 Matti Lehtinen</li>
+			<li>1994 Kauko Satomäki</li>
+			<li>1995 Kimmo Metso</li>
+		</ul>
+				
+		<div class="hist_col_text">Ensimmäinen &laquo;Vuoden Sähköinsinööri&raquo; oli Jukka Niemensivu. Hän on toiminut yhdistyksen 
+		rahastonhoitajana vuodesta 1983.</div>
+				
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/20v-juhlista/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

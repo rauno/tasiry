@@ -1,0 +1,39 @@
+---
+title:       Ilmittautuminen
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+date:        <meta name="date" content="2010-09-01T15:08:42+0300"/>
+filter:
+  - erb
+  - textile
+---
+_Ilmoittautuminen viimeistään  <%= day%>.<%= month%>!_
+
+ <div id="<%= block%>" style="display:none; margin-bottom: 1em;">
+ <hr />
+
+!(article_pic)/pic/postia.png!
+
+h3. Ilmoittautuminen 
+
+* Ilmoittaudu lähettämällä sähköpostia osoitteeseen <span class="e-mail">tapahtumat@tasiry.fi</span>.
+* Muista maksaa mahdollinen osallistumismaksu ajoissa! 
+
+Laita sähköpostin *aiheeksi* "TASI: &lt;tapahtuma&gt;":
+* &lt;tapahtuma&gt; = tapahtuman otsikko ilman päiväystä.
+* Tärkeää, koska viesti ohjataan oikealle vastuuhenkilölle sähköpostin aihe-kentän perusteella!
+* Esimerkiksi ??"TASI: Sääntömääräinen yhdistyksen kevätkokous jäsenille"??.
+
+Viestin runkoon (varsinainen sähköposti):
+* Oma nimesi
+* Puhelinnumero josta sinut tavoittaa.
+* Henkilömäärä avec- ja perhetilaisuuksiin (ilmoita lasten iät).
+* Mahdolliset ruoka-aine allergiat.
+
+_Ilmoitathan heti (sähköpostilla samaan osoitteeseen), jos joudut perumaan tulosi. Koskee myös maksuttomia tapahtumia!_
+
+ <hr />
+ </div>
+
+ <div style="float: left;">!/pic/smallarrow.png!" Ilmoittautumiset tästä":mailto:tapahtumat@tasiry.fi?subject=TASI%3A%20%3Ctapahtuma%20t%C3%A4h%C3%A4n%3E&amp;body=Ilmoittaudun%20mukaan%3A%20%3Cnimesi%3E%2C%20%3Cn%3E%20henke%C3%A4%2C%20%3Clis%C3%A4tiedot%3E%0A%0A(Korvaa%20%22%3C%22-%20ja%20%22%3E%22-merkkien%20v%C3%A4liset%20alueet%20omilla%20tiedoillasi!)<script type="text/javascript">
+ document.write(checkDate(<%= day%>, <%= month%>, <%= year%>))</script></div>
+ <div class="clear_next"><span class="button"><a href="javascript:display('<%= block%>','block');">Näytä ohje!</a></span></div>

@@ -1,0 +1,60 @@
+---
+title:       Galleria 2007
+layout:      main
+active_menu: 8
+gallery:     1
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: Galleria 2007
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:42:39+0300"/>
+---
+			<!-- Kevätkokous 2007 -->
+			<div class="story">
+				<div class="event_caption">
+					<span style="float: left">Kevätkokous</span>
+					<span style="float: right">La 17.3.2007</span>
+				</div>
+				<p>Sääntömääräinen kevätkokous järjestettiin piknik-risteilynä M/S Amorella.</p>
+				
+				<table class="gallery_table" summary="kuvat">
+				<tr>
+					<td class="gallery_col">
+						<img src="pic01.jpg" alt="" />
+						<div class="gallery_text">
+							Kevätkokouksen avasi yhdistyksemme puheenjohtaja Tuomo Hinkkanen.
+						</div>
+					</td>
+					<td class="gallery_col">
+						<img src="pic02.jpg" alt="" />
+						<div class="gallery_text">
+							Tällä kertaa järjestelyistä vastasi Jessa Mattila.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="gallery_col">
+						<img src="pic03.jpg" alt="" />
+						<div class="gallery_text">
+							TASI:n tulevaa kurssia suunnitellessamme päätimme luoda silmäyksen myös menneeseen.
+							Viktor van Meer valittiin valmistelemaan tämän työn aloittamista.
+						</div>
+					</td>
+					<td class="gallery_col">
+						<img src="pic04.jpg" alt="" />
+						<div class="gallery_text">
+							Sumuisten maisemien lipuessa hiljaa ohi oli sisällä lämminta ja mukavaa.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="gallery_col">
+						<img src="pic05.jpg" alt="" />
+					</td>
+					<td class="gallery_col">
+						<img src="pic06.jpg" alt="" />
+					</td>
+				</tr>
+				</table>
+			</div><!-- Story -->

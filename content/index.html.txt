@@ -1,0 +1,36 @@
+--- 
+title:       Tervetuloa mukaan!
+layout:      main
+active_menu: 1
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    LOUSI, UIL, insinööriliitto, Turku, insinööri, sähköinsinööri
+description: Etusivu
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-01T12:00:28+0300"/>
+---
+ <div id="tervehdys" class="story">
+ 
+h1. Tervetuloa mukaan!
+
+*Jo vuonna 1959 päätettiin perustaa yhdistys, jonka nimeksi tuli Turun Insinöörit ry:n Sähkökerho. Perustava kokous oli 3. päivänä maaliskuuta. Tuota samaa yhdistystä kutsutaan nykyään nimellä Turun Alueen Sähköinsinöörit TASI ry.*
+
+Jäseniämme ovat kaikki Turun ja sen lähikuntien järjestäytyneet sähköinsinöörit, tai ainakin kaikki ne, jotka eivät kuulu johonkin muuhun Lounais-Suomen Insinöörit LOUSI ry:n jäsenyhdistykseen:
+
+* Loimaan Alueen Insinöörit ry - LAI
+* Metson Ylemmät Toimihenkilöt MYT ry
+* "Salon Alueen Insinöörit ry - SAI":http://www.sai.fi/
+* Turun Alueen Rakennusinsinöörit TARI ry
+* "Turun Insinöörikerho TUIKE ry":http://www.tuike.fi/
+* Vakka-Suomen Insinöörit ry
+* Varsinais-Suomen Insinöörit ry - VARSI
+
+Myös TASI kuuluu siis yhdistysjäsenenä Lounais-Suomen Insinöörit LOUSI ry:hyn, joka puolestaan kuuluu valtakunnalliseen Uusi Insinööriliitto UIL ry:hyn.
+
+Ensinäkemältä tällaisen monitasoinen rakenteen hahmottaminen saattaa tuntua hankalalta, mutta käytännössä toiminta on tehokasta. Ylimmällä tasolla UIL huolehtii insinöörien kansallisen ja kansainvälisen tason edunvalvonnasta, osallistumalla mm. työehtosopimusten solmimiseen <a href="http://www.ytn.fi/" title="Ylempien Toimihenkilöiden Neuvottelujärjestö" onclick="window.open(this.href,'_blank');return false;">YTN</a>:n kautta.
+
+Alueellinen kattojärjestö LOUSI puolestaan koordinoi yhteisiä asioitamme, järjestäen isompia tapahtumia ja julkaisten esim. postilaatikoihimme ilmestyvää "Lounais-Suomen Insinöörit ry Tiedottaa"-lehteä.
+
+TASI:n toimintaan puolestaan kuuluu alakohtaisen ammatillisen osaamisen edistäminen ja paikallisesta järjestötoiminnasta vastaaminen. Käytännön tasolla suurin osa toimintaamme on erilaisten tapahtumien järjestämistä jäsenistöllemme.
+
+ </div>

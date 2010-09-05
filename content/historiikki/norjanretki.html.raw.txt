@@ -1,0 +1,132 @@
+---
+title:       Sähkökerhon kevätretki Norjaan
+layout:      historiikki
+active_menu: 6
+keywords:    kevätretki
+description: Sähkökerhon kevätretki Norjaan
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:06:07+0300"/>
+---
+	<!-- Story -->
+	<div class="story">		
+		<div align="center">
+			<h1>Sähkökerhon kevätretki Norjaan<br /> eli tutustuminen sähkölämmitintehtaaseen<br /> ja valtamerikalastukseen</h1>
+		</div>
+
+		<div align="center"><img src="Norja1.jpg" width="690" height="472" alt="Resepsjon" /></div>				
+
+		<p>Lauantaina 22.5.1976 kokoontui Turun satamassa Silja Linen terminaaliin sähkökerholaisista 
+		ja muista matkasta kiinnostuneista muodostunut ryhmä valmiina lähtemään jo kauan puuhatulle 
+		opinto- ja virkistäytymismatkalle Norjaan. Matkan puuhamiehen ja oppaan Ilkka Hanskin johdolla 
+		marssimme saattajillemme jättämien hyvästien jälkeen laiturissa odottaneeseen valkeaan lauttaan, 
+		josta jokaiselle oli varattu mukava hyttipaikka.</p>
+
+		<p>Seuraavana aamuna saavuimme varhain Ruotsin puolelle Norrtäljeen, jonne nousimme virkeinä ja 
+		reippaina lautalla nauttimamme runsaan kahviaamiaisen jälkeen. Tullista suoriuduttuamme odottelimme 
+		lautalla mukana tullut A. Virtasen turistibussia, johon pakkasimme tavaramme ia itsemme ja lähdimme 
+		polkemaan kohti pohjoista. Päivän ajomatka sujuikin mukavasti ohjauksen ollessa Matti Virtasen 
+		varmoissa vanttuissa. Matkan aikana havaitsimme bussin olevan viihtyisän ja tilavan sekä 
+		tarvittaessa kaiken lisäksi myös nopean.</p>
+
+		<p>Aikakaan ei tullut varmaan kenellekään pitkäksi matkan aikana järjestetyn vaihtelevan ohjelman, 
+		kuten esittelykierroksen, yhteislaulujen ja juttujen sekä kaskujen ansiosta. Bussissa mukana 
+		olleista virvokkeista mainittakoon mm. rymättyläläisestä kaivosta ammennettu erittäin runsaasti 
+		kivennäis- ja hivenaineita sisältävä vesi, joka matkan aikana sai suurta arvostusta sekä 
+		ryhmältämme, että norjalaisilta isänniltä. Lieköhän vedelle yhteisesti antamallamme nimellä 
+		”potenssivesi” osuutta asiaan.</p>
+
+		<p>Välttämättömien pysähdyksien (=mansikkapaikka) sekä muutaman baarin keittiön tukkoon 
+		saamisen jälkeen saavuimme Sundsvallin kautta länteen ajettuamme illansuussa lähellä Norjan 
+		rajaa sijaitsevalle Storlien -nimiselle paikkakunnalle, joka vaikutti kovin hiljaiselta ja 
+		kuolleelta. Tähän yli 600m merenpinnan yläpuolella sijaitsevan hiihtokeskuksen hiljaiseloon 
+		arvelimme olevan kaksi syytä: joko hiihtokausi oli loppunut tai oli saatu tieto suomalaisten 
+		tulosta. Joka tapauksessa meillä oli paikka, jossa ojentaa kangistuneet jäsenet ja levätä 
+		matkan jälkeen.</p>
+
+		<p>Maanantaiaamuna suoritetun aikaisen herätyksen jälkeen suuntasimme Norjan puolelle, josta 
+		löysimme viihtyisäntuntuisen motellin runsaan aamiaispöydän. Käytimme oitis tilaisuutta 
+		hyväksemme.</p> 
+
+		<p>NOBØ:n tehtaalle Stjördaliin saavuimme sovittuun aikaan. Tehtaan johdon lisäksi meitä oli 
+		vastassa myös paikallisen lehdistön edustaja. Informaatiotilaisuudessa kuulimme, että tehdas, 
+		joka on aloittanut peltiämpäreiden valmistuksella, pystyy tuottamaan vuodessa 1 000 000 
+		lämmitintä. Tärkeimmän markkinointialueen muodostavat Pohjoismaat. Myös Suomi on vahvasti 
+		mukana viime aikoina suoraan sähkölämmitykseen kohdistetusta syrjinnästä huolimatta.</p>
+
+		<p>Tehdaskierroksella totesimme tuotannon olevan varsin pitkälle automatisoidun. Linjan 
+		toisesta päästä syötetystä peltilevyrullasta muotoutuu muutaman henkilön avustuksella 
+		valmiiksi leikattu, taivutettu ja rei’itetty lämmittimen etu- ja takalevy varsin nopeasti. 
+		Myös osien kokoaminen valmiiksi lämmittimeksi kävi hyvin näppärästi.</p>
+
+		<div align="center"><img src="Norja2.jpg" width="690" height="474" alt="Tehtaalla" /></div>
+
+		<p>Tehtaalla nautimme lounaan ja Trondheimissa suoritetun ostoskierroksen jälkeen ylitimme 
+		lautalla Trondheimin vuonon ja ajoimme jylhiä maisemia katsellen vuoristoteitä pitkin 
+		Åfjordiin, seuraavan päivän kalastusmatkan tukikohtaan. Åfjordissa olivat isäntämme 
+		järjestäneet hienon illallispöydän kunniaksemme. Kiitokseksi isännille luovutti kerhomme 
+		puheenjohtaja Ilkka Hanski Insinööriliiton viirin Thor Jakobsenille norjankielisen puheen 
+		kera. Illallistilaisuudessa meillä oli tilaisuus tutustua lämmitinalan viimeisimpään 
+		kehitykseen ja lähiaikoina markkinoille tuleviin uusiin tuotteisiin.</p>
+
+		<p>Tiistaiaamuna varustauduimme turskanpyyntimatkalle Atlantille. Otimme tukevat voileivät 
+		evääksemme ja kipusimme norjalaiseen bussiin. Oma bussimme oli näet liian pitkä kiharaiselle 
+		tielle. Ajoimme pieneen kalastajakylään, jossa nousimme kolmeen kalastajaveneeseen ja 
+		suuntasimme apajille lämpimän aurinkoisen sään vallitessa. Olimmekin pyyntipaikoilla tuossa 
+		tuokiossa ja saatoimme ryhtyä kokeilemaan kalastustaitoamme ja kalaonneamme.</p>
+
+		<div class="pic_right"><img src="Norja3.jpg" width="240" height="338" alt="Paavo Rauhu" /></div>
+
+      <p>Matkan ainut haaveri sattui seurueemme viihdyttäjälle Paavo Rauhulle, joka ei painavaa 
+		viehettä sormiensa välistä veteen laskiessaan huomannut vieheen yläpuolella ollutta suurta 
+		koukkua, vaan sai sen väkästä myöten kämmeneensä. Veneestä löytyneestä linkkuveitsestä 
+		saatiin hiomakiven avulla riittävän terävä leikkausveitsi ja koukku saatiin kaivetuksi 
+		pois. Matkassa sattui olemaan mukana myös haavan steriloimiseen tarvittavia aineita sekä 
+		laastaria. Niinpä kädestä saatiinkin pian kalastamiseen kelpaava.</p>
+
+		<p>Lähes kaikki saimmekin narratuksi turskan tai muita kaloja merestä. Parhaat kalastajat
+		saivat palkinnon kalamatkan jälkeen järjestetyssä päivällistilaisuudessa.</p>
+
+      <p>Palkinnon saivat eri ansioista seuraavat henkilöt:</p>
+      
+      <ul>
+         <li>Naisten sarja: Ruth Vahtera</li>
+         <li>Suurin kala: Matti Niemi</li>
+         <li>Eniten kaloja: Jukka Lehto</li>
+         <li>Erikoisin kalastustapa: Paavo Rauhu (samanaikainen kalan ylösveto ja vedenheitto)</li>
+      </ul>
+
+		<p>Vaihtelevasta kalansaaliista huolimatta me kaikki olimme viettäneet joka tapauksessa 
+		hienon päivän merellä.</p>
+
+		<p>Päivällisen jälkeen lähdimme kohti Trondheimia, jossa teimme opastetun kaupunkikierroksen. 
+		Kierroksen jälkeen suunnistimme jo tulomatkalta tuttuun majapaikkaamme Storlienissä. 
+		Yövyttyämme jatkoimme matkaa Ruotsin halki kohti Norrtäljeä. Matkalla poikkesimme mm. 
+		Uppsalassa, jossa tutustuimme kaupungin keskustaan ja vanhaan kaupunkiin. Norrtäljessä 
+		nousimme jälleen lauttaan ja ensi töiksemme kävimme huuhtomassa saunassa matkan pölyt ja 
+		kalansuomut pois. Torstai-aamuna olimmekin jälleen kotirannassa Turussa valmiina aloittamaan 
+		arkisen aherruksemme.</p>
+
+		<p>Matkamme oli saatu päätökseen muutamien tulliselvittelyjen jälkeen.</p>
+
+		<p>Haluan kiittää onnistuneesta matkasta isäntää NOBØ-tehtaita, suomalaista avustajaa 
+		WARE Ltd:tä, bussimme kuljettajaa Matti Virtasta, matkan puuhamiestä ja opasta Ilkka Hanskia 
+		sekä kaikkia matkaan osallistuneita.</p>
+
+		<p>Matkassa mukana olleena - Tuomo Hinkkanen</p>
+				
+		<div align="center"><img src="Norja4.jpg" width="690" height="443" alt="Ilkka Hanski" /></div>
+		<br />
+		<div class="hist_col_text">
+			Retken puuhamies Ilkka Hanski ja turska, jonka nimi ei ole tiedossa.
+		</div>
+		<br clear="all" />		
+		Teksti on julkaistu alun perin ”TAI tiedottaa” -lehdessä 3/76 erilaisella kuvituksella. 
+		Arkistosta löytyi ohjekirje kyseiselle matkalle osallistujille. Siitä paljastuu, että matka 
+		maksoi 340 mk/henkilö.
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/vuodensahkoins/" title="'Vuoden Sähköinsinööri'-lautanen"><span>seuraava sivu</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

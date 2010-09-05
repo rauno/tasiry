@@ -1,0 +1,15 @@
+---
+title:       Kuvagalleria
+layout:      main
+active_menu: 8
+gallery:     3
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: TASI:n 50-vuotisjuhlat 2009
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-04T02:16:51+0300"/>
+---
+<iframe id="frameBox" class="story" src="/galleria2009/gallery/50-vuotisjuhlat/" width="714" height="796">
+   <p>Käytössäsi on vanhentunut selain!</p>
+</iframe> 

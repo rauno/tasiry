@@ -1,0 +1,31 @@
+---
+title:       20v-juhlista
+layout:      historiikki
+active_menu: 8
+keywords:    20v-juhlat
+description: 20v-juhlat
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:10:03+0300"/>
+---
+	<!-- Story -->
+	<div class="story">
+		<div align="center">
+			<h1>20v-juhlista</h1>
+		</div>
+				
+		<p>Kuvia TASIn 20-vuotisjuhlista 1979 Laulunystävien salissa.</p>
+				
+		<div align="center"><img class="pic_shadow" src="20v-juhlat3.jpg" width="690" height="490" alt="kuva 3" /></div>
+		<br />
+		<img class="pic_left" src="20v-juhlat1.jpg" width="328" height="462" alt="kuva 1" />
+		<img class="pic_right" src="20v-juhlat2.jpg" width="328" height="462" alt="kuva 2" />
+		<br clear="all" /><br />
+		<div align="center"><img src="20v-juhlat4.jpg" width="690" height="490" alt="kuva 4" /></div>
+		<br />
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/TAI-tiedottaa/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

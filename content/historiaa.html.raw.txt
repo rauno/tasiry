@@ -1,0 +1,127 @@
+---
+title:       Historiaa
+layout:      main
+active_menu: 7
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    historiaa
+description: Historiaa
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T11:38:29+0300"/>
+---
+			<!-- Main story section -->
+			<div class="story">
+				<div class="event_caption">Sähkökerhon nimestä</div>
+				<div class="event_story">
+					<p>3.3.1959 pidettiin perustava kokous, jolloin nimeksi päätettiin ”Turun Insinöörit ry:n sähkökerho”.</p>
+					<p>24.1.1974 johtokunnan esityksestä: ”Valittiin toimikunta tutkimaan sähkökerhon nimenmuutos-ja rekisteröintikysymystä”.</p>
+					<p>12.3.1975 OM hyväksynyt ja ennakkotarkistanut TAI:n sääntövaliokunnan esityksen: 
+						”Turun Alueen Insinöörit ry:n sähköinsinöörikerhon säännöt”</p>
+					<p>Myöhemmin dokumenteissä on esim. 1979 käytetty nimeä: ”Turun Sähköinsinöörit ry”</p>
+					<p><b>Yhdistysrekisterissä:</b></p>
+					<ul>
+						<li>hyväksymispäätös 26.2.1996: ” Turun Alueen Insinöörit ry Sähkökerho”</li>
+						<li>hyväksymispäätös nimimuutoksesta 15.2.1996: ”Turun Alueen Sähköinsinöörit TASI ry”</li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- Main story section -->
+			<div class="story">
+				<div class="event_caption">Järjestämiämme tapahtumia</div>
+				<div style="text-align: center"><img src="/pic/historiaa/tapahtumat.png" alt="diagrammi" /></div>
+				<div class="event_story">
+					Vuoden 2009 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Kevätkokous panimoravintola Koulussa</li>
+						<li>Tutustuminen Varsinais-Suomen hätäkeskukseen</li>
+						<li>Perinteinen 3-ottelu ja tutustuminen TNT:n rahtiterminaaliin</li>
+						<li>Tutustuminen "Oasis of the Seas"-loistoristeilijään</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat Vanhan Raatihuoneen Salissa</li>
+					</ul>
+					
+					Vuoden 2008 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Kevätkokous panimoravintola Koulussa</li>
+						<li>Tutustuminen Varsinais-Suomen hätäkeskukseen</li>
+						<li>Kesäteatteri Emma: Vares</li>
+						<li>Perinteinen 3-ottelu, SLO Oy</li>
+						<li>Tuorlan Observatorion planetaarioesitys</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat Naantalin kylpylässä</li>
+					</ul>
+					
+					Vuoden 2007 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Kevätkokous m/s Amorellalla</li>
+						<li>Tutustuminen Turun uuteen pääkirjastoon</li>
+						<li>Samppalinnan kesäteatteri</li>
+						<li>Perinteinen 3-ottelu, Onninen Oy</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat Naantalin kylpylässä</li>
+					</ul>
+					
+					Vuoden 2006 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Laskettelumatka Meri-Teijoon</li>
+						<li>Kevätkokous, Perkin Elmer Oy (Wallac)</li>
+						<li>Karting-ajot, Turku Karting Oy</li>
+						<li>Samppalinnan kesäteatteri</li>
+						<li>Perinteinen 3-ottelu, Ekeva</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat ravintolalaiva Lululla</li>
+					</ul>
+					
+					Vuoden 2005 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Yläneen luontokapinetissa</li>
+						<li>Kevätkokous Paratiisisaarella Rymättylässä</li>
+						<li>Linnateatteri: Mieletön Turun Historia</li>
+						<li>Liedon kesäteatteri: Runeberg ja Liedon susi</li>
+						<li>Perinteinen 3-ottelu, Ekeva</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat ravintolalaiva Lululla</li>
+					</ul>
+					
+					Vuoden 2004 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Kevätkokous panimoravintola Koulussa</li>
+						<li>Raision Ammattiopisto Timale: Digikameroista ja digikuvaamisesta</li>
+						<li>Perhetapahtuma: Tiedepuisto Heureka</li>
+						<li>Lentomatka Turun ympäristössä</li>
+						<li>Samppalinnan kesäteatteri: Kiss Me Kate</li>
+						<li>Perinteinen 3-ottelu, Ekeva</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat Julinia-salissa</li>
+					</ul>
+					
+					Vuoden 2003 tapahtumat:
+					<ul>
+						<li>Kevätkokous Tele-projekti Oy:n vieraana</li>
+						<li>Tutustuminen Fortum Oy:n voimalaitokseen Naantalissa</li>
+						<li>Samppalinnan kesäteatteri: musikaali Oklahoma</li>
+						<li>Tutustuminen Tytyrin kaivokseen ja Kone Oy:n hissilaboratorioon Lohjalla</li>
+						<li>Perinteinen 3-ottelu, Ekeva</li>
+						<li>Syyskokous panimoravintola Koulussa</li>
+						<li>Pikkujoulujuhlat ravintolalaiva Lululla</li>
+					</ul>
+					
+					Vuoden 2002 tapahtumat:
+					<ul>
+						<li>Kevätkokous Haloila Oy:n vieraana Maskussa</li>
+						<li>Tutustuminen kauppakeskus Myllyyn</li>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Tutustuminen TS-yhtymän lehtitaloon</li>
+						<li>Perheretki Teijon retkeilyalueelle</li>
+						<li>Perinteinen 3-ottelu, Ekeva</li>
+						<li>Syyskokous Auria Oy:n vieraana</li>
+						<li>Pikkujoulujuhlat ravintolalaiva Lululla</li>
+					</ul>
+				</div>
+			</div>

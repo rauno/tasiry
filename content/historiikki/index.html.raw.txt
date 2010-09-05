@@ -1,0 +1,51 @@
+---
+title:       Historiikki 1959 - 2009
+layout:      historiikki
+active_menu: 2
+keywords:    sisällysluettelo
+description: Sisälllysluettelo
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T22:56:48+0300"/>
+---
+	<!-- Story -->
+	<div id="index" class="story">
+		<h1>Historiikki: TASI 1959 - 2008</h1>
+
+		<p>Tämä on verkkoversio Turun Alueen SähköInsinöörien TASI ry:n historiikistä, joka
+		julkaistiin yhdistyksen 50-vuotisjuhlasssa 16.5.2009.</p>
+
+		<p>Kiitoksia kaikille kirjoittajille.</p> 
+	
+	   <hr />
+
+		<h2>Sisältö</h2>
+
+		<ul>
+			<li><a href="/historiikki/tervehdykset/" title="Tervehdykset 50-vuotiaalle">Tervehdykset</a></li>
+			<li style="list-style: none; display: inline">
+			   <ul>
+			   	<li>AKAVAn puhjeenjohtaja Matti Viljanen</li>
+			   	<li>TASIn puheenjohtaja Jesse Mattila</li>
+			   	<li>LOUSIn puheenjohtaja Jonna Aaltonen</li>
+			   	<li>UIL:n alueasiamies Timo Ruoko</li>
+			   </ul>
+			</li>
+			<li><a href="/historiikki/historiaa/" title="Menneet 50 vuotta">TASI – 50 vuotta sähköistä toimintaa</a></li>
+			<li><a href="/historiikki/kolmiottelu/" title="Perinteistä kisailua">Perinteiset kolmiottelut</a></li>
+			<li><a href="/historiikki/norjanretki/" title="Sähkökerhon kevätretki Norjaan eli tutustuminen sähkölämmitintehtaaseen ja valtamerikalastukseen">Kevätretki Norjaan 1976</a></li>
+			<li><a href="/historiikki/vuodensahkoins/" title="Lautasen tarina">Vuoden Sähköinsinöörit</a></li>
+			<li><a href="/historiikki/20v-juhlista/" title="Edelliset isot juhlat">Kuvia TASI:n 20-v juhlista 1979</a></li>
+			<li><a href="/historiikki/TAI-tiedottaa/" title="Turun Alueen Insinöörit Tiedottaa">TAI-tiedottaa -lehdestä</a></li>
+			<li><a href="/historiikki/kuvia/" title="Kuvia vuodelta 1976">Kuvia menneiltä vuosilta</a></li>
+			<li><a href="/historiikki/muisteluita/" title="Muistiin jäänyttä">SenioriTASIlaiset muistelevat</a></li>
+			<li><a href="/historiikki/1959/" title="Vuonna 1959">Kuuluisuuksia TASI:n perustamisvuodelta</a></li>
+			<li><a href="/historiikki/tapahtumat/" title="Yritysvierailut, kokoukset, esitelmät sekä kurssit">TASI:n tilaisuudet 1959 – 2008</a></li>
+			<li><a href="/historiikki/toimihenkilot/" title="Syylliset tämän historiikin ilmestymiseen">Toimihenkilöt 1959 – 2008</a></li>
+			<li><a href="/historiikki/jasenmaara/" title="Nousujohteista kehitystä">Jäsenmäärän kehitys 1959 – 2008</a></li>
+			<li><a href="/historiikki/hallitus/" title="Hallitus vuonna 2009">Nykyinen hallitus esittäytyy</a></li>
+		</ul>
+	</div><!-- Story -->
+			
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>

@@ -1,0 +1,177 @@
+---
+title:       Galleria 2009
+layout:      main
+active_menu: 8
+gallery:     3
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: Galleria
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-04T03:03:26+0300"/>
+---
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+	   	<span style="float: left"> Pikkujoulujuhlat</span>
+	   	<span style="float: right">La 5.12.2009</span>
+	   </div>
+
+      <!--  Pikkujoulujuhlat Vanhan Raatihuoneen salissa -->
+      <img src="pikkujoulut1.jpg" width="240" height="180" alt="Pikkujoulut 2009" />
+   
+   	<p>Vuonna 2009 vietimme pikkujoulujuhliamme Vanhan Raatihuoneen salissa.</p>
+   	<p>Maukkaan musiikin säestyksellä nautimme laadukkaasta jouluateriasta - vai oliko se toisin päin? No, joka tapauksessa laillisen lahjonnan jälkeen tanssit jatkuivat aina pikkutunneille asti.</p>
+   	<div class="clear_next" align="center"><a href="/galleria2009/pikkujoulut/">Lisää kuvia</a></div>
+   </div><!-- Story -->
+</div>
+			
+<div class="story">
+   <div class="event_caption">
+		<span style="float: left">Perinteinen kolmiottelu</span>
+		<span style="float: right">Ti 29.9.2009</span>
+	</div>
+
+   <!-- Kolmiottelu ja tutustuminen TNT:n rahtiterminaaliin -->
+   <img src="kolmiottelu1.jpg" width="240" height="180" alt="Kolmiottelu 2009" />
+   
+	<p>Aluksi pääsimme tutustumaan logistiseen toimintaan TNT:n rahtiterminaalla.</p>
+	<p>Loppuilta vietettiin perinteisen kolmiottelun merkeissä kisaillen ja kilvoitellen "Tuomon pokaalista" (kiertopalkinto).</p>
+	<div class="clear_next" align="center"><a href="/galleria2009/kolmiottelu/">Lisää kuvia</a></div>
+</div><!-- Story -->			
+			
+<div class="story">
+	<div class="event_caption">
+		<span style="float: left">Yhdistyksemme 50-vuotisjuhlat</span>
+		<span style="float: right">La 16.5.2009</span>
+	</div>
+
+	<!-- 50-vuotisjuhla -->
+   <img src="jesse.jpg" width="120" height="180" alt="50-vuotisjuhlat" />
+   
+	<p>50-vuotisjuhliamme vietettiin Turun Upseerikerhon tiloissa Vänrikinkatu 4:ssä. Vanha puutalo Aurajoen läheisyydessä tarjosi hienot puitteet arvokkaalle juhlallemme.</p>
+
+   <p>Monien puheiden, tervehdysten ja muistamisten jälkeen pääsimme nauttimaan juhlaillallisesta viulumusiikin säestyksellä. Loppuilta sujui vauhdikkaasti tanssien pyörteissä.</p>				   
+				
+	<div class="clear_next" align="center"><a href="/galleria2009/juhlat/">Lisää kuvia</a> - <a href="http://picasaweb.google.com/tasiry/50Vuotisjuhlat?authkey=Gv1sRgCO2n28ni9r7xxQE&amp;feat=directlink#slideshow" onclick="window.open(this.href,'_blank');return false;">Diaesitykseen</a></div>
+	<div class="small">Kuvamateriaalista erityiskiitokset Risto Kuituselle!</div>
+</div><!-- Story -->			
+</div><!-- id="galleria" -->
+			
+			<!-- Story -->
+			<div class="story">
+				<div class="event_caption">
+					<span style="float: left">Kylpemässä Caribialla</span>
+					<span style="float: right">La 7.3.2009</span>
+				</div>
+
+				<!-- Caribia -->
+				<p>Caribian matkalle lähdimme taas sankoin joukoin. Palmujen huojuessa nautimme virvoittavien vetten solinasta.</p>
+
+				<table class="gallery_table" summary="kuvat">
+					<tr>
+						<td class="gallery_col_vert">
+						   <div class="gallery_pic_vert">
+                        <a href="003.jpg"><img src="003_thumbnail.png" width="240" height="320" alt="sisäänkäynti" /></a>
+                     </div>
+							<div class="gallery_col_text">
+								Sisäänkäynti merelliseen maailmaan
+							</div>
+						</td>
+						<td class="gallery_col_hor_with_filler"><div class="gallery_filler"></div>
+							<div class="gallery_pic_hor">
+								<a href="004.jpg"><img src="004_thumbnail.png" width="320" height="240" alt="sisäänkäynti" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Jo tutuksi käynyt mies (Tuomo) toivotti meidät tervetulleiksi kylpylän vastaanottotiskillä.
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="005.jpg"><img src="005_thumbnail.png" width="320" height="240" alt="virvoittavia vesiä" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Virvoittavien vetten tykö hän meidät johdatti...
+							</div>
+						</td>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="006.jpg"><img src="006_thumbnail.png" width="320" height="240" alt="possuankan kyydissä" /></a>
+							</div>
+							<div class="gallery_col_text">
+								- Possuankan kyydissä -
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td class="gallery_col_hor_with_filler"><div class="gallery_filler"></div>
+							<div class="gallery_pic_hor">
+								<a href="007.jpg"><img src="007_thumbnail.png" width="320" height="240" alt="uimassa" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Kosteahko palaveri
+							</div>
+						</td>
+						<td class="gallery_col_vert">
+							<div class="gallery_pic_vert">
+								<a href="008.jpg"><img src="008_thumbnail.png" width="240" height="320" alt="pikkumäki" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Mökki veden ääreltä?
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="009.jpg"><img src="009_thumbnail.png" width="320" height="240" alt="syömään" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Tuomon ohjauksessa siirryimme yläkerran ravintolaan herkkupöytien äärille.
+							</div>
+						</td>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="010.jpg"><img src="010_thumbnail.png" width="320" height="240" alt="Ruokaa..." /></a>
+							</div>
+							<div class="gallery_col_text">
+								Joka ruoka pian on valmista?
+							</div>
+						</td>
+					</tr>
+				</table>
+			</div><!-- Story -->
+						
+			<!-- Story -->
+			<div class="story">
+				<div class="event_caption">
+					<span style="float: left">Uusi vuosi, uudet kujeet...</span>
+					<span style="float: right">To 01.01.2009</span>
+				</div>
+				
+				<!-- Ilotulitus -->
+				<p>Tästä se taas alkoi.</p>
+
+				<table class="gallery_table" summary="kuvat">
+					<tr>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="001.jpg"><img src="001_thumbnail.jpeg" width="320" height="240" alt="ilotulitus 1" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Pam!
+							</div>
+						</td>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="002.jpg"><img src="002_thumbnail.jpeg" width="320" height="240" alt="ilotulitus 2" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Pum!
+							</div>
+						</td>
+					</tr>
+				</table>
+			</div><!-- Story -->

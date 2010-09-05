@@ -1,0 +1,51 @@
+!mainColor = #131998
+!tableColor = #f7f7f7
+!selectedColor = #d7d7f7
+
+h1
+   color = !mainColor
+   
+h2
+   color = !mainColor
+   
+h3
+   color = !mainColor
+
+.columnLeftBox ul li a
+   color = !mainColor
+
+tr
+   background-color = !tableColor 
+
+td
+   vertical-align = "top"
+
+.story img
+   -moz-box-shadow = 4px 6px 16px #000
+   -webkit-box-shadow = 4px 6px 16px #000
+   box-shadow = 4px 6px 16px #000
+
+.pic_left
+   float = "left"
+   margin-left = 14px
+   margin-right = 14px
+
+.pic_right
+   float = "right"
+   margin-left = 14px
+   margin-right = 14px
+
+#index ul
+   line-height = 1.4em
+
+#index ul a:link, #index ul a:visited
+   text-decoration = "none"
+
+#index ul a:hover, #index ul a:active
+   text-decoration = "underline"
+
+#tai-tiedottaa img
+   margin-bottom = 1.5em
+   
+tr:hover 
+   background-color = !selectedColor

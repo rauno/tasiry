@@ -1,0 +1,30 @@
+---
+title:       Galleria 2010
+layout:      main
+active_menu: 8
+gallery:     4
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: Galleria
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-04T02:52:42+0300"/>
+---
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+         <span style="float: left"> Kevätkokous</span>
+         <span style="float: right">La 6.2.2010</span>
+      </div>    
+
+!kevätkokous1.jpg(Kevätkokous 2010)!
+   
+Tänä vuonna kevätkokous pidettiin Picnic-risteilyllä välillä Turku - Maarianhamina - Turku.
+
+Silja Galaxyn lähdettyä satamasta siirryimme kokoustilaamme. 
+
+      <div class="clear_next" style="text-align: center">
+         "Lisää kuvia":/galleria2010/kevätkokous/
+      </div>
+   </div>
+</div>			

@@ -1,0 +1,65 @@
+---
+title:       Senioritasilaiset muistelevat
+layout:      historiikki
+active_menu: 11
+keywords:    muisteloita
+description: Senioritasilaiset muistelevat
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:17:22+0300"/>
+---
+ <div class="story">
+
+h1=. Senioritasilaiset muistelevat
+
+Kuluvana juhlavuonna helmikuussa kokoontui herraseurue turkulaisen ravintolan kabinettiin muistelemaan menneitä. Paikalle oli kutsuttu TASIn perustajajäsen Rauno Blomvall ja 60-luvulta yhdistyksessä toiminut Esko Salonen. Heitä jututtamassa ja omalta osaltaan muistelemassa mukana olivat pj Jesse Mattila, Tuomo Hinkkanen, Jukka Niemensivu ja tämän jutun äänitallenteilta koostanut Jari Hiltunen.
+
+ <hr />
+
+p={margin:2em}. !senioritasilaiset.jpg(Rauno Blomwall ja Esko Salonen)!
+
+h2=. Sähkömiehen laulu
+
+p=. Ampeeri, monttööri, transformaattori
+kilowatti, voltti ja generaattori
+oikosulku ja proppu
+ja tähän minun lauluni loppu.
+
+ <hr />
+
+Rauno Blomvall muistaa 50-luvun oman maan rakentamisen aikana. Sotakorvauksista oltiin selvitty ja tekemistä riitti. Insinööriyhdistyksen perustamiseen vaikutti varmasti insinöörien asema silloisessa työelämässä. Yksi alkuaikojen kissanhännänveto oli Raunolla tuoreessa muistissa:
+
+bq. ??Vanhat sähköliikkeet olivat vanhojen sähköasentajien perustamia. Monet olivat toimineet itte asentajina ja muuta. Sitten ne joutus ottamaan insinöörin sinne sitten suunnittelupäälliköksi ja tämmöseks vastaavaksikin. Siinä tuli sitten pieniä ristiriitoja, kun tämä insinööri suunnitteli hienot systeemit ja sitten tämä liikkeen isäntä teki kaupat. Tietenkin hän kuvitteli olevansa kans taitaja. Kaupat saattoivat syntyä alihintaan. Siinä oli sitten pientä kahnausta näiden insinöörien ja liikkeen johtajien kesken.??
+
+bq. ??Tämä johti sitten eräissä liikkeissä insinöörien pätkätöihin. Insinööri palkattiin minimiajaksi, että oikeus tehdä sähkötöitä säilyi. Jopa ammattiyhdistystyyppisen toiminnan käynnistämistä harkittiin.??
+
+TASIn toiminta oli alkuvaiheessa koulutuspainotteista. Talvikuukausina pidetyt kuukausikokoukset pitivät sisällään aina esitelmiä ajankohtaisista aiheista. 
+
+bq. ??Koulutuksellinen puoli muodostui yhdistyksen alussa tärkeäksi. Sen tiesi, kun mekin tultiin opistosta, niin minäkin jouduin sen lyhyen saksan tulemaan toimeen. Koulutusta ei ollut muualla tarjolla. Se oli tavallaan hyvä asia, koska näin me saatiin ohjelmaa näihin kokouksiin. Melkein joka kokouksessa oli joku. Sittenhän me vaihdettiin puheenjohtajaakin melkein vuosittain ja aina oli uusia kavereita eri firmoista??, muistelee Blomvall.
+
+bq. ??Yhteismatkojakin tehtiin esimerkiksi sähköyhdistyksen kanssa, mutta yleensä koulutukset hoidettiin niin, että tänne tuli joku, kertoo Salonen. Niin ja yleensä hoidettiin niin, että tämä vieras tarjos iltapalan. Ja kahvit ja konjakit. Tämä oli sitä aikaa, kun konjakkikin virtas. Minäkin muistan kun kerran Siemensin tilaisuus tuolla oli, niin konjakkia kaadettiin piripintaan tohon aromilasiin. Sillonkin kävi niin, että isännät olivat pöydän alla ja me istuttiin??, jatkaa Blomvall.
+
+Tiedottaminen on alkuvuosista kehittynyt. Alkuaikojen puhelintiedottamisesta on kuljettu pitkä matka jäsenkirjeiden ja Turun alueen insinöörien yhteisen tiedottamisen kautta sähköposti- ja internetin kotisivuaikakaudelle.
+
+bq. ??Otettiin semmoinen tapa käytäntöön, että jaettiin jäsenluettelo hallituksen jäsenten kesken niin, että kukin ilmoitti omalle osalleen tulevista tapahtumista. Puhelimella käytännössä jokaiselle jäsenelle. Sieltä tuli silloin toistakymmentä per nenä jokaiselle ilmoiteltavaa??, muistelee Salonen 60-luvun tiedotuskäytäntöjä.
+
+bq. ??70-luvun alkupuolella sähköinsinöörit saivat vetovastuulleen Turun alueen insinöörien tiedotteiden julkaisemisen. Sähkökerho aloitti 1973 tai -74 ”TAI tiedottaa” –lehden toimittamisen. Siinä oli sitten mahdollisuus kertoa omastakin toiminnasta. Ja kerrottiinkin. Sekä tulevista että raportoitiin menneistä, kertoo Hinkkanen tiedottamisen jatkokuvioista. Yksi asia mikä lisäsi sähkömiesten aktiviteettia oli jännitteen vaihto satapiikistä kahteenkahteenkymmeneen 60-luvun alussa??, lisää Blomvall.
+
+bq. ??”TAI tiedottaa”-lehteä tiedottaa toimitettiin toistakymmentä vuotta. Hallitus oli siinä sellainen aktiiviporukka. Postimaksun sai halvemmaksi, kun kimputti lehdet postinumeroittain 5 kpl nippuihin. Ne olivat sellaisia kivoja parin tunnin talkoita. Kerran oltiin päätetty, että mennään syömään palkaksi. Mä pukeuduin siihenkin aikaan huonosti. Mulla oli kauluspaita, kravatti ja slipoveri. Portsari vaatikin ovella pikkutakkia. Olisin lähtenyt kotiin, mutta pojat puhuivat portsarilta sellaiseen kauhtuneen sinisen klubitakin. Se jäi heti tuolin selkänojalle, kun pääsimme sisään??, muistelee Hinkkanen ravintolasääntöjen kiemuroita.
+
+Kokoontumispaikkana oli alkuvuosina ravintola Killan kabinetti. Ravintoremontin yhteydessä 60- ja 70-lukujen taitteessa kabinetit hävitettiin ja uusi kokoontumispaikka löytyi ravintola Itämerestä ja Maakunnasta.
+
+bq. ??Mulle on jäänyt parikin tapausta näistä kokoontumisista mieleen. Kerrankin oltiin tuossa Maakunnassa. Niin siellä Itämeressä oli strippari esiintymässä silloin kun se oli muotia. Yleensä me pidettiin se oma kokous ja isännät olivat siellä ylhäällä kabinetissa. Ja kun kello tuli yhdeksän, niin hirveellä ryminällä mentiin sinne alas baariin missä oli tämä strippariesitys. Ja melkein joka kerta nähtiinkin se esitys??, muistelee Hinkkanen 70-lukua.
+
+bq. ??Kerran, kun mentiin suurella innolla, kello oli vielä vajaa, niin strippari keräili höyheniä sieltä lattialta ja pisti vaatteet päälle päällystakkeineen. Eikä tullut esiintymään meille, vaikka kuinka pyydettiin??, naurahtaa Hinkkanen.
+
+bq. ??Se oli Maasähkön kokous??, täydentää Niemensivu.
+
+bq. ??Sitä oikeastaan odoteltiin näitä kokouksia. Minusta oli hienoa kuulua tällaiseen joukkoon. Ja sitten yksi oli kiva, että  pääsi ravintolaan??, kiteyttää Hinkkanen.
+
+ </div><!-- Story -->
+
+ <!-- Markings going under the main story -->
+ <div id="footer">webmaster: rauno.uusitalo<span>!/pic/ats.png(@)!</span>gmail.com</div>
+ <div id="pic_button_next"><a href="/historiikki/1959/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+ <div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

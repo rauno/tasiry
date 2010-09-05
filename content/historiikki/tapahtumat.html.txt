@@ -1,0 +1,425 @@
+---
+title:       Tapahtumat 1959 - 2008
+layout:      historiikki
+active_menu: 13
+keywords:    tapahtumat
+description: Tapahtumat 1959 - 2008
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:19:07+0300"/>
+---
+ <div class="story">
+
+h1=. Yritysvierailut, kokoukset, esitelmät sekä kurssit 1959&nbsp;-&nbsp;2008
+
+table{border: 2px solid}.
+{background: #ddd}. |_. Aika|_. Kohde|_. Teema|
+|>. 1959&nbsp;03.03|Perustava kokous / SLO / Ins. Santala|Sähkölaitosten kompensointi|
+|>. 31.03|HELVAR / Ins. Kajavo|Moottorisuojakytkimet|
+|>. 20.04|MAANSÄHKÖ Oy / Ins. Lauri Ehanto|Releiden käyttö teollisuudessa|
+|>. 19.05|KAAPELITEHDAS (SKT) Oy / Ins. Laakso|Kaapeleiden jatkokset|
+|>. 28.09|KARJALAN SÄHKÖ Oy / Ins. L. Weckström|Karjalan Sähkö Oy:n tuotanto|
+|>. 26.10|VALTION SÄHKÖPAJA Oy / DI. Gummerus|Vakiojännitetasasuuntaajat ja niiden käyttö|
+|>. 23.11|WALLAC Oy / Tj. J. Wallasvaara|Kaukolämpömittaus ja geiger-mittari|
+|>. 1960&nbsp;22.02|Vuosikokous, PHILIPS / Ins. Sieberg, Fröberg|Valolähteet|
+|>. 08.03|Luonnoton kilpailu / Ins. Pekka Leivo|Epäterve kilpailu urakoitsijamarkkinoilla, sähkö-insinöörien palkkaus ja urakointiyhtiöiden vastuu pätevyyden valvonnassa|
+|>. 12.04|ASA-RADIO Oy / Ins. Saura|Televisio nyt ja tulevaisuudessa|
+|>. 10.05|Ins. LEPPÄ|Sähköjohdot elementtirakenteissa|
+|>. 25.05|IVO Oy|Naantalin höyryvoima-asemaan tutustuminen|
+|>. 20.09|KUUKAUSIKOKOUS|Ei esitelmää|
+|>. 11.10|ASEA / Ins. Sjöholm|Laitteiden suojaaminen salaman tuhoilta|
+|>. 09.11|IVO Oy / Numminen|Suomen voimahuolto|
+|>. 15.12|HANKKIJA OY / Ins. Hannula|Jäähdytyslaitteet|
+|>. 1961&nbsp;24.01|KUUKAUSIKOKOUS|Ei esitelmää|
+|>. 14.02|Oy SHELL Ab / Tekn. Pahrman|Öljypolttimet ja filmi ”Afrikan oloista”|
+|>. 14.03|IVO Oy / Naantali|Höyryvoimalaitos|
+|>. 07.04|SUOMEN PUHALLINTEHDAS Oy/DI. Degerth|Ilmastointi|
+|>. 09.05|DI. EINO LUMMAA|Nostureiden viimeaikaisesta kehityksestä|
+|>. 19.09|Kone- ja sähkökerhon yhteinen kokous / DI. Tirkkonen|Kaukolämmityksestä|
+|>. 23.10|KUUKAUSIKOKOUS|Ei esitelmää|
+|>. 23.10|TURUN KAUPUNKI / SÄHKÖLAITOS|Tutustuminen voima-asemaan|
+|>. xx.11|VALMET OY|Pansion telakka|
+|>. 1962&nbsp;16.01|KUUKAUSIKOKOUS|Filmi: ”On the back of beyond”|
+|>. 06.03|ASA Oy / Ins. Saura|TV-automatiikasta|
+|>. 03.04|KOPAL OY / Tekn. Näykki|Suurkeittiölaitteista|
+|>. 08.05|KUUKAUSIKOKOUS / Ins. Ranta-aho|Sisäjohtoasennuksista|
+|>. 06.11|Oy ESSO Ab|Öljypolttolaitteista ja filmi ”Kaasuttimen jäätymisilmiö”|
+|>. 11.12|VUOSIKOKOUS / Pj. Rauno Blomvall||
+|>. 1963&nbsp;13.02|SUOMEN KAAPELITEHDAS Oy / Ins. Matikainen|Loistehon kompensointi|
+|>. 05.03|Oy FRESTA Ab / Ins. Järvinen|Vuosikokous / Venttiilisuojat ja kontaktorit|
+|>. 21.05|TURUN YLIOPISTON KYLMÄFYSIIKAN LAITOS / Prof. Hovi|Kylmäfysiikka|
+|>. 15.10|IMATRAN VOIMA Oy / Naantali|Tutustuminen Naantalin voimalaitokseen|
+|>. 12.11|SÄHKÖ-LÄHTEENMÄKI|Saunailta  Paimiossa|
+|>. 1964&nbsp;14.01|Oy SIEMENS Ab / Ins. Vesa / VUOSIKOKOUS|Piitasasuuntaajat|
+|>. 14.04|UPO Oy / Lahti|Yritysvierailu|
+|>. 08.12|SIEMENS SÄHKÖ Oy / Kalevi Pohjola|Filmi: ”Aikamme syke”|
+|>. 1965&nbsp;18.01|BARKER Oy / Ins. Ajo|Barkerin kutomo|
+|>. 25.02|VUOSIKOKOUS||
+|>. 09-03|SUOMEN KAAPELITEHDAS Oy / Ins. Matti Pesola, ins. Pertti Lehos|Alumiinikaapelit|
+|>. 20.04|INSINÖÖRILIITTO ry / Ins. Timo Vainio|Vuoden 1963 palkkatiedustelun tulokset|
+|>. 18.05|PUOLIMATKAN RAKENNUSVALMISTE / Ins. Nurminen|Yritysvierailu Forssaan|
+|>. 28.09|TUOTTAJAIN KONE Oy / Ins. Heino, VUOSIKOKOUS, 3 - OTTELU|Linjanrakennustekniikan viime virtaukset, kaapeliarinat / teln. Pesonen|
+|>. 07.12|HANKKIJA Oy / Ins. Lilja|Performed-liitokset ja päätteet|
+|>. 1966&nbsp;18.01|BARKER-TEHTAAT / Ins. Ajo|Littoisten ALFA-tehtaan tuotanto|
+|>. 24.03|VUOSIKOKOUS||
+|>. 20.04|AIRAM Oy / Lampi|Yhteistilaisuus rak.insinöörien kanssa / Valaistus|
+|>. 25.04|Oy SRÖMBERG Ab / Vaasa|Yhteismatka Turunmaan Sähköyhd. kanssa|
+|>. 06.06|SIEMENS Oy / Ins. Miettunen|Valaisimet|
+|>. 11.10|SÄHKÖ-LÄHTEENMÄKI / Ins. T Vainio|3-ottelu ja esitelmä: ”SLM:n sähkökeskukset”|
+|>. 22.11|Oy ASEA Ab / Ins, B. Johansson|Varavoimakoneet|
+|>. 1967&nbsp;20.02|VALMET Oy|Ilmastointi|
+|>. 13.03|SÄHKÖLIIKKEIDEN Oy / DI. Homanen|Teollisuusvalaistus|
+|>. 20.04|SIEMENS Oy / Ins. Korte|Sähkömoottoreiden suojaus|
+|>. 19.05|VALMET Oy / Pansion telakka|Jäähdytysaluksen rakentaminen ja vesillelasku|
+|>. 05.06|TELESTE Oy|Yritysvierailu Telesten tuotantolaitokseen|
+|>. 18.09|HELVAR Oy / Hra Pietarinen|3-ottelu ja esitelmä: ”Helvarin vahvavirta-alan tuotanto|
+|>. 07.10|JALKAPALLO-CUP (Kerhot-TuTO:n mestarit)|Kone-sähkö-rakennuskerhot ja TuTO:n mestarit|
+|>. 1968&nbsp;12.02|VUOSIKOKOUS|Ei esitelmää|
+|>. 11.03|SKT Oy / DI. Luukonlahti, tekn. Hautala|Alumiinikaapelit|
+|>. 08.04|Oy HONEYWELL Ab|Tuotannon esittely|
+|>. 13.05|PSO Oy / Ins. Metso, tekn. Lindholm|Valaisimet ja asennustarvikkeet|
+|>. 09.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu ja uuden tehtaan esittely|
+|>. 14.10|VALIO Oy|Tutustuminen uuteen tuotantolaitokseen|
+|>. 11.11|Oy L M ERICSSON Ab|Pikapuhelinjärjestelmät|
+|>. 09.12|Oy AIRAM Ab / E.Lampi|Uudet valolähteet|
+|>. 1969&nbsp;23.01|Oy SUOMEN SIEMENS Ab|Sähkölämmitys|
+|>. 17.02|VUOSIKOKOUS|Ei esitelmää|
+|>. 10.03|MAANSÄHKÖ Oy|Asennustarvikkeet|
+|>. 14.04|Oy PHILIPS Ab / Ins. Vesterling, hra Wahlroos|Valaistus|
+|>. 12.05|WALLAC Oy|Yritysvierailu, nestelaskurit|
+|>. 08.09|SÄHKÖ-LÄHTEENMÄKI / Risku, Kataja|3-ottelu|
+|>. xx.11|Oy HELKAMA Ab / Hanko|Yritysvierailu yhdessä rak. insinöörien kanssa|
+|>. 1970&nbsp;28.02|HIIHTOKILPAILUT|Maarian Mahdin majalla|
+|>. 23.03|KAUPUNGIN SÄHKÖLAITOS Ins. Rauno Blomvall, tekn. Lehtinen|”Verkosto” ja ”Tariffipolitiikka”|
+|>. 08.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu Paimiossa|
+|>. 17.09|SAAB-VALMET Oy / Uusikaupunki|Yritysvierailu yhdessa TAI:n kanssa|
+|>. 20.10|Oy NOKIA Ab / DI. Valtonen, ins. Mannonen|Alumiinikaapeleiden asennustekniikat|
+|>. 12.11|SALORA Oy|Yritysvierailu Salon tehtaalle|
+|>. 24.11|LOUNAIS-SUOMEN SÄHKÖ Oy / Ins. Järvinen|Yritysvierailu Paimioon|
+|>. 15.12|PHILIPS Oy / Ins. Mattsoff|Uusi puhelinjärjestelmä|
+|>. 1971&nbsp;24.02|AIRAM Oy|Vuosikokous, sääntöjen hyväksyminen kerholle|
+|>. 13.03|PROSENTTIHIIHDOT||
+|>. 23.03|KELA / tekn. Liuke|Yritysvierailu|
+|>. 24.03|TELESTE Oy / Verho, Pekka Talvio|Yhteisantenni- ja äänentoistojärjestelmät sähköurakassa|
+|>. 06.04|TURUN KAUPUNKI / Ins.S.Virtanen|Tutustuminen sisätautisairaalan työmaahan|
+|>. 21.04|ROTAS Oy|Kaapelihyllyt ja -tikkaat, kiinnitystarvikkeet|
+|>. 08.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 12.10|MAANSÄHKÖ|Asennustarvikkeet|
+|>. 21.10|SYYSKOKOUS||
+|>. 02.11|PALOILMOITUSLAITOKSET-KURSSI|Turku|
+|>. 14.12|KURSSI TEKN. OPPILAITOKSELLA|Uudet sähkölaitoksen urakoitsijoita koskevat määräykset|
+|>. 1972&nbsp;09.02|TELESTE Oy|Esitelmä tuotannosta|
+|>. 08.03|WALLAC Oy|Kevätkokous, tuotannon esittely|
+|>. 25.04|LIEDON SÄÄSTÖPANKKI|Saunailta|
+|>. 13.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 18.10|TEATTERINÄYTÖS||
+|>. 1973&nbsp;18.04|NOKIA - TELESTE|Kevätkokous|
+|>. 12.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 10.10|KANSALLIS-OSAKE-PANKKI|Syyskokous|
+|>. 1974&nbsp;18.02|POHJOLA|Kevätkokous|
+|>. 12.03|Oy FINNMETRIC Ab / Ins.Salmi|Elektroniikan komponentit, mittalaitteet|
+|>. 17.04|Oy HEDENGREN Ab / DI. Vuorio, ins. Somiska|Pika-ja huoltopuhelimet|
+|>. 15.05|Oy PHILIPS Ab / Ins. Mattsoff||
+|>. 11.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 24.09|ÅBO AKADEMI|Tutustuminen cyclotroniin|
+|>. 09.10|ESMI Oy / H. Kivioja, Å. Wennström, R. Juhola|Aikakellot ja hälytyslaitteet, syyskokous|
+|>. 17.10|SALORA Oy|Yritysvierailu|
+|>. 13.11|3M COMPANY / Ekon. Wallasvaara|Tehokas vaikuttaminen, visuaaliset menetelmät|
+|>. 11.12|ASEA-SCANDIA||
+|>. 1975&nbsp;08.01|PIIPPOSEN SARJATUOTE|Tuote-esittely|
+|>. 05.02|JUHA-TUOTE|Tuote-esittely|
+|>. 12.03|Oy UPO Ab|Tuote-esittely|
+|>. 09.04|Oy DANFOSS|Tuote-esittely|
+|>. 14.05|Oy TELESTE Ab|Tutustuminen, palkkatiedustelun tulosten esittely|
+|>. 10.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 08.10|ITT|Tuote-esittely|
+|>. 12.11|SIEMENS Oy /  TAI G. Heyno, R. Oksanen|Teollisuusvalaisimet, TAI:n asiat|
+|>. 24.11|PIKKUJOULU||
+|>. 10.12|ASEA-SKANDIA|Raisio|
+|>. 1976&14.01|KUUKAUSIKOKOUS||
+|>. 11.02|Oy L M Ericsson Ab|Pikapuhelin-, henkilöhaku- ja paloilmoitinlaitteet|
+|>. 11.03|SAMPO-TARMO|Uudet toimitilat, vakuutukset|
+|>. 14.04|SÄHKÖLIIKKEIDEN Oy|Valaistuslaitteet ja asennustarvikkeet|
+|>. 12.05|Oy AKKUTEOLLISUUS Ab / J-V Kurki / IL|Akkujen esittely, IL:n tiedotukset|
+|>. 22.05|NOBÖ / NORJA|Tutustumismatka|
+|>. 08.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 13.10|SYYSKOKOUS||
+|>. 10.11|SIEMENS Oy|V. Kojonen: ”Liikenteenohjaus liikennevaloilla”|
+|>. 26.11.|PANSION MERIUPSEERIKERHO|Pikkujoulujuhla|
+|>. 08.12|ASEA-SKANDIA|Ulkovalaistus, ESV-turvapylväs|
+|>. 1977&nbsp;12.01|MAANSÄHKÖ Oy|Vara-ja turvavalot|
+|>. 09.02|KEVÄTKOKOUS|TAI / G.Heyno ja R. Oksanen|
+|>. 09.03|KUUKAUSIKOKOUS||
+|>. 13.04|KEMPPI Oy|Hitsausmuuntajat|
+|>. 06.05|NOKIA-KAAPELI|Tutustuminen Pikkalan tehtaaseen|
+|>. 11.05|INSINÖÖRIEN ROUVAT|Itämeri|
+|>. 14.09|ASEA-SKANDIA|3-ottelu|
+|>. 12.10|KUUKAUSIKOKOUS|Info ASA-radion insinööreille|
+|>. 09.11|VESI-ONNINEN Oy|Tuote-ja tilaesittely|
+|>. 18.11|Pikkujoulujuhla||
+|>. 14.12|AKKUTEOLLISUUS Oy|Akkurakenteet|
+|>. 1978&nbsp;11.01|A AHLSTRÖM Oy|I-Valon valaisimet ja asennustarvikkeet|
+|>. 08.02|KEVÄTKOKOUS||
+|>. 08.03|SIEMENS Oy|Jakokeskukset, sählämmittimet, lämpöpumput|
+|>. 12.04|ENVIG Oy|Hälytys-ja mittausjärjestelmät|
+|>. 10.05|GLAMOX-ELEKTRO|Loistevalaisimet ja sähkölämmittimet|
+|>. 20.09|ASEA-SKANDIA Oy|3-ottelu|
+|>. 11.10|SYYSKOKOUS||
+|>. 08.11|SIEMENS Oy|Automaattinen tekstinkäsittely|
+|>. 15.11|PHILIPS|Valonäyttely|
+|>. 25.11|PIKKUJOULU|Meriupseerikerho|
+|>. 13.12|Oy NOKIA Ab|Myyntikonttorin esittely|
+|>. 1979&nbsp;10.01|Oy DANFOSS Ab|Kontaktorit ja termostaatit|
+|>. 14.02|KEVÄTKOKOUS||
+|>. 14.03|TELESTE Oy|TV-satelliittivastaanotto|
+|>. 25.04|TURUN TELELAITOS|EKEVA-tilojen esittely|
+|>. 16.05|TS-YHTYMÄ|Artukaisten tuotantolaitos|
+|>. 12.09|ASEA-SKANDIA Oy|3-ottelu|
+|>. 10.10|ELTEKNO Oy|Sähkölämmityskaapelit|
+|>. 14.11|ALNOR Oy|Tuote-esittely|
+|>. 12.12|SÄHKÖLIIKKEIDEN Oy|Toimitilojen esittely|
+|>. 1980&nbsp;09.01|PUHELINTEOLLISUUS Oy|Sisäviestintälaitteet|
+|>. 13.02|KEVÄTKOKOUS|Lauri Åkerman: Järjestöasiat|
+|>. 12.03|KUUKAUSIKOKOUS|Raimo Oksanen: IL:n ja TAI:n ajankohtaiset asiat|
+|>. 09.04|MECAB Oy|Kaapelihyllyt|
+|>. 14.05|TELEFENNO Oy|DX-200 puhelinkeskusjärjestelmä|
+|>. 10.09|ASEA-SKANDIA Oy|3-ottelu|
+|>. 01.10|LSS Oy + TURUN KAUP. SÄHKÖLAITOS|Syyskokous, Sähkölämmitys|
+|>. 12.11|MAANSÄHKÖ Oy|Uusien toimitilojen esittely|
+|>. 10.12|NOKIA Oy / KAAPELITEHDAS|Kaapelituotteet|
+|>. 1981&nbsp;21.01|SÄHKÖLIIKKEIDEN Oy|SLO-1000 moniviestin, loistevalaisimet|
+|>. 11.02|KEVÄTKOKOUS|Oy THORSMANS AB:n  johtokanavat ja asennustarvikkeet|
+|>. 11.03|JUHA-SÄHKÖ Oy|Ohjauskytkimet ja merkkilamput|
+|>. 08.04|SUOMEN SÄHKÖTARVIKE Oy|Eristeet ja kipinänsammutuspiirit|
+|>. 06.05|SAMPO-YHTIÖT|Vastuuvakuutukset, saunailta|
+|>. 09.09|ASEA-SKANDIA Oy|3-ottelu, autojen sähkölämmitysjärjestelmä|
+|>. 14.10|SYYSKOKOUS|LANDIS & GYR:n energiansäätö- ja mittausjärjestelmät|
+|>. 11.11|TELESTE Oy|Satelliitti TV- ja äänentoistojärjestelmät|
+|>. 09.12|SÄHKÖLIIKKEIDEN Oy|Sähkölämmittimet ja sisustusvalaisimet|
+|>. 1982&nbsp;13.01|TELKO Oy|Yhteiskokous konekerhon kanssa|
+|>. 11.02|KEVÄTKOKOUS|Tmi Harry Ek: ”Teval-kattolämmitys”|
+|>. 10.03|LEO-KIUAS Oy|Kiuasuutuudet|
+|>. 15.04|SAAB-VALMET Oy|Autotehtaaseen tutustuminen|
+|>. 11.05|Oy HARTVALL Ab|Tutustuminen Kaarinan tehtaaseen|
+|>. 22.09|ASEA-SKANDIA Oy|3-ottelu|
+|>. 13.10|SYYSKOKOUS|Sähkö-Lähteenmäki|
+|>. 10.11|Oy L M Ericsson Ab|Tutustuminen Jorvaksen tehtaaseen|
+|>. 08.12|SÄHKÖLIIKKEIDEN Oy|Valaisimet|
+|>. 1983&nbsp;12.01|NOKIA Oy|Valokaapelit|
+|>. 09.02|KEVÄTKOKOUS|Onninen Oy:n tilat ja tuotteet|
+|>. 09.03|FINN-METRIC Oy|Mittalaitteet|
+|>. 13.04|ENVIC Oy|Hälytysjärjestelmät|
+|>. 11.05|TURUN SUOMALAINEN SÄÄSTÖPANKKI|TAI:n ja TSSP:n valinen talousturvasopimus|
+|>. 21.09|ASEA-SKANDIA Oy|3-ottelu|
+|>. 12.10|SYYSKOKOUS|Sähkö-Lähteenmäki Paimio|
+|>. 09.11|Oy LOHJA Ab|Turun tuotantolaitos, videot ja kuvalevyt|
+|>. 14.12|SÄHKÖLIIKKEIDEN Oy|Valaisimet ja kotimikrot|
+|>. 1984&nbsp;11.01|SKS SUOMALAINEN KONE Oy|Ohjelmoitavat logiikat|
+|>. 08.02|KEVÄTKOKOUS|Maansähkö Oy ohjelmoitavat logiikat|
+|>. 14.03|Oy SÄHKÖ Ab|Ohjelmoitavat logiikat|
+|>. 11.04|WALLAC Oy|Venelämmittimet|
+|>. 17.05|IMATRAN VOIMA Oy|Kevätretki Naantalin voimalaitokselle|
+|>. 12.09|ASEA-SKANDIA|3-ottelu|
+|>. 10.10|SYYSKOKOUS|Sähkö-Lähteenmäki Paimio|
+|>. 07.11|LANDIS & GYR Oy|Tuote-esittely|
+|>. 12.12|SÄHKÖLIIKKEIDEN Oy|Valaisimet ja sähkölämmittimet|
+|>. 1985&nbsp;09.01|WÄRTSILÄN TURUN TELAKKA / PERNO|Tutustumistilaisuus|
+|>. 13.02|KEVÄTKOKOUS|Clamox- Elektron  tuote-esittely|
+|>. 06.03|TELESTE Oy ANTENNI|Satelliittivastaanottojärjestelmät|
+|>. 10.04|ONNINEN Oy|Tuote-esittely|
+|>. 08.05|HELKAMA Oy|Valokaapelit|
+|>. 11.09|SÄHKÖ-LÄHTEENMÄKI|3-ottelu|
+|>. 09.10|SYYSKOKOUS|IL + L-S piiri; Matti Viljanen|
+|>. 13.11|Oy NOKIA Ab|Kirkkonummen tuotantolaitokseen tutustuminen|
+|>. 14.12|SÄHKÖLIIKKEIDEN Oy|Valaisin- ja sähkölämmitintuotteet|
+|>. 1986&nbsp;08.01|MOBIRA Oy|Tutustuminen Salon tehtaisiin|
+|>. 12.02|KEVÄTKOKOUS|Maansähkö Oy:n tuotteet|
+|>. 12.03|SUOMEN SÄHKÖTARVIKE Oy|Tuoteuutuudet|
+|>. 09.04|KYMI-STRÖMBERG|Releuutuudet|
+|>. 14.05|VAKUUTUSYHTIÖ POHJOLA|Vakuutusmuodot|
+|>. 10.09|ASEA-SKANDIA|3-ottelu|
+|>. 15.10|SYYSKOKOUS|Sähkö-Lähteenmäki|
+|>. 12.11|MASTER-YHTIÖT Oy|Teollisuusautomaation projektitoimitukset|
+|>. 10.12|SÄHKÖLIIKKEIDEN Oy|Valaisinuutuudet|
+|>. 1987&nbsp;14.01|TURUN TEKNILLINEN OPPILAITOS|Tutustuminen tieto- ja säätötekniikan laboratorio-ja opetustiloihin|
+|>. 11.02|KEVÄTKOKOUS|Oy Huber Ab:n toiminnan ja tuotteiden esittely|
+|>. 11.03|POLIISITALO / SÄHKÖ Oy|Liikennevalovalvontakeskus, Philipsin videokameraesittely|
+|>. 08.04|TURUN KAUPUNKI / TELESTE Oy|Valtuustosalin äänestyslaitteiston esittely|
+|>. 13.05|PARTEK Oy|Paraisten tuotantolaitokseen tutustuminen|
+|>. 09.09|ASEA-SKANDIA|3-ottelu|
+|>. 14.10|SAMPO-YHTIÖT|Vakuutukset|
+|>. 11.11|TURUN KAAPELITELEVISIO Oy|Tuotantotilat|
+|>. 09.12|SÄHKÖ-LÄHTEENMÄKI|Paimion tuotantotilat|
+|>. 1988&nbsp;13.01|SAAB-VALMET Oy|Automaatiojärjestelmät|
+|>. 10.02|KEVÄTKOKOUS|Sähköliikkeiden Oy, valaisimet ja sähkölämmittimet|
+|>. 09.03|GLAMOX-ELEKTRO Oy|Lämmitin- ja valaisinuutuudet|
+|>. 13.04|ESMI Oy|Valvonta- ja hälytysjärjestelmät|
+|>. 04.05|VAKUUTUSYHTIÖ POHJOLA|Vakuutukset|
+|>. 14.09|ASEA-SKANDIA|3-ottelu, PCP-kondensaattoreiden korvaaminen|
+|>. 12.10|SYYSKOKOUS|Högforsin sähkölämmitinuutuudet|
+|>. 09.11|NOKIA-DATA|Lähiverkot|
+|>. 14.12|STRÖMFORS Oy|Sähköasennuskalusteet|
+|>. 1989&nbsp;11.01|FINLANDIA INTERFACE Oy|Nykyaikaiset teholähteet|
+|>. 08.02|KEVÄTKOKOUS|Uudet valaisimet ja sähkölämmittimet|
+|>. 08.03|TURUN KAUPUNGIN TELELAITOS|Asiakaspäätelaitteet|
+|>. 12.04|AHLSTRÖM Oy / IITTALA|Lasi- ja valaisintehtaaseen tutustuminen|
+|>. 10.05|LOUNAIS-SUOMEN SÄHKÖ Oy|Askalan voimalaitos|
+|>. 19.09|ASEA-SKANDIA|3-ottelu, Strömforsin tuoteuutuudet|
+|>. 10.10|SYYSKOKOUS|Glamox Oy :n ja Sähkökonsultti Oy:n sähkölämmitin- ja valaisinuutuudet|
+|>. 08.11|SUOMEN SÄHKÖTUKKU Oy||
+|>. 25.11|PIKKUJOULU|Meriupseerikerho|
+|>. 13.12|JUHA-ELEKTRO Oy|Myyntimiesten sauna. Ruissalo|
+|>. 1990&nbsp;10.01|MAANSÄHKÖ Oy|Ohjelmoitavat logiikat ja kytkimet|
+|>. 07.02|>KEVÄTKOKOUS|Onninen Oy:n tuotevalikoiman esittely|
+|>. 14.03|STW SECURITY Oy|Sähköiset lukitusjärjestelmät|
+|>. 11.04|Oy ALKO Ab|Tuoteinfo|
+|>. 10.05|VARSINAIS-SUOMEN TELEOSUUSKUNTA|Yritysesittely|
+|>. 11.09|SÄHKÖLIIKKEIDEN Oy|3-ottelu, tuoteinfo|
+|>. 10.10|SYYSKOKOUS|Tutustuminen Siemens Oy:n Perkkaan tehtaaseen|
+|>. 08.11|TURUN POSTIKESKUS|Toiminnan esittely|
+|>. 24.11|PIKKUJOULU|Meriupseerikerho|
+|>. 12.12|SÄHKÖ-LÄHTEENMÄKI|Paimio|
+|>. 1991&nbsp;09.01|URHO TUOMINEN Oy|Tutustuminen Ulvilan tuotantolaitoksiin|
+|>. 13.02|KEVÄTKOKOUS|SYP:n Mini-SYP-järjestelmä|
+|>. 14.03|THORSMAN Oy|Tutustuminen Espoon toimitiloihin|
+|>. 10.04|GLAMOX-ELEKTRO Oy, SÄHKÖKONSULTTI Oy|Toiminnan esittely|
+|>. 08.05|SAMPO-YHTIÖT|Vakuutustoiminta|
+|>. 11.09|ABB|3-ottelu|
+|>. 13.11|SÄHKÖLIIKKEIDEN Oy|Kuukausikokous|
+|>. 23.11|PIKKUJOULU||
+|>. 11.12|RAISIO-YHTYMÄ|Yritysesittely, CTC päällystystutkimuskeskus|
+|>. 1992&nbsp;08.01|TELE|Videoneuvottelutilat Data-Cityssä|
+|>. 12.02|KEVÄTKOKOUS|AKAVA-talo|
+|>. 11.03 |TURKU-HALLI|Tutustuminen ulkoapäin|
+|>. 08.04|Oy YLEISRADIO Ab|Tutustuminen Kuusiston yleisradioasemaan|
+|>. 13.05|JÄÄNMURTAJA VOIMA|Murtajaan tutustuminen|
+|>. 09.09 |SÄHKÖLIIKKEIDEN Oy|3-ottelu|
+|>. 09.10|SYYSKOKOUS |AKAVA-talo|
+|>. 29.10|TURKU-HALLI|Tutustuminen, jääkiekko-ottelu TPS-HPK|
+|>. 21.11|PIKKUJOULU||
+|>. 09.12 |PUKKILA OY|Tutustuminen Turun Kaakelin tuotantoon|
+|>. 1993&nbsp;13.01|PAIMIO AMMATILLINEN AKK|Tutustuminen koulutuskeskuksen toimintaan|
+|>. 10.02|KEVÄTKOKOUS|AKAVA-talo|
+|>. 10.03|NOKIA CONSUMER ELECTRONICS|TV-tuotanto|
+|>. 14.04|WÄRTSILÄ-DIESEL|Tutustuminen diesel-tehtaaseen|
+|>. 05.05|TURUN ENERGIALAITOS|Tutustuminen sähkönkäytön valvomoon|
+|>. 08.09|ABB|3-ottelu|
+|>. 13.09|BENEFON Oy|Tutustuminen Salon radiopuhelintehtaaseen|
+|>. 10.11|E & D DESIGN|Tutustuminen teollisuusmuotoiluun|
+|>. 16.12|AURAN AALLOT|Työpaikkatoivekonsertti|
+|>. 1994&nbsp;12.01|SAMPO-YHTIÖT|ATK-keskukseen tutustuminen|
+|>. 09.02 |KEVÄTKOKOUS|AKAVA-talo|
+|>. 09.03|HÄTÄKESKUS|Tutustuminen hätäkeskuksen varapaikkaan|
+|>. 13.04|MERILIIKENNEKESKUS|Tutustuminen Nauvon meriliikennekeskukseen|
+|>. 04.05|SAMPO-YHTIÖT|Kuukausikokous|
+|>. 20.05|SÄHKÖINSINÖÖRIT 35-VUOTTA|ASS-klubi|
+|>. 14.09|ABB|3-ottelu|
+|>. 12.10|SYYSKOKOUS|AKAVA-talo|
+|>. 10.11|KAUPUNGINTEATTERI|Tutustuminen teatteriin|
+|>. 26.11|PIKKUJOULU||
+|>. 14.12|NESTE Oy|Tutustuminen Naantalin jalostamoon|
+|>. 1995&nbsp;11.01|SAARISTOMEREN LAIVASTO|Pansio|
+|>. 08.02|KEVÄTKOKOUS|AKAVA-talo|
+|>. 08.03|LEVER INDUS Oy|Tutustuminen Turun tehtaaseen|
+|>. 12.04|HUHTAMÄKI Oy|Tutustuminen Leafin tehtaaseen|
+|>. 10.05|TURUN TELELAITOS|Telealan kehitys tänään|
+|>. 13.09|ABB INSTALLAATIOT|3-ottelu|
+|>. 11.10|WALLAC Oy|Tuotantoesittely|
+|>. 25.11|PIKKUJOULU|Meriupseerikerho|
+|>. 1996&nbsp;10.01|NORDLAMEX SAFETY GLASS Oy|Yritysvierailu Laitilan tehtaalle|
+|>. 14.02|KEVÄTKOKOUS|AKAVA-talo|
+|>. 13.03|TELESTE Oy|Tuotannon esittely Littoisten tehtaalla|
+|>. 10.04|TURUN YLIOPISTON FYSIIKAN LAITOS|Avaruustekniikan laboratorioon tutustuminen|
+|>. 10.04|MASA-YARDS / PERNON TELAKKA|LGN-laivatekniikka ja alumiinin käyttö|
+|>. 18.09|HELKAMA-BICA|3-ottelu Hangon kaapelitehtaalla|
+|>. 09.10 |SYYSKOKOUS|AKAVA-talo|
+|>. 13.11|TS-YHTYMÄ|Hansaprintin painotalo Artukaisissa|
+|>. 1997&nbsp;08.01|IMATRAN VOIMA Oy|Naantalin voimalaitokseen tutustuminen|
+|>. 12.02|Kevätkokous||
+|>. 12.03|TELECOM FINLAND Oy|Toiminnan esittely|
+|>. 08.04|NOKIA MULTIMEDIA NETWORK TERMINALS|Multimediajärjestelmien esittely|
+|>. 14.05|SORMAT Oy|Kiinnitysjärjestelmät, tuote-esittely|
+|>. 17.09 |SLO MYYNTIKONTTORI|3-ottelu|
+|>. 15.10 |KVAERNER MASA YARDS / PANSIO|Kaapelialukseen tutustuminen|
+|>. 05.11|TURUN PUHELIN OY / EKEVA|Syyskokous|
+|>. 18.11|SEMI TECH Oy, Turku|TV-tuotantoon tutustuminen|
+|>. 29.11|HAMBURGER BÖRS (ESMERALDA)|Pikkujoulujuhla|
+|>. 1998&nbsp;04.02|LÄNNEN PUHELIN Oy, Raisio|Muutokset teletoiminnan kentässä|
+|>. 11.03|IDMAN / Valaisintehdas Mäntsälä|Valaisimet|
+|>. 08.04|TURKU ENERGIA, Turku|Sähkömarkkinoiden pelisäännöt|
+|>. 13.05|SALON SEUDUN PUHELIN Oy|Telemarkkinat tänään|
+|>. 15.09|SONERA Oy. Turku|3-ottelu|
+|>. 11.11|RAISIO-YHTYMÄ / Mallastamo, Raisio|Tutustuminen ja syyskokous|
+|>. 28.11|TAI:N TOIMISTO|Jouluglögi ja pikkujoulu|
+|>. 1999&nbsp;13.01|ENERCENTER Oy ,Turku|Kiinteistöautomaatio|
+|>. 10.02|TURUN PUSSI_ JA KIRJEKUORITEHDAS|Tuotantoon tutustuminen|
+|>. 10.03|VALMET AUTOMOTIVE Oy Uusikaupunki|Valmistusprosessi ja automaatio, Kevätkokous|
+|>. 28.04|ELECTRO-SCANDIA Oy, Raisio|Uudet toimitilat ja uutuustuotteet|
+|>. 12.05|Turun Yliopisto / Kasvitieteellinen puutarha|Kasvimaailman esittely|
+|>. 27.10|ELTEO-SÄHKÖ Oy, Turku|Yritysvierailu|
+|>. 11.11|PANIMO KOULU, Turku|Syyskokous ja panimon esittely|
+|>. 2000&nbsp;14.2|LÄÄNIN JOHTOKESKUS, Samppalinna|Johtokeskuksen ja viestilaiteiden esittely (VIRVE)|
+|>. 23.3 |GUESTLINK INTERNATIONAL Ltd, Turku|Kevätkokous ja tuotannon esittely|
+|>. 15.4|TURUN LENTOASEMA,  FINNAIR|Lentoaseman esittely ja lento ATR-koneella|
+|>. 13.10|ABB-CONTROL Paimio|3-ottelu|
+|>. 21.11|PANIMORAVINTOLA KOULU|Syyskokous|
+|>. 2001&nbsp;17.1|NEOREM MAGNETS Oy Ulvila|Toimintaan tutustuminen|
+|>. 29.3|TUNTURI Oy Ldt|Kevätkokous|
+|>. 12.5|POHJA (FISKARS JA PINJAINEN)|Kevätretki|
+|>. 15.9|KUHANKUONO|Luontoretki ja nyyttiruokailu|
+|>. 17.10|ELEKTROSKANDIA Raisio|3-ottelu|
+|>. 15.11|TURUN AMMATTIKORKEAKOULU|Syyskokous ja Audico Systems -esittely|
+|>. 1.12|RAVINTOLALAIVA LULU|Pikkujoulujuhla|
+|>. 2002&nbsp;13.2|KAUPPAKESKUS MYLLY Raisio|Tutustumiskäynti|
+|>. 6.3|HALOILA Oy Masku|Kevätkokous ja tustuminen yritykseen|
+|>. 13.4|CARIBIA|Kylpyläretki|
+|>. 15.5|TS-YHTYMÄ|Tutustuminen lehtitaloon|
+|>. 28.9|RETKI TEIJOLLE|Haltiapolku ja maastolounas|
+|>. 9.10|ONNINEN Oy|3-ottelu|
+|>. 13.11|AURIA Oy TURUN PUHELIN|Syyskokous|
+|>. 30.11|RAVINTOLALAIVA LULU|Pikkujoulujuhla|
+|>. 2003&nbsp;19.3|TELE-PROJEKTI OY|Kevätkokous ja yritykseen tutustuminen|
+|>. 8.4|FORTUM Oy Naantali|Tutustuminen voimalaitokseen|
+|>. 22.7|SAMPPALINNAN KESÄTEATTERI|Oklahoma|
+|>. 10.9|TYTYRIN KAIVOS Lohja|Tutustuminen Kone Oy:n hissilaboratorioon|
+|>. 14.10|SLO Oy|3-ottelu ja tutustuminen yritykseen|
+|>. 11.11|PANIMORAVINTOLA KOULU|Syyskokous|
+|>. 29.11|RAVINTOLALAIVA LULU|Pikkujoulujuhla|
+|>. 2004&nbsp;17.3|PANIMORAVINTOLA KOULU|Kevätkokous|
+|>. 22.4|RAISION AMMATTIOPISTO TIMALI|Digikameroista ja digikuvaamisesta -kurssi|
+|>. 15.4|HEUREKA VANTAA|Tutustuminen tiedepuistoon|
+|>. 5.6|TURUN LENTOASEMA|Lennätys Turun ympäristössä (107 osallistujaa)|
+|>. 30.7|SAMPPALINNAN KESÄTEATTERI|Kiss Me Kate|
+|>. 19.10|GISTELE OY|3-ottelu ja yritykseen tutustuminen|
+|>. 4.11|PANIMORAVINTOLA KOULU|Syyskokous|
+|>. 29.11|JULINIA-SALI|Pikkujoulujuhla / 45-vuotisjuhla|
+|>. 2005&nbsp;19.2|YLÄNEEN LUONTOKAPINETTI|Perheretki|
+|>. 19.3|PARATIISISAARI RYMÄTTYLÄ|Kevätkokous|
+|>. 2.7|SOMERON TRAKTORIMUSEO|Perheretki|
+|>. 12.10|TURKU ENERGIA|3-ottelu ja yrityksen esittely|
+|>. 1.11|PANIMORAVINTOLA KOULU|Syyskokous|
+|>. 2006&nbsp;11.2|CARIBIA|Kylpyläretki|
+|>. 4.3|MERI-TEIJO|Laskettelumatka|
+|>. 29.3|PERKIN ELMER (WALLAC)|Kevätkokous ja yrityksen esittely|
+|>. 18.4|TURKU KARTING Oy|Karting ajot|
+|>. 13.7|SAMPPALINNAN KESÄTEATTERI||
+|>. 19.10|TURUN PUHELIN OY Ekeva|3-ottelu|
+|>. 9.11|PANIMORAVINTOLA KOULU|Syyskokous|
+|>. 1.12|RAVINTOLALAIVA LULU|Pikkujoulujuhla|
+|>. 2007&nbsp;1.3|MS AMORELLA|Kevätkokous|
+|>. xx.12|NAANTALIN KYLPYLÄ|Pikkujoulujuhla|
+|>. 2008&nbsp;26.1.|CARIBIA|Kylpyläretki|
+|>. 28.2|PANIMORAVINTOLA KOULU|Kevätkokous|
+|>. 10.4|VARSINAIS-SUOMEN HÄTÄKESKUS|Tutustumiskäynti|
+|>. 17.7|KESÄTEATTERI EMMA, NAANTALI|Vares|
+|>. 15.10|SLO OY|3-ottelu|
+|>. 21.10|TUORLAN OBSEVATORIO|Tutustumiskäynti|
+|>. 19.11|PANIMORAVINTOLA KOULU|Syyskokous|
+|>. 29.11|NAANTALIN KYLPYLÄ|Pikkujoulujuhla|
+
+ </div><!-- Story -->
+
+ <!-- Markings going under the main story -->
+ <div id="footer">webmaster: rauno.uusitalo<span>!/pic/ats.png(@)!</span>gmail.com</div>
+ <div id="pic_button_next"><a href="/historiikki/toimihenkilot/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+ <div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

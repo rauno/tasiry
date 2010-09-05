@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi">
+<head>
+	<%= @item[:date] %>	
+   <meta name="author" content="Rauno Uusitalo"/>
+	<meta name="copyright" content="Turun Alueen Sähköinsinöörit TASI ry"/>
+	<meta name="keywords" content="TASI ry, TASI, historiikki, <%= @item[:keywords] %>"/>
+	<meta name="description" content="Turun Alueen Sähköinsinöörien historiikki 2008 - <%= @item[:description] %>"/>
+	<meta name="ROBOTS" content="<%= @item[:robots] %>"/>
+
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+	<meta http-equiv="content-style-type" content="text/css"/>
+	<% if @item[:refresh] > 0 %> <meta http-equiv="refresh" content="<%@item[:refresh] %>" /> <% end %>
+
+	<link href="/styles/tasi.css" rel="stylesheet" type="text/css"/>
+	<link href="/styles/tasi50.css" rel="stylesheet" type="text/css"/>
+	<link rel="shortcut icon" href="/pic/tasi.png"/>
+	
+	<title><%= @item[:title] %></title>
+</head>
+
+<body>
+   <div id="banner">
+      <div id="bannerPic" />
+  		<div id="header">
+   		<span style="float: left">
+   			Turun Alueen Sähköinsinöörit TASI ry</span>
+   		<span style="float: right">
+   			<a href="http://www.lousi.fi/" title="Aluetoiminta" onclick="window.open(this.href,'_blank');return false;">Lounais-Suomen Alueen Insinöörit LOUSI ry</a> |
+   			<a href="http://www.uil.fi/" title="UIL" onclick="window.open(this.href,'_blank');return false;">Uusi Insinööriliitto UIL ry</a></span>
+   	</div><!-- end header -->
+   </div><!-- end banner -->
+
+<!-- This is only shown with old IE browsers! -->
+<!--[if lte IE 6]>
+<div id="ie6" class="story">
+<img class="article_pic" src="pic/varoitus.png" width="156" height="144" alt="varoitus" />
+<h1>Selaimesi on vanhentunut!</h1>
+<p>Käytät jo kauan sitten vanhentunutta Internet Explorer -selainta. Tämä sivusto ei ole sen kanssa yhteensopiva ja sivut näkyvät väärin. Myös yksityisyytesi ja tietojesi turvallisuus voivat vaarantua!</p>
+Hyvä vaihtoehto on siirtyä vapaaseen koodiin perustuvan <a href="http://www.mozilla-europe.org/fi/firefox" target="_blank" title="Mozilla Firefox">Firefox-selaimen</a> käyttöön.  
+</div>
+<br />
+<![endif]-->			
+      			
+	<div id="columnRight">
+		
+   <!-- Main story -->
+   <%= yield %>
+
+   </div><!-- columnRight -->
+
+	<div id="columnLeft">
+		<div class="columnLeftBox">
+			<p><b>Valinnat:</b></p>
+			<ul>
+            <li><a name="alku" href="/index.html" title="Turun Alueen Sähköinsinöörit TASI ry">Poistu historiikistä</a></li>
+            <li><a href="/historiikki/" <% if @item[:active_menu] == 2 %> class="current" <% end %> title="Sisällysluettelo">Sisältö</a></li>
+            <li><a href="/historiikki/tervehdykset/" <% if @item[:active_menu] == 3 %> class="current" <% end %> title="Tervehdykset juhlaväelle">Tervehdykset</a></li>
+            <li><a href="/historiikki/historiaa/" <% if @item[:active_menu] == 4 %> class="current" <% end %> title="TASI – 50 vuotta sähköistä toimintaa">Historiaa</a></li>
+            <li><a href="/historiikki/kolmiottelu/" <% if @item[:active_menu] == 5 %> class="current" <% end %> title="Perinteiset kolmiottelut">Kolmiottelut</a></li>
+            <li><a href="/historiikki/norjanretki/" <% if @item[:active_menu] == 6 %> class="current" <% end %> title="Sähkökerhon kevätretki Norjaan eli tutustuminen sähkölämmitintehtaaseen ja valtamerikalastukseen">Norjanretki</a></li>
+            <li><a href="/historiikki/vuodensahkoins/" <% if @item[:active_menu] == 7 %> class="current" <% end %> title="'Vuoden Sähköinsinööri'-lautanen">Lautanen</a></li>
+            <li><a href="/historiikki/20v-juhlista/" <% if @item[:active_menu] == 8 %> class="current" <% end %> title="Kuvia TASIn 20-vuotisjuhlista 1979">20-v juhlista</a></li>
+            <li><a href="/historiikki/TAI-tiedottaa/" <% if @item[:active_menu] == 9 %> class="current" <% end %> title="TAI-tiedottaa -lehdestä">TAI-tiedottaa</a></li>
+            <li><a href="/historiikki/kuvia/" <% if @item[:active_menu] == 10 %> class="current" <% end %> title="Kuvia menneiltä vuosilta">Kuvia</a></li>
+            <li><a href="/historiikki/muisteluita/" <% if @item[:active_menu] == 11 %> class="current" <% end %> title="SenioriTASIlaiset muistelevat">Muistoja</a></li>
+            <li><a href="/historiikki/1959/" <% if @item[:active_menu] == 12 %> class="current" <% end %> title="Kuuluisuuksia TASI:n perustamisvuodelta">Vuonna 1959</a></li>
+            <li><a href="/historiikki/tapahtumat/" <% if @item[:active_menu] == 13 %> class="current" <% end %> title="Yritysvierailut, kokoukset, esitelmät sekä kurssit 1959 - 2008">Tapahtumat</a></li>
+            <li><a href="/historiikki/toimihenkilot/" <% if @item[:active_menu] == 14 %> class="current" <% end %> title="Syylliset tämän historiikin ilmestymiseen">Toimihenkilöt</a></li>
+            <li><a href="/historiikki/jasenmaara/" <% if @item[:active_menu] == 15 %> class="current" <% end %> title="Nousujohteista kehitystä">Jäsenmäärä</a></li>
+            <li><a href="/historiikki/hallitus/" <% if @item[:active_menu] == 16 %> class="current" <% end %> title="Insinöörinä olemisesta ja sellaiseksi tulemisesta">Insinöörinä</a></li>
+         </ul>
+		</div><!-- columnLeftBox -->
+	</div><!-- end columnLeft -->
+	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try
+	{
+		var pageTracker = _gat._getTracker("UA-11117040-1");
+		pageTracker._trackPageview();
+	} catch(err) {}
+	</script>
+</body>
+</html>

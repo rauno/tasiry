@@ -1,0 +1,277 @@
+---
+title:    Nykyinen hallitus
+layout:   historiikki
+active_menu: 16
+keywords:  hallitus
+description: Hallitus historiikkia tehtäessä
+robots:   ALL
+refresh:   0
+date:    <meta name="date" content="2010-09-03T23:23:58+0300"/>
+---
+ <div class="story">
+
+h1=. Insinöörinä olemisesta<br />ja sellaiseksi tulemisesta
+
+ <hr />
+ 
+h2. Hallituksemme 2009 
+
+* "Alpo Holsti":#Alpo
+* "Jouko Laine":#Jouko
+* "Tuomo Hinkkanen":#Tuomo
+* "Matti Lehtinen":#Matti
+* "Jukka Niemensivu":#Jukka
+* "Jari Hiltunen":#Jari
+* "Markku Kokkonen":#Markku
+* "Jesse Mattila":#Jesse
+* "Rauno Uusitalo":#Rauno
+* "Pertti Degerholm":#Pertti
+
+ <hr />
+
+h2. <a name="Alpo">Teleinsinöörinä puolustusvoimissa</a>
+
+p<{margin-top: 0em; margin-right: 1.5em; margin-bottom: 0.5em; margin-left: 1em; float: left}. !(pic_shadow)Alpo.jpg(Alpo Holsti)!
+
+Jo pikkupoikana päätin, että minusta tulee radioteknikko. Hakeuduin kuitenkin Helsingin teknillisen oppilaitoksen ”paksusähkölinjalle”, josta vaihdoin aluksi tilanpuutteen vuoksi puhelinmiesten pariin ja sieltä radiomiesten joukkoon.
+
+Valmistuin 1964 radioinsinööriksi. Lueskelin innolla amerikkalaisia radioalan lehtiä ja näissä oli runsaasti sotilaselektroniikkaa sisältäviä juttuja. Keväällä 1964 Puolustusvoimat haki palvelukseensa insinöörejä ja niinpä hakeuduin pariinkin sotaväen tehtävään.
+
+Helsinki kiinnosti, koska olin saanut erillisen suosituksen Teknilliseen korkeakouluun, mutta silloinen työhönottaja, Sähköteknillisen osaston eversti Levä, puhui minut Turkuun, jossa olivat sukulaiseni ja palkkauskin hieman parempi. Päädyin siis Turkuun 2. Divisioonan Esikuntaan. Komentajana oli kenraali Adof Ehrnrooth ja viestitoimiston päällikkönä majuri Leevi Uusipaikka, joka oli erittäin ahkera virkamies ja teki yksinään lähes koko toimiston työt.
+
+Pikkuhiljaa tehtäviä kertyi minullekin. Tärkeimpänä toimialueena oli kiinteän verkon järjestelmiin (kaapeliverkot, linkit, keskukset) liittyvät suunnitteluun ja käyttö- ja kunnossapitoon kohdistuvat toimenpiteet. Lähes alusta asti työn kuvaan liittyi myös varojen käyttö ja hankintatoimi.
+
+Aikanaan rahojen kanssa puljaamista ei pidetty kovin seksikkäänä puuhana, siksi lankesi toimenkuvaan myös mm. sähköteknillisen alan (tutkat ja laskimet), kaiutinverkkojen, merivalvonta-verkkojen ja turvateknisen alan varojen jako- ja käyttö. Toimin myös 20 vuotta Esikunnan ja erillisjoukkojen työsuojelupäällikkönä.
+
+h3. Verkkoja rakentamassa
+
+Puolustusvoimissa on ollut tapana tehdä kaikki itse niin pitkälle kuin mahdollista. Aluksi varoja oli hyvin niukasti käytettävissä. Rakentavaa voimaa oli viestitoimistossa piiriasentajan nimikkeellä ja viestivälinekorjaamolla. Asentajien kanssa kävimme katselemassa tyttöjä eli korjaamassa keskuksia laajalla toimialueellamme.
+
+2. DE:n alue ulottui Niinisalosta Porvooseen. Suunnittelimme mm. alueverkkoja. Säkylässä saimme aikaan mielestämme hyvän ja edullisen verkkoratkaisun, jonka perusteella lähetimme tilauksen Pääesikuntaan. Kun kaapelit aikanaan saapuivat perille pituudet ja parimäärät eivät vastanneet alkuunkaan tilausta. Teimme pikaisesti uuden suunnitelman ja materiaalista rakennettiin se tärkein osuus mitä siitä pystyi rakentamaan. Kaivuut tehtiin lapiotyönä varusmiesvoimin. Maataloustöihin varusmiehiä mielestämme saatiin mutta vaati usein suurta diplomatiaa saada varusmiehiä meidän tarpeisiimme. Lisäksi kaupunkialueella oli luvat saatava myös katurakennusosastolta, joka lisäksi vahti, että maa-ainekset palautettiin monttuun oikeassa järjestyksessä.
+
+Linkkiasentajamme oli auringontarkka mies ja kun hänen kanssaan käytiin asemilla eväätkin syötiin tarkalleen määrätyissä paikoissa. Erään kerran lähetettiin varusmiesasentaja korjaamaan BB:n linkkiä ja kun sinänsä onnistuneeksi korjaustoimenpiteeksi osoittautui potku tiettyyn kohtaan telinettä, niin melkoiset moitteethan siitä seurasi.
+
+Köyhää aikaa jatkui, josta johtui, että erilaisia laitteita, kuten modeemeja ja välittimiä rakennettiin itse. Köyhyydessä oli etunsa, kun esimerkiksi paljon käsityötä vaativia KNF-vaihteita rakennettiin pari-kolme kuukautta, muodostui laitteisto tutuksi.
+ 
+Merivalvontaradiokalustoa olin hakemassa Kööpenhaminasta ja sen asentamisessa ja koulutus-tehtävissä meni runsaasti aikaa. Projektia koordinoiva Pääesikunnan insinöörieversti oli vaativa herra. Työaikaa ei laskettu ja työpaikalta oli melkein karattava tehdessämme hommia silloisella Viestikeskuskorjaamolla. Erinomaista oli se, että esittäessäni lisää varoja projektiin sitä saatiin tyyliin ”Perkele, osta nyt sitten vaikka Rolls Royce”.
+
+h3. Organisaatiot muuttuvat
+
+2. DE:sta tuli aikanaan (1966) Lounais-Suomen Sotilasläänin Esikunta, sittemmin Turun ja Porin Sotilasläänin Esikunta ja myöhemmin alan toiminnot siirtyivät Läntisen Maanpuolustusalueen 3. Tietotekniikkakeskukselle. Ja organisaatiouudistukset yhä jatkuvat. Suorittavaan organisaatioon kuului loppuvaiheessa välitysjärjestelmäryhmä, siirtojärjestelmäryhmä, paikallis- ja alueverkkoryhmä, tietojärjestelmäryhmä, tietopalveluryhmä ja järjestelmän hallintaryhmä sekä vastaavia toimintoja suorittava Vaasan Tietotekniikkayksikkö.
+
+Henkilökunta oli koulutettua ja osaavaa. Kävimme lukuisia neuvotteluja käyttäjien ja toisaalta operaattoreiden kanssa. Näissä neuvotteluissa oli tärkeätä myydä idea vastapuolelle ja jakaa näin myös kustannuksia. Ratkaisevaa oli saada pääesikunnan asiantuntijoiden tuki toimille.
+
+Mielihyvällä otimme vastaan vuosittaiset kehut siitä, että Turulla on esim.dokumentit kunnossa. Tästä lankeaa kiitokset dokumentoijallemme, joka piti teleinsinöörin lisäksi muunkin henkilöstön kurissa, vaatien tiedot tehdyistä muutoksista.
+
+Projektien onnistumisten taustalla oli yleensä se, että niihin saatiin kootuksi hyvä 2 – 4 hengen tiimi. Organisaatioiden muuttumiseen liittyi myös joukko-osastojen osallistuminen aiempaa runsaammin myös varuskunnan kiinteiden verkkojen ja laitteiden asennuksiin ja huoltoon. Omat asiantuntijamme pitivät koulutustilaisuuksia ja usein oli myös mahdollisuuksia saada ulkopuolista koulutusta. Halukkuutta koulutuksiin oli kuitenkin aina enemmän kun mahdollisuudet sallivat.
+
+h3. Vanhoja muistellen
+
+Aika kultaa vanhat muistot, mutta tuntuu siltä, että joskus työnteko tuntui syntisen hauskalta. Alusta alkaen Lääninhallitusjohtoisessa TEVA / TIVA toiminnassa mukana olleena, viestipäälliköidemme kanssa kävimme useita keskusteluja sähkö- ja puhelinlaitoksissa, järjestimme viestisuunnistuksen nimellä kertausharjoituksia ja pidimme sisäisiä koulutustilaisuuksia omien asiantuntijoiden avustuksella.
+
+Kerran otimme vastaan Pääesikunnan viestiosaston vierailun vastaan läänin rajalla kuohuviinitarjoilulla ja paikalla seisoneesta mustamaijasta tarkkailtiin uteliaina virkapukuisten sotilaiden valmistautumista seremoniaan. Merikaapeliverkko vaati myös aikanaan tarkastuskäyntejä, jotka auringon paistaessa ja tyynellä säällä kävivät lähes lomasta. 
+
+Työtehtäviin kuului myös vesialueiden ja siihen liittyvien troolaus- ja läjitysalueiden selvitykset, maanomistusolojen selvitykset sekä sopimusten teko. 
+
+Eräältä omistajalta, leskirouvalta, hain kerran nimeä sopimukseen kesälomareissulla vaimoni kanssa. Ennen kuin nimi paperiin heltisi piti minun soutaa omistajan vene telakalle ja emännän ostaa pari kennoa kananmunia. Hankintatoimiin liittyen muistelen, kun aikanaan rakennettiin FM 120/7000 linkkien aaltoputkilinjaa, saimme Telen miehiltä vinkkiä, että putket olisi syytä puhdistaa sisältä. Puhdistukseen soveltuisi erinomaisesti Helmi-side, jossa on silmukat molemmissa päissä vetolangan kiinnittämiseksi. Mielenkiinnosta kävin itse hankkimassa runsaan erän siteitä että pääsin katselemaan myyjän ilmettä, kun ilmoitin laskutusosoitteeksi Lounais-Suomen Sotilasläänin Esikunta. On kuulemma tavaraa vieläkin jäljellä.
+
+Muistui mieleen myös Ilmatorjunnan hankinta kondomeista, jossa joutuivat selvittelemään, miten niitä käytettiin koeammunnoissa. Oli halvempi kuin pilotpallo viemään tutkamaalipallo yläilmoihin
+
+h3. Lopuksi
+
+Organisaatiot muuttuvat, mutta aina työt tehdään jollakin organisaatiolla, omalla tai vieraalla. Sellaisen havainnon olen tehnyt, että nuoret upseerit ovat nyt teknisesti hyvin selvillä asioista. Esimerkiksi viimeisellä viestipäällikölläni oli erinomainen taito sisäistää asioita. Kansainvälinen kanssakäyminen on tuonut samoin tyylikkyyttä toimintaan.
+
+Näin ajattelee viestimies, joka Itä-Suomen kolleegan mukaan on tehtävästään ”ensimmäisenä elävänä eläkkeelle selvinnyt teleinsinööri”.
+
+Alpo Holsti
+ins-evl, evp
+
+ <hr />
+
+h2. <a name="Jouko">Jouko Laine</a>
+
+Olen Vampulassa syntynyt ja nykyään Liedossa asuva reilun 40 ikäinen sähköinssi. Opiskelin aikanaan Porin tekussa ja pääsin sieltä intoa uhkuen lamasuomeen 93. Päättelin näet aikanaan, että sähköä ihmiset tarvitsevat aina, joten siitä ura urkenee, väärässä olin. Päädyin Sallilan Sähkölaitokselle Huittisiin, jossa olin töissä kaikki opiskelukesät ja tein sinne myös inssityöni.
+
+Sen ylempänä en olekaan urallani ollut kuin 20kV:n sähkölinjaa tekemässä. Valmistuin siis pahaan lama-aikaan vuonna 1993, jolloin ammattia vastaavan työn saanti oli hankalaa. Päädyin kuitenkin Turkuun, mistä alkoi myyntipainotteinen urani, joka on jatkunut elektroniikan parissa. Huomasin pian, että haluan olla monikulttuurisessa työssä erilaisten ihmisen parissa joten markkinointia muodossa tai toisessa, mikä on tyypillinen kohtalo insinöörille, on jatkunut.
+ 
+Jouko J Laine
+
+ <hr />
+
+h2. <a name="Tuomo">Miten minusta tuli sähköinsinööri</a>
+
+p<{margin-top: 0em; margin-right: 1.5em; margin-bottom: 0.5em; margin-left: 1em; float: left}. !(pic_shadow)Tuomo.jpg(Tuomo Hinkkanen)!
+
+h3. Ylioppilaaksi Kokemäellä
+
+Kokemäen yhteiskoulun lukioluokassa 1960-luvun puolivälissä pohdin yhdessä parhaan poikakaverini Simon kanssa, mitä meistä aikuisena tulisi. Valinta oli vaikea. Ammatinvalinnan nimissä meille oli käynyt esittäytymässä eri ammatteihin kouluttautuvia ja kouluttautuneita nuoria. Kaikki tuntuivat onnistuneen valinnoissaan.
+
+Sitten muistin mitä olin lapsuuden idolilleni Kauko-serkulle luvannut, kun minulta kysyttiin mikä minusta isona tulee. Käyn samat koulut kuin Kaukokin, oli varma vastaukseni. 9 vuotta vanhempana Kauko oli minulle kuin isoveli. Mehän asuimmekin samassa talossa. Kauko opetti minua auliisti pikku askareissa, valokuvauksessa, puutöissä ja sakissa.
+
+Suoriuduttuani ylioppilaskirjoituksista keväällä 1967 valmistauduin pyrkimään Teknilliseen Korkeakouluun sähköosastolle Otaniemeen.
+
+h3. Polille pyrkimään
+
+Kävin seitsemän muun Kokemäellä kirjoittaneen koulukaverini kanssa Polin viimeisen karsintakurssin; 4 viikkoa fysiikan ja matematiikan luentoja päivittäin ja lopuksi koe kummastakin aineesta. Asuimme Teekkarikylässä Otaniemessä ja ihmettelimme Dipolin rakenteellisia kummallisuuksia. Ennen kaikkea opettelimme olemaan poissa kotoa.
+
+Kaverini Simo meni eräänä helteisenä sunnuntaina Helsingin uimastadionille aurinkoa ottamaan ja tyttöjä tiirailemaan. Tultuaan iltapäivällä kämpille, Simo vetäisi ylleen silloin muotia olleen verkkopaidan ja nukahti selälleen sängylle. En ole eläissäni nähnyt niin suurta näkkileipäkuviota kuin silloin Simon tulipunaiseksi palaneessa selässä.  Ei onnistunut Tuomolta Polille pääsy. Liian vaikeat luennot ja kokeet tai liian hidas äly pistivät hanttiin. 
+
+h3. Tampereen Tekulle
+
+Seuraava yritys insinööriopintoihin tapahtui kesän loppupuolella. Tuolloin Tampereen maineikkaalle Tekulle järjestettiin ylioppilasluokkien yksipäiväinen pääsykoe. 1960-luvun lopulla oli ilmeisesti insinööreistä kova pula, koska heidät piti saada valmistumaan kolmessa vuodessa. Tähän tarjosi mahdollisuuden ylioppilaiden pikakoulutus. 
+
+Koulutus piti sisällään tarvittavat matemaattiset aineet sekä ammattiaineet. Kieliä sen sijaan emme opiskelleet ollenkaan. Käytössä oli pari englanninkielistä oppikirjaa. Polin kokeesta viisastuneena ilmoittauduin rakennuspuolelle, olinhan ollut edelliskesänä kuukauden rakennustyömaalla siivoamassa. Kesken kokeen iski kuitenkin epävarma olo. Kerrottiin, että kaikki hyväksytyt eivät mahdu rakennuspuolelle, mutta sähköpuolella on tilaa. Siis vaihtoehdoksi sähkö.
+
+Tekun ahkerat opettajat tarkistivat pääsykokeiden tulokset vielä samana iltapäivänä. Illan suussa julkistettiin tulokset. Ei se häävisti mennyt: Sähköosasto, neljäs varalla, Hinkkanen Tuomo
+
+h3. Tampereen Tekulle, vaikka vähän myöhässä
+
+Syyskuun alku 1967 oli siihenastisen elämäni pitkästyttävintä aikaa. Päivittäiset puhelut Tekulle eivät aluksi olleet lainkaan lohdullisia. Noin viikon soittelun jälkeen varmistui että pääsen aloittamaan insinööriopinnot sähköosastolla Tampereen Tekussa. Ei tarvinnut lähteä Turkuun opiskelemaan matematiikkaa.
+
+h3. 3 vuotta Tampereella
+
+Alkukankeuden jälkeen opinnot lähtivät rullaamaan kohtalaisen sujuvasti. Tutustuin Tampereeseen, opiskelijatovereihini, opiskelijaelämään ja moneen muuhun. 
+
+Opintojen välikesät asuin kotona Kauvatsalla ja kävin töissä Kokemäellä Kolsin vesivoimalaitoksella. Täällä monet teoria-asia konkretisoituivat käytännön soveltamiseksi. En tiedä onko uraputkeni ollut nousussa yhtä jyrkässä kulmassa kuin voimalaitoskesinä. Ensimmäinen työni oli pestä puretun käämittäväksi tuodun sähkömoottorin laakerit. Jälkimmäisen kesän loppupuolella ajoin valvomossa laitosta, jopa öisin yksin.
+
+h3. Turkuun
+
+Valmistumiskevät oli täynnä muutoksia. Syksyllä 1969 olin tavannut Riitan, jonka perässä muutin Turkuun. 
+
+Ensimmäinen työpaikkani oli Sähkö Lehtonen & Leppä Oy. Muistan varsin elävästi kun silloinen sähkökerhon sihteeri Jorma Poikola tuli henkilökohtaisesti kertomaan minulle sähköinsinöörien toiminnasta ja pyysi minua mukaan seuraavaan kokoukseen. Lähdin. Samalla tiellä olen vieläkin.
+
+h3. Yli 35 vuotta TASIa
+
+Toimintani TASIssa, tai niin kuin silloin sähkökerhossa, alkoi tavallisena rivijäsenenä. Sitten hallitukseen, varapuheenjohtajaksi ja puheenjohtajaksi. Tämän jälkeen toimintajakso Insinööriliitossa ja Turun Alueen Insinöörit Ry:ssä. Sitten taas TASIin
+
+Sähkökerhon/TASIn toimintaa voi luonnehtia pitkäjänteiseksi ja perinteitä vaalivaksi. 70- ja 80-luvuilla tilaisuuksia järjestettiin lähes säännönmukaisesti 9 kertaa vuodessa. Ohjelmaan mahtui niin yritysvierailuja, lentoja Turun yllä, kolmiotteluja kuin pikkujoulujuhliakin. TAIn lehden toimittaminen neljästi vuodessa oli saavutus sinänsä. 90- ja 2000-luvut ovat tuoneet ohjelmaan perhetapahtumat kuten Caribian kylpyläpäivän, kesäteatterin, luontoretket ja charterlennot.
+
+TASIssa on ollut miellyttävää ja helppoa toimia. Sen hallitus on aina toiminut aktiivisesti ja täten tehtävät on ollut helppo delegoida. Hallituksen jäsenet ovat sitoutuneet yhteisiin tavoitteisiin. Itse olen kokenut kaikenlaisen helppouden johtuvan pitkälti siitä, ettemme politikoi emmekä väittele uskonnoista tai muista henkilökohtaisia mielipiteitä sisältävistä asioista. Yhteinen tekijä TASIlaisille on sama koulutustausta, mielenkiinto sähköalaan sen eri muodoissa sekä yhteenkuuluvuuden tunne pitkäaikaisine tuttavuuksineen ja ystävyyksineen.
+
+Jatkuvuuden turvaamiseksi tarvitsemme uusia nuoria aktiivisia jäseniä joukkoomme. Vuosikymmeniä kestänyt aktiivinen toiminta on tietenkin hyvä mutta tilaa pitää olla myös nuorille.
+
+Tuomo Hinkkanen
+
+ <hr />
+
+h2. <a name="Matti">Matti Lehtinen</a>
+
+Valmistuin 1980-luvun lama-aikaan. Silloinkin oli lamaa, niin kuin tänä päivänä. Työpaikat olivat kiven alla. Joten pääsyynä mennä mukaan Sähkökerhon (jolla nimellä TASI silloin oli) toimintaan oli kontaktien luominen ja työmahdollisuuksien haistelu. 
+
+Eipä pahitteeksi nuorelle opiskelijalle / työttömälle ollut hyvät illallisetkaan juomineen. Toiminta oli siihen aikaan, voisi varmaan sanoa, vilkkaampaa. Ihmisille tällainen yhteistoiminta oli "tärkeämpää kuin perhe", joten tilaisuuksissa kävi joka kerta muutamia kymmeniä ihmisiä. Kontakteja syntyi ja työpaikkakin löytyi. 
+
+Siitä alkaen olen ollut toiminnassa mukana. Ensin jäsenenä. Jossain vaiheessa pääsin hallitukseen. 
+
+TASI-urani on kulkenut latua hallituksen jäsen-hallituksen puheenjohtaja-nykyisin sihteeri.
+
+Matti Lehtinen
+
+ <hr />
+
+h2. <a name="Jukka">Jukka Niemensivu</a>
+
+Opiskellessani 70-luvulla Turun teknillisessä oppilaitoksessa istuin etupulpetissa. Seuratessani opet-tajan työskentelyä kateederilla usein mietin, että tuo opettajan homma on sellainen, johon en ikinä ryhtyisi. Valmistuessani vuonna 1977 tietoliikenneinsinööriksi Suomessa vallitsi sen ajan mittapuun mukaan suuri työttömyys, ja meidänkin luokalta vain parilla oli koulutusta vastaava työpaikka odotta-massa. Aikaisemmin 70-luvun alussa työnantajat olivat kilpailleet valmistuvista teleinsinööreistä järjestämällä heille saunailtoja, ja valmistuvilla oli varaa valita useammasta työpaikasta se mieluisin ja rahakkain. Sähkölähteenmäki Oy kuitenkin vielä jatkoi perinnettään ja kutsui opistojen sähkölinjojen valmistuvia luokkia vuorollaan saunomaan vierastiloihinsa Paimioon. Sauna, uima-allas, ruokaa ja olutta riittämiin. Hetkeksi ainakin unohtui valmistuvalla insinöörillä edessä häämöttävä työttömyys.
+
+Työttömyyden seurauksena Suomessa oli vireätä ammatillinen kurssitoiminta, ja ei aikaakaan, kun huomasin olevani työssä opettajana Paimion ammatillisessa kurssikeskuksessa. Opetustyössä, siihen-hän minun ei ikinä pitänyt ryhtyä, mutta toimentulon turvaaminen  saa aikaan ihmeellisiä asioita. Työttömyyden seurauksena opettajan toimia oli paljon , ja meidänkin kurssilta melkein puolet päätyi opettajan tehtäviin ammattikouluihin ja kurssikeskuksiin.
+
+Useamman vuoden oltuani opettajan tehtävissä hankkiuduin teollisuuden pariin ja sain paikan Wallac Oy:stä. Laatuinsinöörinä tein töitä runsaat seitsemän vuotta, ja vuonna 1990 ympyrä minun kohdaltani sulkeutui, kun palasin Samppalinnan mäelle tuttuun opinahjooni laboratorioinsinööriksi ja siinä tehtä-vässä olen edelleen.
+
+70-luvun lopussa olessani insinööreille järjestetyllä kaupallisella kurssilla, kaksi kurssilaista sai minut houkuteltua Sähkökerhon kuukausikokoukseen. En tiennyt mitään kyseisestä kerhosta, vaikka keltaisia TAI-tiedottaa julkaisuja oli silloin tällöin tupsahdellut postiluukusta. Kokous oli ravintola Itämeren kabinetissa, ja illan isännän (olisiko ollut Philips Oy) yritys- ja tuote-esittelyn jälkeen tarjottiin iltapala oluineen ja lopuksi vielä kahvi konjakin kera. Tämä oli nuorelle insinöörille arvoa nostattavaa ja tämän jälkeen ei ollut epäselvää, mikä tapahtuma on aina  kuukauden toisena keskiviikkona. Aktiivisuuteni vanhojen kerholaisten keskuudessa varmaan huomattiinkin, koska muutamaa vuotta myöhemmin minulle tarjottiin kerhon sihteeri-rahastonhoitajan tointa lausahduksella “ei siinä ole paljon hommia”. En osannut kieltäytyä ja sitä yhdistettyä tointa tein kymmenkunta vuotta, jolloin ne eriytettiin ja pääsin sihteerin hommista, mutta rahastonhoitajana on menossa 27. vuosi. Näiden kolmenkymmenen vuoden aikana on tullut tutuksi suuri joukko Varsinais-Suomalaisia sähköinsinöörejä, jos ei ihan kaikki henkilökohtaisesti niin ainakin nimeltä, sillä sihteerin toimessa ja kolmen Sähkökerhon matrikkelin toimittamisessa mukana olleena on nimet tulleet tutuiksi. Myös TAI:n toiminnassa mukana oleminen toi tutuksi muiden alojen insinöörejä. Kehottaisinkin nuoria insinöörejä tulemaan mukaan kerhon toimintaan osallistumalla kuukausikokouksiin, sillä siellä voi luoda kontakteja alueen insinöörien kanssa, ja näistä suhteista voi myöhemmin olla paljon hyötyä.
+
+Jukka Niemensivu
+
+ <hr />
+
+h2. <a name="Jari">Jari Hiltunen</a>
+
+Viime yönä näin unta, että olin rehtorina Tylypahkassa. Uni johtui varmaankin eilisestä korttipelistä, jota pelasimme Harry Potter –korteilla. Sanotaan, että he, jotka eivät mitään osaa, alkavat opettamaan. Ja ne, jotka eivät osaa opettaakaan, alkavat liikunnanopettajiksi. Näiden parin rakennusvaiheessa jo lahon aasinsillan kautta on aika johdattaa lukija aiheeseen eli miten minusta tuli opettava insinööri.
+
+Lukion valitsin jo aikalisämielellä. En tosin tiennyt omasta alastani vielä lukionkaan jälkeen. Tietokoneet ja äidinkieli kiinnostivat eniten. Pyrin onneksi turhaan opiskelemaan äidinkielenopettajaksi. Yo-paperit riittivät Joensuun yliopiston matematiikan koulutusohjelmaan. Sivuaineena oli tietenkin tietojenkäsittely. Opiskelin laiskasti ja keskityin opettajansijaisuuksiin taloudellisin vaikuttimin.
+
+Oli taas aikalisän paikka. Asevelvollisuuden suorittaminen tarjosi 8kk mietintäaikaa. Ja päätös oli helppo. Teoria sai jäädä ja pyrin paikalliseen teknilliseen oppilaitokseen. Alanvalinta perustui pääsykoepisteisiin. Halusin sähköosastolle ja automaatioon (230) oli tilastojen mukaan vaikeinta päästä. Sinne siis, vaikka siinä vaiheessa ei ollut mitään käsitystä koko alasta. Hyvä, jos on vieläkään.
+
+Tekussa oli samanhenkisiä opiskelutovereita ja sopivasti teoriaa käytännöllä höystettynä. Valinnaisissa kursseissa keskityin ohjelmointiin. Vuonna 1995 alkoi työpaikan metsästys. Olin ilmeisesti liian vanha Nokialle. Niinpä tieni vei Joensuusta Saloon, jonne pääsin opettajaksi ammattikouluun.
+
+Opettaminen tuntui luontevalta ja jopa mukavalta työltä. Nuorten kanssa työskentelemisessä on hyvät ja huonot puolensa. Tuolloin kasvoi ongelmaksi pätevöitymiseen liittyvä oikea työkokemus. Minulla sitä ei insinööriksi valmistumisen jälkeen yksinkertaisesti ollut. Ja sitä piti olla peräti kolme vuotta.
+
+Lehti-ilmoitus vuoden 1999 alussa sai minut hakemaan paikalliseen puhelinyhtiöön turva-alan asiantuntijaksi. Myöhemmin titteli vääntyi tuotepäälliköksi. Hektiset kolme vuotta olivat antoisia ja samalla uuvuttavia. Pinnistelin reilut kolme vuotta palatakseni koulumaailmaan. Tällä kertaa opinahjona oli ammattikorkeakoulu.
+
+Vuodet ammattikorkeakoulussa toivat mainetta ja kunniaa. Kansalaisen mikrotuki, jonka pystytin toisen opettajan idean pohjalta, osoittautui valtakunnalliseksi menestykseksi. Lisäksi sain suoritettua ammattiopettajan pätevyyden työn ohessa. AMK-uraa ei kannattanut jatkaa, koska ns. opistoinsinööri on epäpätevä opettajaksi ja se teki reipasta miinusta kuukausipalkkaan.
+
+Pienen erityisammattikoulusyrjähypyn jälkeen jatkan opettamista ammattikoulussa. Nuorten ohjaaminen ei ole tyypillistä insinöörityötä, mutta ilman insinööritutkintoa ei näihin hommiin pääse. TASIssa toiminen on jatkumoa oppilasyhdistystoiminnalle. Samanhenkisten ihmisten yhteistyötä vapaa-ajan virkistykseksi ja uuden tietämyksen levittämiseksi.
+
+Jari Hiltunen
+
+ <hr />
+
+h2. <a name="Markku">Markku Kokkonen</a>
+
+<notextile>
+Oma tieni insinööriksi alkoi keskikoulun päätyttyä keväällä -58, jolloin pääsin harjoittelijaksi Turun kaupungin puhelinlaitoksen keskusosastolle. Kesä kului nopeasti ja syksyn tullen työelämä viehätti enemmän kuin paluu takaisin lyseoon ja jäin asentajaoppilaana puhelinlaitokselle, ollen siellä syksyyn -62 suorittaen välillä asevelvollisuuden. Puhelinlaitoksen keskusten asennus- ja laajennustyöt tehtiin L.M Ericssonin komennusmiesten toimesta ja ilmeisesti itsellänikin oli kulkijan verta suonissa niin paljon, että komennustyö alkoi kiinnostaa. Posti- ja telelaitos oli aloittanut kaukoliikenteen automatisoinnin muutama vuosi aikaisemmin joten arvelin sieltä löytyvän komennustöitä.
+</notextile>
+
+Kävin syksyllä -62 Helsingissä Posti. ja telelaitoksen puhelinrakennuspiirin piirikonttorissa kysymässä töitä, sain paikan ja olin Helsingissä lokakuun puolesta välistä vuoden loppuun ja 2.1.1963 aloitettiin Riihimäellä automaattisen kaukokeskuksen rakentaminen aluksi 8 miehen voimin, minä mukana.
+
+<notextile>
+Kiersin asennusporukoissa ympäri maata syksyyn -65 jolloin opinnot Turun opiston telelinjalla alkoivat. Opiston joulu- ja kesälomat kuluivat komennustöissä ja kun opiston kesälomallakin ehti olla työssä runsaan 4 kuukautta, niin siististi eläen päivärahoista jäi säästöön seuraavan vuoden koulunkäyntiä varten. Valmistuin keväällä -69, saaden työpaikan entiseltä työnantajalta mutta muutto per- heen kanssa Helsinkiin oli edessä. Olin avioitunut kouluaikana ja saanut pienen pojankin. 
+</notextile>
+
+Syksyllä -73 muutimme takaisin Turkuun, kun sain keskusinsinöörin paikan edelleenkin saman työnantajan palveluksessa, nyt Turun telepiirin piirikonttorissa. 
+
+Turkuun muuton myötä alkoi myös osallistumiseni sähkökerhon toimintaan kurssikaverini Ilkka Hanskin houkuttelemana. Sähkökerhon v. -74 syyskokouksessa Ilkka Hanski valittiin kerhon uudeksi puheenjohtajaksi ja minut sihteeriksi ja taloudenhoitajaksi. Tätä pestiä kesti vuoteen -83 asti, jolloin Jukka Niemensivu otti vastaan em.tehtävät, jonka jälkeen olikin monta vuotta vapaata halli tustyöstä kunnes aloitin v. -98 sähkökerhon edustajana Turun Alueen Insinöörit ry (TAI) hallituksessa. Tätä pestiä kesti v. -08 asti kunnes uusi yhdistys Lounais–Suomen Insinöörit ry (LOUSI) perus tettiin jatkamaan Insinöörien edunvalvontaa konkurssiin menneen TAI:n tilalle.
+
+Työnantaja pysyi eläköitymiseen asti periaatteessa samana vaikka tehtävänimikkeet, työnantajan nimi ja tytäryhtiöt vaihtuivat.
+
+Markku Kokkonen
+
+ <hr />
+
+h2. <a name="Jesse">Jesse Mattila</a>
+
+p<{margin-top: 0em; margin-right: 1.5em; margin-bottom: 0.5em; margin-left: 1em; float: left}. !(pic_shadow)Jesse.jpg(Jesse Mattila)!
+
+Lapsilta yleensä kysytään, että mitä heistä tulee isona. Omalla kohdalla en muista haaveilleeni mistään erityisestä ammatista kuten poliisin tai palomiehen tehtävistä. Itseasiassa koko nuoruuteni ajattelin, että kyllä se sitten ilmoittaa, kun vastaan tulee. Näin jälkeenpäin ajateltuna minun ei sitä tulevaisuuden ammattia ole koskaan tarvinnutkaan mistään etsiä, vaan se on käytännössä ollut päätettynä kaiken aikaa, vaikka en ole sitä itse nuorena ymmärtänyt.  
+
+Olen jo pienestä pitäen ollut kiinnostunut tekniikasta. Kuulemani mukaan isä ja äiti olivat eräänkin kerran kauhuissaan, kun aamulla herätessään löysivät minut 3v poikansa tekemässä vahvavirta kytkentöjä pistorasia ruuvattuna irti seinästä. Toisinaan ei koskaan tiennyt, että koska keittiökaappien ovet jäivät käteen, kun poika oli ruuvannut saranat irti ja laittanut ovet vain hollille odottamaan seuraavaa käyttäjää. Nuorena olin paljon isän mukana rakentamassa kaikenlaista ja erinäiset tekniset asiat ovat aina olleet lähellä sydäntä.  Ensimmäinen mopo saapui mökille, kun olin 6:n ja 10 vuotiaana niitä oli jo 5kpl. Ensimmäinen auto ja moottoripyörä ilmestyivät vuotta myöhemmin. Samoihin aikoihin olin mukana tekemässä venttiiliremontteja isän autoon, johon se oli jokavuotinen rutiini. Ylikierroksilla tahtoivat pakoventtiilit palaa vm -68 Mazda deluxesta, kun tuohon aikaan ei ilmeisesti oltu vielä kierrosten rajoittajaa kehitelty. Yläasteen ja lukion aikoihin tuli oltua mukana kaikissa mahdollisissa teknisentyön kerhoissa ja kansalaisopistossa rakentamassa jotakin metallista tai puusta. Yht’äkkiä tulikin vastaan tilanne, että piti tehdä niitä lopullisia valintoja työuransa eteen. Ainoa vaihtoehto, joka minua valintahetkellä kiinnosti oli tietoliikennetekniikka. Vaikka harrastinkin kaikkea muuta, tiesin, että harrastus ja työ harvoin kohtaavat.
+ 
+Laitoin siis hakupaperit sisään vain Sepänkadulle Turkuun ja päätin, että sillä mennään ja näin jälkikäteen ajateltuna valinta oli täysin oikea. Päivääkään en ole tehnyt täysin koulutustani vastaavaa työtä, mutta insinöörin koulutushan tähtääkin siihen, että valmistuvilla on mahdollisuus ja oikea asenne omaksua erinäisiä teknisiä asioita. Nykyisessä ammatissani hankintatoimen ammattilaisena joudun painimaan erinäisten teknisten ratkaisuiden parissa eri alueilla, kuten mekaniikka, muovit, elektroniikka, PC:t, ohjelmistot, optiikka  ym. Käytännössä jokainen päivä tuo tullessaan jotakin uutta ja kiinnostavaa. 
+
+Jesse Mattila
+
+ <hr />
+
+h2. <a name="Rauno">Mnää ite, insinööri</a>
+ 
+Bacu-paatin toinen kylki on jo krapattu ja hiottu puhtaaksi. Vappuviikonloppu on sujunut veneen alla rattoisasti - mitä nyt vähän kädet ja selkä särkevät. Mutta mitä siitä, viime kesänä hankittu Bacu pääsee pian pulahtamaan veteen entistä ehompana. Ensiristeilynä olisi tänä keväänä matka pojan kanssa Raision rannasta Raumalle, jossa veneen kotipaikka ainakin ensi kesän tulee olemaan. Yritetään vielä houkutella naisväkikin, vaimo ja kaksi tytärtä, mukaan - saa sitten nähdä, uskaltavatko lähteä.
+
+Ammatiltani olen tietokoneinsinööri, valmistunut kuuluisasta Raahen Tietokonealan Oppilaitoksesta jo kauan sitten. Opiskelun jälkeen aloitin työt Helsingissä, josta parin välietapin kautta olen pikku hiljaa hivuttautunut pohjoiseen päin, kohti nuoruuteni maisemia, jotka siis vietin Raumalla.
+
+Ensimmäiset opiskelun jälkeiset työtehtäväni liittyivät tietoturva-asioiden hoitamineen isossa keskustietokoneympäristössä. Osittain tuolta ajalta periytyy edelleen jatkuva kiinnostus tiedon salaamiseen ja turvalliseen käsittelyyn tarvittaviin algoritmeihin ja menetelmiin.
+
+Pian alun jälkeen tehtävät muuttuivat, kun löysin itselleni parhaiten sopivan tehtäväalueen. Siitä lähtien olenkin toiminut erilaisissa tuotekehitystehtävissä, välillä robottien näköjärjestelmiä rakentaen, useimmiten eri kokoisiin ohjelmistokehitystehtäviin osallistuen.
+
+Työtehtävät ja perheen perustaminen ovat vieneet ajan niin tehokkaasti, että TASI:n toimintaan ehdin mukaan vasta vuodesta 2003. Siitä lähtien olenkin sitten yrittänyt tehdä parhaani - ollen edelleen mukana hallituksen toiminnassa. Monenlaista mukavaa toimintaa olemme yhdessä saaneetkin aikaiseksi. Viimeisen perhetapahtuman jälkeen jopa juuri 5 vuotta täyttänyt prinsessamme totesi, että hänkin haluaa isona insinööriksi, että pääsee sitten taas uimaan. 			
+
+Rauno Uusitalo
+
+ <hr />
+
+h2. <a name="Pertti">Miten olen päätynyt insinööriksi<br /> ja millaista se on ollut</a>
+
+Työurani olen aloittanut teleteknikkona. Tutkinto rajoitti selvästi uralla etenemistä ja kun mahdollisuus tuli aloitin insinööriopiskelun Turun ”Tekulla” tietoliikenneinsinöörin opintolinjalla. Harjoittelu ja työpaikkani oli Turun kaupungin Puhelinlaitos. Työpaikka pysyi samana, vaikka nimi muuttui Turun Puhelinlaitokseksi. Sen jälkeen tuli Turun Telelaitos, joka muuttui yksityistämisen jälkeen Turun Puhelimeksi. Vielä kerran nimi muuttui Auriaksi ja Auria Network:ksi. Nimen muutokset loppuivat, kun Sonera osti yhtiön ja sulautti sen itseensä Loimaan Puhelimen suosiollisella avustuksella.
+
+Teknikkona toimin työnjohtajana keskusosastolla AKE-keskuksen käyttö- ja ylläpitotehtävissä. Insinööritutkinnon jälkeen työtehtävät tulivat vaativimmiksi. Näistä ensimmäisiä oli Finnetin älyverkon kehitystehtävät. Laitteisto perustui Nokian tekniikkaan. Tämän jälkeen siirryin Turun Puhelimen radioverkkopäällikön tehtäviin rakentamaan silloista GSM-verkkoa, joka käsitti Radiolinjan sekä 2G:n verkon. Tehtäviin lisättiin vielä Käyttökeskuksen päällikön tehtävät.
+
+Kun Turun Puhelimen nimi muutettiin Auriaksi ja verkkotoiminnat eriytettiin Auria Network:ksi,   yhtiö myös organisoitiin uudestaan. Operointi, ylläpito ja valvonta yhdistettiin osastoksi nimeltään Auria Center, jonka osastopäälliköksi minut nimitettiin ja josta jäin sitten eläkkeelle. 
+
+Toimin myös yhtiön olemassaolon ajan Ylempien toimihenkilöiden pääluottamusmiehenä, joka antoi minulle mahdollisuuden nähdä lähemmin yhtiön toimintaa ja vaikuttaa siihen.
+
+Insinööritutkinnon suorittaminen oli minulle tärkeää ja se muutti työurani erittäin mielenkiintoiseksi ja monipuoliseksi.
+ 
+Pertti Degerholm
+
+ </div><!-- Story -->
+
+ <!-- Markings going under the main story -->
+ <div id="footer">webmaster: rauno.uusitalo<span>!/pic/ats.png(@)!</span>gmail.com</div>
+ <div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

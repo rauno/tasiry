@@ -1,0 +1,156 @@
+---
+title:       Galleria 2008
+layout:      main
+active_menu: 8
+gallery:     2
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    galleria
+description: Galleria 2008
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-04T03:14:28+0300"/>
+---
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+	   	<span style="float: left"> Pikkujoulujuhlat</span>
+	   	<span style="float: right">La 29.11.2008</span>
+	   </div>
+
+      <!--  Pikkujoulujuhlat Naantalin kylpylässä -->
+      <img src="pikkujoulut1.jpg" width="240" height="180" alt="Pikkujoulut 2008" />
+   
+	   <p>Vuoden 2008 pikkujoulujuhlia vietimme Naantalin kylpylässä.</p>
+      <p>Alkumaljat nautimme tonttutyttöjen esitystä ihaillen. Sen jälkeen siirryimme salin puolelle ruokailemaan ja tanssimaan.</p>
+      <div class="clear_next" align="center"><a href="/galleria2008/pikkujoulut/">Lisää kuvia</a></div>
+   </div><!-- Story -->			
+</div>			
+			
+			<!-- Story -->
+			<div class="story">
+				<div class="event_caption">
+					<span style="float: left">Avaruusseikkailu Tuorlan Observatoriossa</span>
+					<span style="float: right">Ti 21.10.2008</span>
+				</div>
+				
+				<p>
+					Hurjalla matkallamme tähtiin saavutimme kahdeksan CPU:n vauhdittamalla aluksellamme jopa viisinkertaisen valonnopeuden.
+					Siinä sitä oli taas kotona selittämistä.
+				</p>
+				
+				<table class="gallery_table" summary="kuvat">
+					<tr>
+						<td class="gallery_col_vert">
+							<div class="gallery_pic_vert">
+								<a href="001.jpg"><img src="001_thumbnail.png" width="240" height="320" alt="" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Tuorlan avaruusalus.
+							</div>
+						</td>
+						<td class="gallery_col_vert">
+							<div class="gallery_pic_vert">
+								<a href="002.jpg"><img src="002_thumbnail.png" width="240" height="320" alt="" /></a>
+							</div>
+							<div class="gallery_col_text">
+								"Kiinnittäkää turvavyönne, matkamme tähtiin voi alkaa".
+							</div>
+						</td>
+					</tr>
+					
+					<tr>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="003.jpg"><img src="003_thumbnail.jpeg" alt="" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Aluksemme fotonimoottori.
+							</div>
+						</td>
+						<td class="gallery_col_hor">
+							<div class="gallery_pic_hor">
+								<a href="004.jpg"><img src="004_thumbnail.jpeg" alt="" /></a>
+							</div>
+							<div class="gallery_col_text">
+								Konehuone ja ohjaajamme.
+							</div>
+						</td>
+					</tr>
+					
+				</table>
+					
+			</div><!-- Story -->
+			
+			<!-- 3-ottelu 2008 -->
+			<div class="story">
+				<div class="event_caption">
+					<span style="float: left">Perinteinen kolmiottelu</span>
+					<span style="float: right">Ke 15.10.2008</span>
+				</div>
+				
+				<p>Harmaana syysiltana keräännyimme jälleen kilvoittelemaan legendaarisesta "Tuomon pytystä".</p>
+				
+				<table class="gallery_table" summary="kuvat">
+				<tr>
+					<td class="gallery_col">
+						<div class="gallery_filler"></div>
+						<img src="pic01.jpg" alt="" />
+						<div class="gallery_text">
+							Puitteet kilpailullemme tarjosi SLO.
+						</div>
+					</td>
+					<td class="gallery_col">
+						<img src="pic02.jpg" alt="" />
+						<div class="gallery_text">
+							Tulokset kirjattiin insinöörimäisellä tarkkuudella ja järjestelmällisyydellä.
+						</div>
+					</td>
+				</tr>
+				
+				<tr>
+					<td class="gallery_col">
+						<img src="pic03.jpg" alt="" />
+						<div class="gallery_text">
+							Suorituksiin keskityttiin...
+						</div>
+					</td>
+					<td class="gallery_col">
+						<img src="pic04.jpg" alt="" />
+						<div class="gallery_text">
+							...ja tuloksia syntyi.
+						</div>
+					</td>
+				</tr>
+				
+				<tr>
+					<td class="gallery_col">
+						<img src="pic05.jpg" alt="" />
+						<div class="gallery_text">
+							Tarkkaakin tarkemmin.
+						</div>
+					</td>
+					<td class="gallery_col">
+						<img src="pic06.jpg" alt="" />
+						<div class="gallery_text">
+							Oliko se taulu tuollapäin?
+						</div>
+					</td>
+				</tr>
+				
+				<tr>
+					<td class="gallery_col">
+						<img src="pic07.jpg" alt="" />
+						<div class="gallery_text">
+							Ja jo vanhan tavan mukaan voittaja oli Markku Kokkonen.
+						</div>
+					</td>
+					<td class="gallery_col">
+						<img src="pic08.jpg" alt="" />
+						<div class="gallery_text">
+							Onneksi olkoon!
+						</div>
+					</td>
+				</tr>
+				
+				</table>
+			</div><!-- Story -->

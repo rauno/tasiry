@@ -1,0 +1,50 @@
+---
+title:       Vuonna 1959
+layout:      historiikki
+active_menu: 12
+keywords:    1959
+description: Kuuluisuuksia TASI:n perustamisvuodelta
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:18:18+0300"/>
+---
+ <div class="story">
+
+h1=. Kuuluisuuksia TASI:n perustamisvuodelta 1959
+
+h2. Syntyneitä
+* 22. tammikuuta – Meiju Suvas, suomalainen iskelmälaulaja
+* 24. tammikuuta – Nastassja Kinski, saksalainen näyttelijä
+* 2. helmikuuta – Jari Tervo, suomalainen kirjailija
+* 12. helmikuuta – Kauko Röyhkä, suomalainen muusikko ja kirjailija
+* 15. maaliskuuta – Renny Harlin, amerikansuomalainen elokuvaohjaaja
+* 18. maaliskuuta – Luc Besson, ranskalainen elokuvaohjaaja, käsikirjoittaja ja tuottaja
+* 10. toukokuuta – Ville Itälä, suomalainen poliitikko
+* 14. elokuuta – Earvin Johnson ("Magic Johnson"), yhdysvaltalainen koripalloilija
+* 16. elokuuta – Tuula Amberla, suomalainen laulaja
+* 22. elokuuta – Tommi Läntinen, suomalainen muusikko
+* 11. lokakuuta – Pertti Nieminen ("Neumann"), suomalainen muusikko
+* 19. joulukuuta – Päivi Räsänen, suomalainen kansanedustaja
+
+h2. Kuolleita
+* 3. helmikuuta – Buddy Holly, yhdysvaltalainen rock-muusikko
+* 3. helmikuuta – Ritchie Valens, yhdysvaltalainen rock-muusikko
+* 3. helmikuuta – Jiles Perry Richardson ("The Big Bopper"), yhdysvaltalainen rock-muusikko
+* 3. maaliskuuta – Lou Costello, yhdysvaltalainen näyttelijä
+* 16. maaliskuuta – Väinö Kotilainen, suomalainen teollisuusmies ja ministeri, vuorineuvos, eversti
+* 20. maaliskuuta – Väinö Vähäkallio, suomalainen arkkitehti ja pääjohtaja
+* 26. maaliskuuta – Raymond Chandler, yhdysvaltalainen kirjailija
+* 26. maaliskuuta – Carl Enckell, suomalainen poliitikko ja diplomaatti (s. 1876)
+* 15. heinäkuuta – Billie Holiday, yhdysvaltalainen jazz-muusikko
+* 15. heinäkuuta – Ruben Lagus, suomalainen kenraali
+* 7. elokuuta – Armas Launis, suomalainen säveltäjä
+* 7. lokakuuta – Mario Lanza, yhdysvaltalainen laulaja
+* 14. lokakuuta – Errol Flynn, yhdysvaltalainen näyttelijä
+* 16. lokakuuta – George C. Marshall, vuoden 1953 Nobelin rauhanpalkinnon saanut yhdysvaltalainen kenraali, ulko- ja puolustusministeri (s.1880) 
+
+ </div><!-- Story -->
+
+ <!-- Markings going under the main story -->
+ <div id="footer">webmaster: rauno.uusitalo<span>!/pic/ats.png(@)!</span>gmail.com</div>
+ <div id="pic_button_next"><a href="/historiikki/tapahtumat/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+ <div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

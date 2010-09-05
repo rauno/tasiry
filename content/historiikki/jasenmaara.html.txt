@@ -1,0 +1,22 @@
+---
+title:       Jäsenmäärä
+layout:      historiikki
+active_menu: 15
+keywords:    jäsenmäärä
+description: Nousujohteista kehitystä
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:20:53+0300"/>
+---
+ <div class="story">
+
+h1=. Nousujohteista kehitystä
+
+p=. !(pic_shadow)jasenet.png(Jäsenmäärän kehitys)!
+
+ </div><!-- Story -->
+
+ <!-- Markings going under the main story -->
+ <div id="footer">webmaster: rauno.uusitalo<span>!/pic/ats.png(@)!</span>gmail.com</div>
+ <div id="pic_button_next"><a href="/historiikki/hallitus/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+ <div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

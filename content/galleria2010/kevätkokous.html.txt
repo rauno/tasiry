@@ -1,0 +1,15 @@
+---
+title:       Kuvagalleria
+layout:      main
+active_menu: 8
+gallery:     4
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: TASI:n 50-vuotisjuhlat 2009
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-04T09:35:21+0300"/>
+---
+<iframe id="frameBox" class="story" src="/galleria2010/gallery/kevätkokous/" width="714" height="796">
+   <p>Käytössäsi on vanhentunut selain!</p>
+</iframe> 

@@ -1,0 +1,63 @@
+---
+title:       Edustajat
+layout:      main
+active_menu: 5
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    edustajat
+description: Edustajamme muissa organisaatioissa
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-01T12:00:14+0300"/>
+---
+ <div class="story">
+ 
+h1. Edustajamme LOUSI ry:ssä 2010
+				
+Lounais-Suomen Insinöörit LOUSI ry toimii alueellisesti ja edustaa kaikkia alueemme insinöörejä UIL:n edustajakokouksissa. Tätä kautta pääsemme vaikuttamaan valtakunnan tason asioihin.
+				
+h2. Hallituksessa
+
+table(person_table).
+|!/pic/Pertti.jpg(Pertti)!
+*Pertti Degerholm*
+<br />
+(040) 842 1177
+pertti.degerholm<span>!/pic/at.png(@)!</span>gmail.com||
+
+h2. Edustajakokouksissa
+
+table(person_table).
+|!/pic/Matti.jpg(Matti)!
+*Matti Lehtinen*
+<br />
+(040) 832 3589
+matti.ol.lehtinen<span>!/pic/at.png(@)!</span>metso.com|!/pic/Jesse.jpg(Jesse)!
+*Jesse Mattila*
+<br />
+(040) 546 4232
+jesse.mattila<span>!/pic/at.png(@)!</span>perkinelmer.com|
+|!/pic/Jari.jpg(Jari)!
+*Jari Hiltunen*
+<br />
+(0400) 614 447
+ins.hiltunen<span>!/pic/at.png(@)!</span>gmail.com||
+
+h2. Varalla
+
+table(person_table).
+|!/pic/Markku.jpg(Markku)!
+*Markku Kokkonen*
+<br />
+(0400) 825 320
+markkukokkonen<span>!/pic/at.png(@)!</span>dnainternet.net|!/pic/Jouko.jpg(Jouko)!
+*Jouko Laine*
+<br />
+(040) 593 1174
+jouko.j.laine<span>!/pic/at.png(@)!</span>kolumbus.fi|
+|!/pic/Tuomo.jpg(Tuomo)!
+*Tuomo Hinkkanen*
+<br />
+(0400) 440 147
+tsto.hinkkanen<span>!/pic/at.png(@)!</span>co.inet.fi||
+
+ </div>

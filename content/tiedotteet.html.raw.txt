@@ -1,0 +1,76 @@
+---
+title:       Tiedotteet
+layout:      main
+active_menu: 3
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    tiedotteet
+description: Tiedotteet
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T10:34:36+0300"/>
+---
+			<!-- Main story section -->
+			<div class="info">
+				<div class="event_caption">Tiedote sinulle, uusi jäsen</div>
+				<div class="event_story">
+					Tervetuloa mukaan toimintaamme! Tässä lyhyt <a href="/doc/Tervetuloa%20uusi%20j%C3%A4sen.pdf" onclick="window.open(this.href,'_blank');return false;">tiedote</a> uusille jäsenillemme.
+				</div>
+			</div>
+			
+			<!-- Main story section -->
+			<div class="info">
+				<div class="article_pic"><img src="/pic/postia.png" width="64" height="64" alt="postia" /></div>
+				<div class="event_caption">Jäsentiedotteiden tilaus sähköpostiisi</div>
+				<div class="event_story">
+					Lähetä osoitteesi yhdistyksemme sihteerille 
+					<var>matti.ol.lehtinen<span><img src="/pic/at.png" alt="@" /></span>metso.com</var>,
+					niin saat tiedotteemme tuoreena suoraan omaan sähköpostiluukkuusi!
+				</div>
+			</div>
+
+			<!-- Main story section -->
+			<div class="info">
+				<div class="article_pic"><img src="/pic/yksiheista.jpg" width="90" height="79" alt="Yksi heistä?" /></div>
+				<div class="event_caption">Insinööri, mikä se on?</div>
+				<div class="event_story">
+					Oletko koskaa yrittänyt selittää lapsellesi (tai nuorellesi) mitä ne insinöörit oikein ovat? 
+					Näihin kysymyksiin pyrkii antamaan vastauksia nettisivusto osoitteessa
+					<a href="http://www.insinooriksi.fi/" onclick="window.open(this.href,'_blank');return false;">www.insinooriksi.fi</a>. 
+					Käyppä katsomassa!
+				</div>
+			</div>
+			
+			<!-- Main story section -->
+			<div class="info">
+				<div class="event_caption">Lisää tapahtumia</div>
+				<img class="article_pic" src="/pic/hand.png" width="44" height="65" alt="muista" />
+				<div class="event_story">
+					Tiesitkö, että voit osallistua myös LOUSI:n muiden jäsenjärjestöjen tapahtumiin
+					(yhdistysten kokouksia lukuun ottamatta)? Älä myöskään unohda LOUSI:n itsensä   
+					järjestämiä tapahtumiin. Lisätietoa löydät tapahtumia järjestävien järjestöjen  
+					omilta verkkosivuilta. 
+				</div>
+			</div>
+
+			<!-- Main story section -->
+			<div class="info">
+				<div class="article_pic"><img src="/pic/sanomalehti.png" width="157" height="108" alt="sanomalehti" /></div>
+				<div class="event_caption">Lue lehti verkossa</div>
+				<div class="event_story">
+					<p>Sidosjärjestöjemme lehdet 
+					<a href="http://www.lousi.fi/lue-jaesenlehti" onclick="window.open(this.href,'_blank');return false;">Uusi LOUSI</a> ja 
+					<a href="http://www.insinoori-lehti.fi/" onclick="window.open(this.href,'_blank');return false;">Uusi Insinööri</a>
+					ovat luettavissa myös verkossa.</p> 
+					Muista seurata ilmoitteluamme myös näissä lehdissä!
+				</div>
+			</div>
+		
+			<!-- Main story section -->
+			<div class="info">
+				<div class="article_pic"><img src="/pic/nuija.png" width="100" height="66" alt="nuija" /></div>
+				<div class="event_caption">Sääntöuudistus</div>
+				<div class="event_story">
+					Toimintamme raamit asettavat uudistetut <a href="/doc/Saannot_2004.pdf" onclick="window.open(this.href,'_blank');return false;">säännöt</a> hyväksyttiin  
+					sääntömääräisessä syyskokouksessa vuonna 2004.
+				</div>
+			</div>

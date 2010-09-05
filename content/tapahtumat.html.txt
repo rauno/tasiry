@@ -1,0 +1,113 @@
+---
+title:       Tapahtumat
+layout:      main
+active_menu: 2
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    TASI ry, TASI, tapahtumat, tapahtuma
+description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
+robots:      ALL
+refresh:     28800
+date:        <meta name="date" content="2010-09-01T15:12:19+0300"/>
+---
+ <div class="story">
+
+p(event_caption). %{float: left}Kolmiottelu Elektroskandialla% %{float: right}To 23.9.2010 klo 18:00%
+
+!(article_pic)/pic/target_with_arrow.png!
+
+Kaikki jäsenet joukolla kisaamaan ”Tuomon Pokaali”-kiertopalkinnosta ynnä muista palkinnoista. Ottelun jälkeen iltapala.
+
+"Louhimontie 4":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&cp=6707625,23455892&z=2&title=Louhimontie%204%2C%20Raisio&language=fin Raisio
+
+* Ilmapistooliammuntaa
+* Tikanheittoa
+* Renkaanheittoa
+
+<%= render "partials/ilmoittautuminen", :block => "help1", :day => "15", :month => "9", :year => "2010" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Yhdistyksen sääntömääräinen syyskokous jäsenille% %{float: right}To 18.11.2010 klo 18:00%
+
+!(article_pic)/pic/kokous.png!
+
+"Panimoravintola Koulu":http://www.panimoravintolakoulu.fi/, Eerikinkatu 18, Turku
+			
+* Sääntömääräiset asiat
+* Iltapala
+
+<%= render "partials/ilmoittautuminen", :block => "help2", :day => "12", :month => "11", :year => "2010" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Pikkujoulujuhlat% %{float: right}To 4.12.2010%
+
+!(article_pic)/pic/christmas_tree.png!
+
+Vain 80 nopeinta mahtuu mukaan.
+
+* Jouluglöki
+* Jouluinen menu juomineen
+* Kahvi + avec
+* Tanssimusiikkia puoleenyöhön
+* Avec-tilaisuus
+* *Tarkemmat tiedot syyskuun aikana!*
+
+Ota pieni muutaman euron paketti mukaan, niin et jää lahjattomaksi.
+
+Vain osallistumisensa etukäteen maksaneet pääsevät mukaan.
+
+<%= render "partials/ilmoittautuminen", :block => "help3", :day => "15", :month => "11", :year => "2010" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Koko perhe Caribialle kylpemään% %{float: right}La 22.1.2011 klo 11:00%
+ 
+!(article_pic)/pic/pescetto.png!
+
+Kokoontuminen _kylpylän_ vastaanottoon. Mukaan uimavarustus ja pyyhe.
+
+* Paikkana "Kylpylähotelli Caribia":http://www.holidayclubhotels.fi/.
+* Ruokailu sisältyy maksuun.
+* Maksetaan sisäänkäynnin yhteydessä TASI:n edustajalle.
+* Mukaan mahtuu noin 50 ensinnä ilmoittautunutta.
+* *Osallistujien sukupuolet ja lasten iät mainittava ilmoittauduttaessa.*
+						
+Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
+* aikuiset 10 €
+* lapset (alle 13 vuotta) ilmaiseksi
+
+Muut LOUSI:n aluejärjestöt: 15 € / 5 €
+
+<%= render "partials/ilmoittautuminen", :block => "help4", :day => "14", :month => "1", :year => "2011" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Sääntömääräinen yhdistyksen kevätkokous jäsenille% %{float: right}To 24.3.2011 klo 18:00%
+
+!(article_pic)/pic/kokous.png!
+
+"Panimoravintola Koulu":http://www.panimoravintolakoulu.fi/, Eerikinkatu 18, Turku
+
+* Sääntömääräiset asiat
+* Iltapala
+
+<%= render "partials/ilmoittautuminen", :block => "help5", :day => "17", :month => "3", :year => "2011" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Lisää tapahtumia:% %{float: right}"http://www.lousi.fi/tapahtumat":http://www.lousi.fi/tapahtumat%
+
+ Olet tervetullut myös LOUSI:n muiden jäsenjärjestöjen järjestämiin tapahtumiin.
+
+ </div>

@@ -1,0 +1,166 @@
+---
+title:       Tervehdykset
+layout:      historiikki
+active_menu: 3
+keywords:    tervehdykset
+description: Tervehdykset
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T22:56:28+0300"/>
+filter:
+  - erb
+---
+	<!-- Story -->
+	<div class="story">		
+		<h1 style="text-align: center">Tervehdykset 50-vuotiaalle</h1>
+				
+		<p>Vietimme juhliamme 16.5.2009 Turun Upseerikerhon tiloissa Aurajoen läheisyydessä.</p>
+		
+	   <hr />
+
+      <br />	   
+		<div align="center">
+			<img src="MattiViljanen.jpg" width="200" height="300" border="1" title="Matti Viljanen" alt="Matti Viljanen" align="top" />
+			<h2>Osaamisella menestystä</h2>
+		</div>
+
+		<p>Suomen menestystarina perustuu osaamiseen. Kun Suomi liittyi Euroopan unioniin, markkinoiden 
+		avautuminen loi suomalaiselle osaamiselle ja yrityksille uusia, suurempia markkina-alueita. 
+		Sama on tapahtunut nyttemmin globaalissa maailmassa.</p> 
+
+		<p>Ympäröivä maailma on jatkuvan muutoksen kourissa, ja kilpailutilanteet vaihtuvat jatkuvasti. Siksi 
+		tarvitsemme jatkuvasti uusia järjestelmiä, uusia menetelmiä ja tehokkaampia toimintatapoja 
+		tuottavuuden, työllisyyden, kilpailukyvyn ylläpitämiseksi.</p> 
+
+		<p>Siksi meidän on haastettava kaikki suomalaiset jatkuvaan osaamisen kehittämiseen ja päivittämiseen.  
+		Sitä kautta syntyy tuloksia. Ratkaisevaa on ihmisen oma asenne oppimiseen. Tulevaisuus on koettava 
+		ennen kaikkea mahdollisuutena, vaikkakin haasteellisena mahdollisuutena. Ihmisillä, jotka uskaltavat 
+		tarttua haasteisiin, on entistä suurempi merkitys tulevaisuudessa.</p>  
+
+		<p>Osaavan ihmisen ote tulevaisuuteen on aina vahva. Hän sietää muutosta ja painetta muita paremmin. 
+		Kun epävarmuustekijät tulevaisuuden suhteen ovat hallinnassa, ihmisellä on energiaa ponnistella ja 
+		mahdollisuus jaksaa ja viihtyä työssään.</p>
+
+		<p>Epävarmuuden vähentämiseen on ainakin yksi hyväksi havaittu keino: ammatillinen järjestäytyminen. 
+		Sen merkitystä ei voi vähätellä. Liitot ovat olemassa jäsentensä auttamista varten. Liittojen 
+		jäsenet osaavat myös tukea toinen toisiaan ja haastaa toisiaan osaamisen markkinoilla. Lama 
+		koettelee etenkin nuoria, uusia jäseniä, joilla voi olla vaikeuksia päästä työuran alkuun. Myös 
+		varttuneempi väki tarvitsee tukea, jotta he jaksavat ponnistella muutosten maailmassa.</p>
+
+		<p>Toivon, että myös Akava-yhteisö toimii toinen toistansa tukien, sillä yhdessä olemme enemmän.</p>
+	
+		<p style="text-align: center">
+			Parhaimmat onnittelut!<br />
+			Matti Viljanen<br />
+			Akavan puheenjohtaja
+		</p>
+					
+   	<hr />
+   	
+      <br />	   
+		<div align="center">
+			<img src="JesseMattila.jpg" width="300" height="239" border="1" title="Jesse Mattila" alt="Jesse Mattila" align="top" />
+			<h2>Puheenjohtajan tervehdys</h2>
+		</div>
+
+		<p>Onnittelut 50-vuotiaalle yhdistyksellemme. 50 vuotta on kunnioitettava ikä niin ihmisellä, kuin 
+		yhdistykselläkin. Puolivuosisataa yleensä kartuttaa monenlaisia kokemuksia ja niin on myös laita 
+		TASI ry:n kohdalla. Yhdistyksen alkuaikoina toiminta liittyi lähinnä vahvavirtaan mutta erilaiset 
+		elektroniset laitteet tekivät kovasti tuloaan. Ensimmäinen tietokone ja transistori oli kehitetty 
+		edellisellä vuosikymmenellä ja vain muutama vuosi ennen yhdistyksen perustamista tulivat ensimmäiset 
+		<cite>näköradiot</cite> Suomeen. 70-luvulla viimein tulivat ensimmäiset mikroprosessorit, jotka  
+		mullistivat kehityksen. Mikroprosessorit mahdollistivat 80-luvulla mm. ensimmäiset kännykät ja 
+		kotitietokoneet. 90-luvun yhtenä suurimmista mullistuksista oli kaupallistettu internet, joka toi 
+		jäsenistöön tietoliikenneinsinöörit, joihin myös itse kuulun.</p>
+				
+		<p>Menneet vuodet yhdistyksemme historiassa ovat tuoneet monia mullistavia asioita meidän jokapäiväiseen 
+		arkeemme, joista emme olisi edes osanneet unelmoida 50 vuotta sitten ja kehitys ei näytä pysähtyvän. 
+		Olisikin enemmän kuin mielenkiintoista kurkata 100 vuotis juhliemme ajankohtaan ja nähdä mitä kaikkea 
+		on vielä tulossa. Jokainen askel on kuitenkin otettava yksi kerrallaan ja se onkin se juttu 
+		sähköinsinöörinä olemisessa. Mielenkiinto pysyy yllä ja meillä on mahdollisuus päästä tutustumaan uuden 
+		tekniikan tuomiin mahdollisuuksiin.</p>
+
+		<p style="text-align: center">
+			Iloista juhlavuotta toivottaen<br />
+			Jesse Mattila<br />
+			TASI ry:n puheenjohtaja 2009
+		</p>
+					
+   	<hr />
+   	
+      <br />	   
+   	<div align="center">
+   		<img src="JonnaAaltonen.jpg" width="225" height="300" border="1" title="Jonna Aaltonen" alt="Jonna Aaltonen" align="top" />
+		   <h2 style="text-align: center">Keski-ikäinen TASI</h2>
+		</div>
+				
+		<p>Turun Alueen Sähköinsinöörit (TASI) ry on jäsenmäärässä mitattuna kolmanneksi suurin jäsenjärjestö 
+		Lounais-Suomen Insinöörit LOUSI ry:n kahdeksasta yhdistysjäsenestä. LOUSI:n kautta TASI:laiset 
+		kuuluvat Uusi Insinööriliitto UIL ry:hyn ja sitä kautta järjestäytyvät myös keskusjärjestöömme 
+		Akavaan. LOUSI on TASI:in verrattuna vielä keltanokka järjestökentässä ollen vain 1,5 vuotta vanha. 
+		LOUSI:n edeltäjänä toimi Turun Alueen Insinöörit TAI ry eli Varsinais-Suomen Alueen Insinöörit VAI 
+		ry (tunnettiin viime vuosina em. nimiltä), joiden historia ylettyy jo yli 80 vuoden taakse. 
+		Nyttemmin kyseinen yhdistys on ajautunut konkurssiin ja LOUSI jatkoi sen toimintaa. TAI:n/VAI:n 
+		ollessa täydessä iskussa, oli sielläkin toimijoina monia aktiivisia TASI-taustaisia Insinöörejä. 
+		He loivat uutta, parantelivat vanhaa, ottivat kantaa ja lisäsivät toimillaan insinöörien arvostusta. 
+		Nyt on alkanut TASI:ssakin uusi sukupolvi ottamaan vastuuta järjestötöitä monta kymmentä vuotta 
+		tehneiltä ja niin sen kuuluukin mennä. Ns. vanhat parrat toimivat sitten taustalla tukena ja apuna 
+		estäen nuorempia vaipumasta samoihin sudenkuoppiin, mihin aikaisemmin on vajottu.</p>
+				
+		<p>Niin se aika juoksee, kun sähköinsinöörit ovat jo keski-iässä täyttämässä pyöreät puolivuosisataa. 
+		Paljon on varmasti ajat muuttuneet TASI:n perustamisajankohdan hujakoilta tähän päivään. 
+		Insinööritkin tekevät sellaisia töitä, mitä 60-luvulla ei kukaan olisi villeimmissä kuvitelmissa 
+		uskaltaneet ajatellakaan. Esimerkkinä mainittakoon kännykät, tietokoneet, kelluvat talot, 
+		hybridiautot. Itse järjestötoiminta on kuitenkin perusperiaatteeltaan pysynyt samanlaisena. Pieni 
+		joukko ihmisiä tekee vapaaehtoisesti muiden eteen töitä, jotta koko jäsenistöllä olisi jotain 
+		kehittävää vapaa-ajan ohjelmaa sekä valvovat koko jäsenistön etuja epäkohtiin puuttuen ja kantaa 
+		ottaen.</p>
+
+		<p>Lämpimät onnittelut aktiiviselle, nuorekkaalle 50-vuotiaalle Turun Alueen Sähköinsinöörit (TASI) 
+		ry:lle sekä loistokkaita vuosia vielä paljon lisää niin yhdistykselle kuin sen aktiivisille 
+		toimijoille!</p>
+
+		<p style="text-align: center">
+			Jonna Aaltonen<br />
+			Puheenjohtaja<br />
+			Lounais-Suomen Insinöörit LOUSI ry
+		</p>
+			
+   	<hr />
+   	
+		<h2 style="text-align: center">Turun Alueen Sähköinsinöörit TASI ry</h2>
+				
+		<p>Parhaimmat onnittelut viisikymmenvuotiaalle Turun Alueen Sähköinsinöörit TASI ry:lle.</p>
+
+		<p>TASI:n hallituksen jäsen ja entinen puheenjohtaja Tuomo Hinkkanen kertoi omassa 
+		50-vuotisjuhlapuheessaan pitäneensä jo viikon ajan kenkiä jalassaan odottaen, koska 
+		viidenkympin villitys iskee. Toivottavasti nyt juhliva yhdistys katsoo edelleen tulevaisuuteen 
+		samalla innokkaalla odotuksella kuin Tuomo tuolloin.</p> 
+
+		<p>Tuomoa on myös kiittäminen tai syyttäminen myös alueasiamiehestänne. Kun minut on valittu 
+		Länsi-Suomen piirin asiamieheksi kauan kauan sitten, Tuomo oli TAI:n puheenjohtajana piirin 
+		puheenjohtajistossa joka haastatteli ehdokkaat ja teki valinnan yhdessä liittomme silloisen 
+		neuvottelujohtajan Aleksei Solovjewin kanssa. Tämä puheenjohtajiston tekemä valinta oli se 
+		ratkaiseva valinta, vaikka lopullisen päätöksen tekikin liittomme hallitus.</p> 
+
+		<p>Liittomme erityinen vahvuus ovat sen toimivat jäsenyhdistykset. Tätä paikallisuutta ja 
+		paikallisten asioiden ja olosuhteiden tuntemusta ei olisi, jos liitossamme olisi suora 
+		henkilöjäsenyys. Varsinais-Suomessa erityisenä vahvuutena ovat vielä koulutusalakohtaiset 
+		yhdistykset, TASI ja TARI. Nämä osoittavat, että Uusi Insinööriliitto UIL ry on kaikkien 
+		insinöörien liitto. Jokainen löytää sieltä itselleen sopivan yhdistyksen, jota kautta hän 
+		voi vaikuttaa insinööriyteen ja insinöörien edunvalvontaan.</p> 
+
+		<p>Vielä kerran, OIKEIN PALJON ONNEA 50-vuotiaalle Turun Alueen Sähköinsinöörit TASI ry:lle.</p>
+				
+		<p style="text-align: center">
+			Timo Ruoko<br />
+			Alueasiamies<br />
+			Uusi Insinööriliitto UIL ry<br />
+			Länsi-Suomen piiri
+		</p>			
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/historiaa/" title="TASI – 50 vuotta sähköistä toimintaa"><span>seuraava sivu</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

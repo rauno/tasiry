@@ -1,0 +1,24 @@
+---
+title:       TAI-tiedottaa
+layout:      historiikki
+active_menu: 9
+keywords:    TAI-tiedottaa
+description: TAI-tiedottaa -lehti
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:13:09+0300"/>
+---
+	<!-- Story -->
+	<div id="tai-tiedottaa" class="story">
+		<h1 style="text-align: center">TAI-tiedottaa</h1>
+		
+		<p>Muutamia esimerkkisivuja TAI tiedottaa lehdistä. Lehden toimitusvastuu säilyi TASI:lla 70-luvun alusta 80-luvun lopulle.</p>
+		<img class="pic_left" src="TAI1.jpg" width="330" height="487" alt="kuva 1" />
+		<img class="pic_right" src="TAI2.jpg" width="330" height="479" alt="kuva 2" />
+		<div align="center"><img src="Maailmanmestari.jpg" width="690" height="720" alt="Maailmanmestari" /></div>
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/kuvia/" title="Seuraava sivu"><span>seuraava sivu</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>

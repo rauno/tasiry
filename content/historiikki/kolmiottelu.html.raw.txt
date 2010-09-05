@@ -1,0 +1,111 @@
+---
+title:       Kolmiottelut
+layout:      historiikki
+active_menu: 5
+keywords:    kolmiottelut
+description: Kolmiottelut
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2010-09-03T23:02:29+0300"/>
+---
+	<!-- Story -->
+	<div class="story">		
+		<div align="center">
+			<h1>Perinteiset kolmiottelut</h1>
+		</div>
+		
+		<p>Ote pöytäkirjasta, joka on pidetty Turun Insinöörit ry:n Sähkökerhon Vuosi-kokouksessa 
+		ravintola Killan kabinetissa 25.2.1965 klo 18.00:</p>
+		<blockquote>7§ Hyväksyttiin ehdotus jäsentenvälisen 3-ottelun järjestämisestä myöhemmin päätettävänä aikana (vrt Turunmaan Sähköyhdistyksen 3-ottelu). Sähkö-Lähteenmäen puolesta ins. Vainio lupautui lahjoittamaan ”pytyn” ko tarkoitukseen. Lisäksi ins. Aittokallio lupautui avamaan palkintorahaston 20:-lla.</blockquote>
+
+		<p>Ensimmäisessä 3-ottelussa olivat lajeina pistooli, nuoli ja hyppy. Nykyisin kisataan 
+		ilmapistooliammunnassa, tikan- ja renkaanheitossa.</p>
+
+		<hr />
+				
+		<h2>Kiertopalkintojen voittajat:</h2>
+
+		<dl>
+			<dt>Uusitalo Pertti, 1984</dt>
+			<dd>”Iivarin pokaali” vuodesta 1975, lahjoittajana Sähkö-Lähteenmäki</dd>
+		</dl>
+				
+		<dl>
+			<dt>Kokkonen Markku, 1995</dt>
+			<dd>”Iso Iivari” tinatuoppi, vuodesta 1985, lahjoittajana Sähkö-Lähteenmäki</dd>
+		</dl>
+				
+		<dl>
+			<dt>Keijo Koivuniemi, 2005</dt>
+			<dd>”Iso Iivari” lautanen, 13.9.1995 lahjoittajana ABB Installaatiot Oy</dd>
+		</dl>
+				
+		<dl>
+			<dt>Nyt kierrossa</dt>
+			<dd>”Tuomon pytty”, vuodesta 2006, lahjoittajana Ins. toimisto Tuomo Hinkkanen</dd>
+		</dl>
+				
+		<h2>Otteluiden voittajat:</h2>
+				
+		<ul>
+			<li>1965 Hannu Kuuri</li>
+			<li>1966 Esko Salonen</li>
+			<li>1967 Jukka Marttila</li>
+			<li>1968 Per-Erik Renberg</li>
+			<li>1969 Jukka Marttila</li>
+			<li>1970 Paavo Lehtonen</li>
+			<li>1971 Esko Salonen</li>
+			<li>1972 Paavo Lehtonen</li>
+			<li>1973 Tarmo Lieskivi</li>
+			<li>1974 Paavo Lehtonen</li>
+			<li>1975 Pertti Uusitalo</li>
+			<li>1976 Torsti Niemelä</li>
+			<li>1977 Pertti Uusitalo</li>
+			<li>1978 Juhani Haartela</li>
+			<li>1979 J Salminen</li>
+			<li>1980 Pertti Uusitalo</li>
+			<li>1981 Matti Kattainen</li>
+			<li>1982 Esa Rinne</li>
+			<li>1983 Kai Grönqvist</li>
+			<li>1984 Markku Kokkonen</li>
+			<li>1985 Markku Kokkonen</li>
+			<li>1986 Markku Kokkonen</li>
+			<li>1987 Markku Kokkonen</li>
+			<li>1988 Markku Kokkonen</li>
+			<li>1989 Esa Salmela</li>
+			<li>1990 Markku Kokkonen</li>
+			<li>1991 Markku Kokkonen</li>
+			<li>1992 Matti Kattainen</li>
+			<li>1993 Markku Kokkonen</li>
+			<li>1994 Matti Kattainen</li>
+			<li>1995 Keijo Koivuniemi</li>
+			<li>1996 Keijo Koivuniemi</li>
+			<li>1997 Keijo Koivuniemi</li>
+			<li>1998 Markku Kokkonen</li>
+			<li>1999 Keijo Koivuniemi</li>
+			<li>2000 Kai Grönqvist</li>
+			<li>2001 Jesse Mattila</li>
+			<li>2002 Jukka Niemensivu</li>
+			<li>2003 Keijo Koivuniemi</li>
+			<li>2004 Matti Kattainen</li>
+			<li>2005 Jesse Mattila</li>
+			<li>2006 Keijo Koivuniemi</li>
+			<li>2007 Markku Kokkonen</li>
+			<li>2008 Markku Kokkonen</li>
+		</ul>
+
+		<h2>Etsintäkuulutus</h2>
+				
+		<div align="center"><img src="etsintakuulutus.jpg" width="690" height="979" alt="Ilmapistoolin etsintäkuulutus" /></div>
+		<br clear="all" />
+		<div class="hist_col_text">
+			Tällaisella etsintäkuulutuksella haeskeltiin jälkipeleissä kadonnutta ilmapistoolia. 
+			Se jäi kuitenkin kadoksiin ja uusi hankittiin Ilkka Hanskin toimesta yhdistyksen varoilla.
+		</div>
+
+	</div><!-- Story -->
+				
+	<!-- Markings going under the main story -->
+	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="pic_button_next"><a href="/historiikki/norjanretki/" title="Sähkökerhon kevätretki Norjaan eli tutustuminen sähkölämmitintehtaaseen ja valtamerikalastukseen"><span>seuraava sivu</span></a></div>
+	<div id="pic_button_back"><a href="#alku" title="Takaisin sivun alkuun"><span>alkuun</span></a></div>
