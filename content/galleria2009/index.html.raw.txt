@@ -8,7 +8,7 @@ keywords:    kuvat, galleria
 description: Galleria
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-09-04T03:03:26+0300"/>
+date:        <meta name="date" content="2010-09-06T14:03:51+0300"/>
 ---
 <div id="galleria">
    <div class="story">
@@ -24,7 +24,6 @@ date:        <meta name="date" content="2010-09-04T03:03:26+0300"/>
    	<p>Maukkaan musiikin säestyksellä nautimme laadukkaasta jouluateriasta - vai oliko se toisin päin? No, joka tapauksessa laillisen lahjonnan jälkeen tanssit jatkuivat aina pikkutunneille asti.</p>
    	<div class="clear_next" align="center"><a href="/galleria2009/pikkujoulut/">Lisää kuvia</a></div>
    </div><!-- Story -->
-</div>
 			
 <div class="story">
    <div class="event_caption">
@@ -174,4 +173,4 @@ date:        <meta name="date" content="2010-09-04T03:03:26+0300"/>
 						</td>
 					</tr>
 				</table>
-			</div><!-- Story -->
+			</div><!-- Story -->			
