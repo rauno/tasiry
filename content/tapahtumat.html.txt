@@ -7,7 +7,7 @@ keywords:    TASI ry, TASI, tapahtumat, tapahtuma
 description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
 robots:      ALL
 refresh:     28800
-date:        <meta name="date" content="2010-09-01T15:12:19+0300"/>
+date:        <meta name="date" content="2010-09-17T17:29:55+0300"/>
 ---
  <div class="story">
 
@@ -44,20 +44,23 @@ p(event_caption). %{float: left}Yhdistyksen sääntömääräinen syyskokous jä
  <!-- Happening -->
  <div class="happening">
 
-p(event_caption). %{float: left}Pikkujoulujuhlat% %{float: right}To 4.12.2010%
+p(event_caption). %{float: left}Pikkujoulujuhlat% %{float: right}To 4.12.2010 klo 18:00%
 
 !(article_pic)/pic/christmas_tree.png!
 
-Vain 80 nopeinta mahtuu mukaan.
+"Vanhan Raatihuoneen":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&amp;cp=105093,70435&amp;z=2&amp;title=Vanha%20Suurtori%205%2C%20Turku&amp;language=fin sali (Vanha Suurtori 5, Turku)
+
+Varaa paikkasi välittömästi, sillä vain 80 nopeinta mahtuu mukaan.
 
 * Jouluglöki
 * Jouluinen menu juomineen
 * Kahvi + avec
 * Tanssimusiikkia puoleenyöhön
-* Avec-tilaisuus
-* *Tarkemmat tiedot syyskuun aikana!*
+* Hinta vain 15 €/hlo (avec-tilaisuus)
 
 Ota pieni muutaman euron paketti mukaan, niin et jää lahjattomaksi.
+
+Osallistuminen on maksettava yhdistyksen tilille viimeistään 15.11 (tilille 800027-5167236). Laita maksuun viestiksi ”TASI pikkujoulu”, oma nimesi ja henkilömäärä. Esim: &#8220;TASI pikkujoulu, Matti Meikäläinen, 2 henkeä&#8221;.
 
 Vain osallistumisensa etukäteen maksaneet pääsevät mukaan.
 
