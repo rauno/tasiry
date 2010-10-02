@@ -1,1 +1,7 @@
-Web project for Turun Alueen Sähköinsinöörit ry.
+Turun Alueen Sähköinsinöörit ry:n verkkosivusto
+
+- Sivuston lähdekoodi on tallennettu Git-versionhallintajärjestelmään (http://git-scm.com/) osoitteessa "http://github.com/rauno/tasiry".
+
+- Generoidaksesi sivut täältä löytyvästä lähdekoodista tarvitset nanoc-kehittimen käyttäen (http://nanoc.stoneship.org/). Lisäksi käytetään seuraavia Ruby-kirjastoja (gems): kramdown, adsf, mime-types, haml ja RedCloth.
+
+- Valmis käännetty sivusto löytyy osoitteesta "http://www.tasiry.fi/".
