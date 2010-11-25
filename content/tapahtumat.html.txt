@@ -7,7 +7,7 @@ keywords:    TASI ry, TASI, tapahtumat, tapahtuma
 description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
 robots:      ALL
 refresh:     28800
-date:        <meta name="date" content="2010-09-17T17:29:55+0300"/>
+date:        <meta name="date" content="2010-11-25T18:42:12+0200" />
 ---
  <div class="story">
 
@@ -44,7 +44,7 @@ p(event_caption). %{float: left}Yhdistyksen sääntömääräinen syyskokous jä
  <!-- Happening -->
  <div class="happening">
 
-p(event_caption). %{float: left}Pikkujoulujuhlat% %{float: right}To 4.12.2010 klo 18:00%
+p(event_caption). %{float: left}Pikkujoulujuhlat% %{float: right}La 4.12.2010 klo 18:00%
 
 !(article_pic)/pic/christmas_tree.png!
 
@@ -69,11 +69,12 @@ Vain osallistumisensa etukäteen maksaneet pääsevät mukaan.
 
  <!-- Happening -->
  <div class="happening">
-
-p(event_caption). %{float: left}Koko perhe Caribialle kylpemään% %{float: right}La 22.1.2011 klo 11:00%
  
+p(event_caption). %{float: left}Koko perhe Caribialle kylpemään% %{float: right}Xx xx.2.2011 klo 11:00%
 !(article_pic)/pic/pescetto.png!
 
+p(note). Caribian remontista johtuen joudumme siirtämään tätä tapahtumaa! Uusi ajankohta ilmestyy tälle sivulle heti kun saamme sen sovittua kylpylän kanssa. 
+ 
 Kokoontuminen _kylpylän_ vastaanottoon. Mukaan uimavarustus ja pyyhe.
 
 * Paikkana "Kylpylähotelli Caribia":http://www.holidayclubhotels.fi/.
@@ -87,7 +88,6 @@ Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
 * lapset (alle 13 vuotta) ilmaiseksi
 
 Muut LOUSI:n aluejärjestöt: 15 € / 5 €
-
 <%= render "partials/ilmoittautuminen", :block => "help4", :day => "14", :month => "1", :year => "2011" %>
  </div>
 

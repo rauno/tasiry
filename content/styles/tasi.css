@@ -82,11 +82,16 @@ th
 	text-decoration: underline;
 }
 
-.rescheduled
+.note
 {
-	background-image: url(/pic/muutos.png);
-	background-position: 13em 4em;
-	background-repeat: no-repeat;
+   font-size: 16px;
+   background-color: #eee;
+	color: red;
+	padding: 3px;
+	border: 1px solid #000;
+   border-radius: 0.35em;
+	-moz-border-radius: 0.35em;  
+   -webkit-border-radius: 0.35em;
 }
 
 .sold_out
@@ -112,14 +117,14 @@ th
 	margin: auto;
 	margin-bottom: 10px;
 	padding: 10px;
-	border: 1px solid #000;
 	text-align: left;
+	border: 1px solid #000;
+   border-radius: 1em;
+	-moz-border-radius: 1em;  
+   -webkit-border-radius: 1em;
 	-moz-box-shadow: 2px 4px 8px #aaa;
 	-webkit-box-shadow: 2px 4px 8px #aaa;
 	box-shadow: 2px 4px 8px #aaa;
-	-moz-border-radius: 1em;  
-   -webkit-border-radius: 1em;
-   border-radius: 1em;
 }
 
 .story h1

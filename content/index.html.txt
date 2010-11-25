@@ -7,7 +7,7 @@ keywords:    LOUSI, UIL, insinööriliitto, Turku, insinööri, sähköinsinöö
 description: Etusivu
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-09-01T12:00:28+0300"/>
+date:        <meta name="date" content="2010-11-25T17:02:37+0200" />
 ---
  <div id="tervehdys" class="story">
  
@@ -20,7 +20,6 @@ Jäseniämme ovat kaikki Turun ja sen lähikuntien järjestäytyneet sähköinsi
 * Loimaan Alueen Insinöörit ry - LAI
 * Metson Ylemmät Toimihenkilöt MYT ry
 * "Salon Alueen Insinöörit ry - SAI":http://www.sai.fi/
-* Turun Alueen Rakennusinsinöörit TARI ry
 * "Turun Insinöörikerho TUIKE ry":http://www.tuike.fi/
 * Vakka-Suomen Insinöörit ry
 * Varsinais-Suomen Insinöörit ry - VARSI

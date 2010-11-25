@@ -7,7 +7,7 @@ keywords:    hallitus
 description: Hallitus
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-09-03T11:07:25+0300"/>
+date:        <meta name="date" content="2010-11-25T18:37:35+0200" />
 ---
  <div class="story">
  
@@ -22,7 +22,7 @@ table(person_table).
 *Jesse Mattila*
 <br />
 Puheenjohtaja,
-kausi 2009 - 2010
+kausi 2011 - 2012
 <br />
 (040) 546 4232
 jesse.mattila<span>!/pic/at.png(@)!</span>perkinelmer.com
@@ -44,20 +44,20 @@ Sihteeri, kausi 2010 - 2011
 matti.ol.lehtinen<span>!/pic/at.png(@)!</span>metso.com|!/pic/Jukka.jpg(Jukka)!
 *Jukka Niemensivu*
 <br />
-Taloudenhoitaja, kausi 2009 - 2010
+Taloudenhoitaja, kausi 2011 - 2012
 <br />
 (040) 753 1858
 jukka.niemensivu<span>!/pic/at.png(@)!</span>turkuamk.fi|
 |!/pic/Jari.jpg(Jari)!
 *Jari Hiltunen*
 <br />
-Jäsen, kausi 2009 - 2010
+Jäsen, kausi 2011 - 2012
 <br />
 (0400) 614 447
 ins.hiltunen<span>!/pic/at.png(@)!</span>gmail.com|!/pic/Tuomo.jpg(Tuomo)!
 *Tuomo Hinkkanen*
 <br />
-Jäsen, kausi 2009 - 2010
+Jäsen, kausi 2011 - 2012
 <br />
 (0400) 440 147
 tsto.hinkkanen<span>!/pic/at.png(@)!</span>co.inet.fi|
@@ -67,32 +67,25 @@ tsto.hinkkanen<span>!/pic/at.png(@)!</span>co.inet.fi|
 Jäsen, kausi 2010 - 2011
 <br />
 (040) 569 3567
-alpo.holsti<span>!/pic/at.png(@)!</span>pp1.inet.fi|!/pic/Markku.jpg(Markku)!
-*Markku Kokkonen*
-<br />
-Jäsen, kausi 2009 - 2010
-<br />
-(0400) 825 320
-markkukokkonen<span>!/pic/at.png(@)!</span>dnainternet.net|
-|!/pic/Jouko.jpg(Jouko)!
+alpo.holsti<span>!/pic/at.png(@)!</span>pp1.inet.fi|!/pic/Jouko.jpg(Jouko)!
 *Jouko Laine*
 <br />
-Jäsen, kausi 2009 - 2010
+Jäsen, kausi 2011 - 2012
 <br />
 (040) 593 1174
-jouko.j.laine<span>!/pic/at.png(@)!</span>kolumbus.fi|!/pic/Viktor.jpg(Viktor)!
+jouko.j.laine<span>!/pic/at.png(@)!</span>kolumbus.fi|
+|!/pic/Viktor.jpg(Viktor)!
 *Viktor van Meer*
 <br />
 Jäsen, kausi 2010 - 2011
 <br />
 (0500) 784 074
-viktor.meer<span>!/pic/at.png(@)!</span>netti.fi|
-|!/pic/Rauno.jpg(Rauno)!
+viktor.meer<span>!/pic/at.png(@)!</span>netti.fi|!/pic/Rauno.jpg(Rauno)!
 *Rauno Uusitalo*
 <br />
 Jäsen, kausi 2010 - 2011
 <br />
 (050) 328 7357
-rauno.uusitalo<span>!/pic/at.png(@)!</span>gmail.com||
+rauno.uusitalo<span>!/pic/at.png(@)!</span>gmail.com|
 
  </div>
