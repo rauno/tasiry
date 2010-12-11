@@ -7,11 +7,11 @@ keywords:    hallitus
 description: Hallitus
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-11-25T18:37:35+0200" />
+date:        <meta name="date" content="2010-12-11T15:31:53+0200" />
 ---
  <div class="story">
  
-h1. Hallitus 2010
+h1. Hallitus 2011
 
 *Hallitus on yhdistyksemme toimeenpaneva voima. Halutessasi lisätietoa TASI:n toimintaan liittyvistä asiosta, voit ottaa yhteyttä alla oleviin hallituksen jäseniin.*
 

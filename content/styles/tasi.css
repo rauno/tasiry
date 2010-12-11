@@ -92,6 +92,20 @@ th
    border-radius: 0.35em;
 	-moz-border-radius: 0.35em;  
    -webkit-border-radius: 0.35em;
+	-moz-transition-property: background-color color;
+	-webkit-transition-property: background-color color;
+	-moz-transition-duration: 0.5s; 
+	-webkit-transition-duration: 0.5s; 
+}
+
+.note:hover
+{
+	color: #fff; 
+	background-color: #69f; 
+	-moz-transition-property: background-color color;
+	-webkit-transition-property: background-color color;
+	-moz-transition-duration: 0.5s; 
+	-webkit-transition-duration: 0.5s; 
 }
 
 .sold_out

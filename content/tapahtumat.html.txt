@@ -7,7 +7,7 @@ keywords:    TASI ry, TASI, tapahtumat, tapahtuma
 description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
 robots:      ALL
 refresh:     28800
-date:        <meta name="date" content="2010-11-25T18:42:12+0200" />
+date:        <meta name="date" content="2010-12-07T11:05:09+0200" />
 ---
  <div class="story">
 
@@ -88,6 +88,7 @@ Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
 * lapset (alle 13 vuotta) ilmaiseksi
 
 Muut LOUSI:n aluejärjestöt: 15 € / 5 €
+
 <%= render "partials/ilmoittautuminen", :block => "help4", :day => "14", :month => "1", :year => "2011" %>
  </div>
 

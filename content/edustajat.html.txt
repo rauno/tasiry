@@ -7,11 +7,11 @@ keywords:    edustajat
 description: Edustajamme muissa organisaatioissa
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-11-25T18:36:51+0200" />
+date:        <meta name="date" content="2010-12-11T13:43:59+0200" />
 ---
  <div class="story">
  
-h1. Edustajamme LOUSI ry:ssä 2010
+h1. Edustajamme LOUSI ry:ssä 2011
 				
 Lounais-Suomen Insinöörit LOUSI ry toimii alueellisesti ja edustaa kaikkia alueemme insinöörejä UIL:n edustajakokouksissa. Tätä kautta pääsemme vaikuttamaan valtakunnan tason asioihin.
 				
@@ -20,6 +20,8 @@ h2. Hallituksessa
 table(person_table).
 |!/pic/Pertti.jpg(Pertti)!
 *Pertti Degerholm*
+<br />
+kausi 2010 - 2011
 <br />
 (040) 842 1177
 pertti.degerholm<span>!/pic/at.png(@)!</span>gmail.com||
