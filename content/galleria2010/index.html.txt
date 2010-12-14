@@ -8,7 +8,7 @@ keywords:    kuvat, galleria
 description: Galleria
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-12-14T21:54:08+0200" />
+date:        <meta name="date" content="2010-12-14T23:02:03+0200" />
 ---
 <div id="galleria">
    <div class="story">
@@ -25,6 +25,23 @@ Silja Galaxyn lähdettyä satamasta siirryimme kokoustilaamme.
 
       <div class="clear_next" style="text-align: center">
          "Lisää kuvia":/galleria2010/gallery/kevätkokous/
+      </div>
+   </div>
+</div>
+
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+         <span style="float: left">Tutustuminen Gdanskin historiaan</span>
+         <span style="float: right">Pe 21.5.2010</span>
+      </div>    
+
+!gallery/gdansk.jpg(Gdanskissa)!
+   
+Keväällä TASI:n jäsenet kävivät tutustumassa Suomenlahden toiselta puolelta löytyvään historialliseen Gdanskiin.
+
+      <div class="clear_next" style="text-align: center">
+         "Lisää tarinaa":gallery/gdansk_2010.pdf
       </div>
    </div>
 </div>
