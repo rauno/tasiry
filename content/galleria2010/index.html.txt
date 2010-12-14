@@ -8,23 +8,42 @@ keywords:    kuvat, galleria
 description: Galleria
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-09-04T02:52:42+0300"/>
+date:        <meta name="date" content="2010-12-14T21:54:08+0200" />
 ---
 <div id="galleria">
    <div class="story">
       <div class="event_caption">
-         <span style="float: left"> Kevätkokous</span>
+         <span style="float: left">Kevätkokous</span>
          <span style="float: right">La 6.2.2010</span>
       </div>    
 
-!kevätkokous1.jpg(Kevätkokous 2010)!
+!gallery/kevätkokous.jpg(Kevätkokous)!
    
 Tänä vuonna kevätkokous pidettiin Picnic-risteilyllä välillä Turku - Maarianhamina - Turku.
 
 Silja Galaxyn lähdettyä satamasta siirryimme kokoustilaamme. 
 
       <div class="clear_next" style="text-align: center">
-         "Lisää kuvia":/galleria2010/kevätkokous/
+         "Lisää kuvia":/galleria2010/gallery/kevätkokous/
+      </div>
+   </div>
+</div>
+
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+         <span style="float: left">Pikkujoulut</span>
+         <span style="float: right">La 4.12.2010</span>
+      </div>    
+
+!gallery/pikkujoulut.jpg(Vanha Raatihuone)!
+
+Pikkujouluja vietimme perinteikkäästi (jo toista kertaa) Vanhan Raatihuoneen salissa.
+
+Tarjolla oli jouluruokaa ja tanssia elävän musiikin kera. Syötyämme myös joulupukki vieraili luonamme eikä kenenkään tarvinnut poistua paikalta lahjattomana.  
+
+      <div class="clear_next" style="text-align: center">
+         "Lisää kuvia":/galleria2010/gallery/pikkujoulut/
       </div>
    </div>
 </div>			
