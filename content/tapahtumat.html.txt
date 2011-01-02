@@ -7,7 +7,7 @@ keywords:    TASI ry, TASI, tapahtumat, tapahtuma
 description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
 robots:      ALL
 refresh:     28800
-date:        <meta name="date" content="2010-12-07T11:05:09+0200" />
+date:        <meta name="date" content="2011-01-02T20:23:33+0200" />
 ---
  <div class="story">
 
@@ -89,14 +89,13 @@ Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
 
 Muut LOUSI:n aluejärjestöt: 15 € / 5 €
 
-<%= render "partials/ilmoittautuminen", :block => "help4", :day => "14", :month => "1", :year => "2011" %>
+<%= render "partials/ilmoittautuminen", :block => "help4", :day => "1", :month => "1", :year => "2011" %>
  </div>
 
  <!-- Happening -->
  <div class="happening">
 
 p(event_caption). %{float: left}Sääntömääräinen yhdistyksen kevätkokous jäsenille% %{float: right}To 24.3.2011 klo 18:00%
-
 !(article_pic)/pic/kokous.png!
 
 "Panimoravintola Koulu":http://www.panimoravintolakoulu.fi/, Eerikinkatu 18, Turku
