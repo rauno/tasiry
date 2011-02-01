@@ -7,10 +7,18 @@ keywords:    TASI ry, TASI, tapahtumat, tapahtuma
 description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
 robots:      ALL
 refresh:     28800
-date:        <meta name="date" content="2011-01-04T00:40:10+0200" />
+date:        <meta name="date" content="2011-02-01T17:55:49+0200" />
 ---
  <div class="story">
+ 
+p(event_caption). %{float: left}Tapahtumakalenteri%
 
+ <iframe src="https://www.google.com/calendar/embed?title=TASI%20ry&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=tasiry%40gmail.com&amp;color=%232952A3&amp;src=ht3jlfaac5lfd6263ulfh4tql8%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=finnish__fi%40holiday.calendar.google.com&amp;color=%230D7813&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23A32929&amp;ctz=Europe%2FHelsinki" style=" border:solid 1px #777 " width="716" height="400" frameborder="0" scrolling="no"></iframe>
+
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
 p(event_caption). %{float: left}Kolmiottelu Elektroskandialla% %{float: right}To 23.9.2010 klo 18:00%
 
 !(article_pic)/pic/target_with_arrow.png!
