@@ -1,12 +1,12 @@
 ---
 title:       Ilmittautuminen
 copyright:   Turun Alueen Sähköinsinöörit TASI ry
-date:        <meta name="date" content="2010-09-01T15:08:42+0300"/>
+date:        <meta name="date" content="2011-02-10T21:28:17+0200" />
 filter:
   - erb
   - textile
 ---
-_Ilmoittautuminen viimeistään  <%= day%>.<%= month%>!_
+_Ilmoittautuminen viimeistään <%= day%>.<%= month%>!_
 
  <div id="<%= block%>" style="display:none; margin-bottom: 1em;">
  <hr />
@@ -34,6 +34,6 @@ _Ilmoitathan heti (sähköpostilla samaan osoitteeseen), jos joudut perumaan tul
  <hr />
  </div>
 
- <div style="float: left;">!/pic/smallarrow.png!" Ilmoittautumiset tästä":mailto:tapahtumat@tasiry.fi?subject=TASI%3A%20%3Ctapahtuma%20t%C3%A4h%C3%A4n%3E&amp;body=Ilmoittaudun%20mukaan%3A%20%3Cnimesi%3E%2C%20%3Cn%3E%20henke%C3%A4%2C%20%3Clis%C3%A4tiedot%3E%0A%0A(Korvaa%20%22%3C%22-%20ja%20%22%3E%22-merkkien%20v%C3%A4liset%20alueet%20omilla%20tiedoillasi!)<script type="text/javascript">
+ <div style="float: left;">!/pic/smallarrow.png!"Ilmoittautumiset tästä":mailto:tapahtumat@tasiry.fi?subject=TASI%3A%20%3Ctapahtuma%20t%C3%A4h%C3%A4n%3E&amp;body=Ilmoittaudun%20mukaan%3A%20%3Cnimesi%3E%2C%20%3Cn%3E%20henke%C3%A4%2C%20%3Clis%C3%A4tiedot%3E%0A%0A(Korvaa%20%22%3C%22-%20ja%20%22%3E%22-merkkien%20v%C3%A4liset%20alueet%20omilla%20tiedoillasi!)<script type="text/javascript">
  document.write(checkDate(<%= day%>, <%= month%>, <%= year%>))</script></div>
  <div class="clear_next"><span class="button"><a href="javascript:display('<%= block%>','block');">Näytä ohje!</a></span></div>

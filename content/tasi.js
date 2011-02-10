@@ -5,7 +5,7 @@ function checkDate(date, month, year)
 	var today = new Date();
 	var daysLeft = Math.floor((expire.valueOf() - today.valueOf()) / (24 * 60 * 60 * 1000) + 1);					
 			
-	return (daysLeft >= 0) ? " (vielä " + (daysLeft + 1) + " päivää)" : " (TÄYNNÄ!)";
+	return (daysLeft >= 0) ? " (vielä enintään " + (daysLeft + 1) + " päivää)" : " (SULJETTU!)";
 }
 
 <!-- Nykyinen päivämäärä -->

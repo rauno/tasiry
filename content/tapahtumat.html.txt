@@ -7,7 +7,7 @@ keywords:    TASI ry, TASI, tapahtumat, tapahtuma
 description: Turun Alueen Sähköinsinöörit TASI ry, Tapahtumat jäsenille
 robots:      ALL
 refresh:     28800
-date:        <meta name="date" content="2011-02-01T17:55:49+0200" />
+date:        <meta name="date" content="2011-02-10T21:31:52+0200" />
 ---
  <div class="story">
  
@@ -112,6 +112,29 @@ p(event_caption). %{float: left}Sääntömääräinen yhdistyksen kevätkokous j
 * Iltapala
 
 <%= render "partials/ilmoittautuminen", :block => "help5", :day => "17", :month => "3", :year => "2011" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Vares ja nuoruustango% %{float: right}To 21.7.2011 klo 19:00%
+!(article_pic)/pic/drama-masks.png!
+
+JUSSI VARES VOI LÄHTEÄ MERIKARVIALTA, MUTTA MERIKARVIA EI LÄHDE JUSSI VAREKSESTA.
+
+Muistot palaavat pätkittäin, kun yksityisetsivä Vareksen nuoruudenystäviä alkaa yllättäen putkahdella esiin kotikulmilla Turussa. Vanhat kaverit ovat kylläkin vuosien saatossa vähän muuttuneet – eivätkä välttämättä parempaan suuntaan...
+
+Paikkana "Teatteri Emma":http://www.emmateatteri.fi/, Kailon saari, Naantali.
+
+Varaa paikkasi välittömästi, sillä vain 60 nopeinta mahtuu mukaan. Avec-tilaisuus.
+
+Koko paketin hinta on vain 15 &euro; / henkilö, sisältäen lipun ja väliaikatarjoilut.
+
+Liput on maksettava yhdistyksen tilille viimeistään 23.6. Tilinumero 800027-5167236. Vain lippunsa etukäteen maksaneet pääsevät mukaan!
+
+Liput noudettavissa portilta TASI:n edustajalta 18:50 asti, sen jälkeen lippuluukulta.
+
+<%= render "partials/ilmoittautuminen", :block => "help6", :day => "23", :month => "6", :year => "2011" %>
  </div>
 
  <!-- Happening -->
