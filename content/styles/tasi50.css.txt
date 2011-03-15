@@ -3,49 +3,49 @@
 !selectedColor = #d7d7f7
 
 h1
-   color = !mainColor
+   color: !mainColor
    
 h2
-   color = !mainColor
+   color: !mainColor
    
 h3
-   color = !mainColor
+   color: !mainColor
 
 .columnLeftBox ul li a
-   color = !mainColor
+   color: !mainColor
 
 tr
-   background-color = !tableColor 
+   background-color: !tableColor 
 
 td
-   vertical-align = "top"
+   vertical-align: "top"
 
 .story img
-   -moz-box-shadow = 4px 6px 16px #000
-   -webkit-box-shadow = 4px 6px 16px #000
-   box-shadow = 4px 6px 16px #000
+   -moz-box-shadow: 4px 6px 16px #000
+   -webkit-box-shadow: 4px 6px 16px #000
+   box-shadow: 4px 6px 16px #000
 
 .pic_left
-   float = "left"
-   margin-left = 14px
-   margin-right = 14px
+   float: "left"
+   margin-left: 14px
+   margin-right: 14px
 
 .pic_right
    float = "right"
-   margin-left = 14px
-   margin-right = 14px
+   margin-left: 14px
+   margin-right: 14px
 
 #index ul
-   line-height = 1.4em
+   line-height: 1.4em
 
 #index ul a:link, #index ul a:visited
-   text-decoration = "none"
+   text-decoration: "none"
 
 #index ul a:hover, #index ul a:active
-   text-decoration = "underline"
+   text-decoration: "underline"
 
 #tai-tiedottaa img
-   margin-bottom = 1.5em
+   margin-bottom: 1.5em
    
 tr:hover 
-   background-color = !selectedColor
+   background-color: !selectedColor

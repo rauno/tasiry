@@ -2,11 +2,7 @@
 title:       Tervetuloa mukaan!
 layout:      main
 active_menu: 1
-copyright:   Turun Alueen Sähköinsinöörit TASI ry
-keywords:    LOUSI, UIL, insinööriliitto, Turku, insinööri, sähköinsinööri
 description: Etusivu
-robots:      ALL
-refresh:     0
 date:        <meta name="date" content="2010-11-25T17:02:37+0200" />
 ---
  <div id="tervehdys" class="story">

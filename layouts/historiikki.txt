@@ -1,28 +1,23 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi" lang="fi">
 <head>
+	<title><%= @item[:title] %></title>
+	
 	<%= @item[:date] %>	
-   <meta name="author" content="Rauno Uusitalo"/>
-	<meta name="copyright" content="Turun Alueen Sähköinsinöörit TASI ry"/>
-	<meta name="keywords" content="TASI ry, TASI, historiikki, <%= @item[:keywords] %>"/>
-	<meta name="description" content="Turun Alueen Sähköinsinöörien historiikki 2008 - <%= @item[:description] %>"/>
-	<meta name="ROBOTS" content="<%= @item[:robots] %>"/>
+   <meta name="author" content="Rauno Uusitalo" />
+	<meta name="description" content="<%= @item[:description] %>"/>
 
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
-	<meta http-equiv="content-style-type" content="text/css"/>
-	<% if @item[:refresh] > 0 %> <meta http-equiv="refresh" content="<%@item[:refresh] %>" /> <% end %>
 
 	<link href="/styles/tasi.css" rel="stylesheet" type="text/css"/>
 	<link href="/styles/tasi50.css" rel="stylesheet" type="text/css"/>
-	<link rel="shortcut icon" href="/pic/tasi.png"/>
 	
-	<title><%= @item[:title] %></title>
+	<link rel="shortcut icon" href="/pic/tasi.png"/>
 </head>
 
 <body>
    <div id="banner">
-      <div id="bannerPic" />
+      <div id="bannerPic"></div>
   		<div id="header">
    		<span style="float: left">
    			Turun Alueen Sähköinsinöörit TASI ry</span>
