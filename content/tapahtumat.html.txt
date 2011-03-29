@@ -3,7 +3,7 @@ title:       Tapahtumat
 layout:      main
 active_menu: 2
 description: Tapahtumat j&auml;senille
-date:        <meta name="date" content="2011-03-15T08:56:55+0200" />
+date:        <meta name="date" content="2011-03-26T21:34:07+0200" />
 ---
  <div class="story">
  
@@ -55,14 +55,24 @@ p(event_caption). %{float: left}Sääntömääräinen yhdistyksen kevätkokous j
  <!-- Happening -->
  <div class="happening">
 
-p(event_caption). %{float: left}Yllätysexcursio% %{float: right}To xx.4.2011 klo xx:xx%
-!(article_pic)/pic/comet.png!
+p(event_caption). %{float: left}Linturetki Kauvatsan luontoon% %{float: right}La 7.5.2011 klo 10:00%
+!(article_pic)/pic/bird.png!
 
-Ilmoitamme sisällöstä kunhan saamme sen selville!
+Lähdemme siis lauantaina tipuja tiirailemaan. Oppaanamme toimivat kokeneen lintuasiantuntijat Niina Uusi-Seppä ja Kaj Grönqvist. Mukaan mahtuu 50 henkeä.
 
-* Yhdessäoloa!
-* Jotain haukattavaa?
-* Kaikkea kivaa...
+Ohjelma:
+* Lähtö Turun linja-autoaseman tilausliikennelaiturista klo 10:00.
+* Perillä lämmin mehu ja pulla.
+* Kauvatsan Puurijärvi, lintutorni n. klo 11:45...13:45.
+* Keittolounas Kauvatsan keskustassa (keitto, leipä, leikkeleet, kevyet juomat, kahvi/tee, makea pala) klo 14:00.
+* Bussikierros Kauvatsalla klo 15:00.
+* Takaisin Turussa klo 17:30 - 18:00.
+
+Varustus: ulkoiluvarustus, kiikari tai kaukoputki. (Joitakin kiikareita ja kaukoputkia lainattavissa myös perillä.)
+
+Osallistumismaksu 5 € ja alle kouluikäiset ilmaiseksi. Maksu kerätään linja-autossa, varaa mielellään tasaraha.
+
+Matkan varrelta myös (esim. Auran ABC ja tien 41 varrelta) mahdollisuus päästä kyytiin. 
 
 <%= render "partials/ilmoittautuminen", :block => "help6", :day => "1", :month => "4", :year => "2011" %>
  </div>
