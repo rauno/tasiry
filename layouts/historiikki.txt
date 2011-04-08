@@ -28,12 +28,12 @@
    </div><!-- end banner -->
 
 <!-- This is only shown with old IE browsers! -->
-<!--[if lte IE 6]>
+<!--[if lte IE 7]>
 <div id="ie6" class="story">
 <img class="article_pic" src="pic/varoitus.png" width="156" height="144" alt="varoitus" />
 <h1>Selaimesi on vanhentunut!</h1>
-<p>Käytät jo kauan sitten vanhentunutta Internet Explorer -selainta. Tämä sivusto ei ole sen kanssa yhteensopiva ja sivut näkyvät väärin. Myös yksityisyytesi ja tietojesi turvallisuus voivat vaarantua!</p>
-Hyvä vaihtoehto on siirtyä vapaaseen koodiin perustuvan <a href="http://www.mozilla-europe.org/fi/firefox" target="_blank" title="Mozilla Firefox">Firefox-selaimen</a> käyttöön.  
+<p>Käytät jo kauan sitten vanhentunutta Internet Explorer -selainta! Valitettavasti sivustomme ei näy selaimessasi oikein.</p>
+<p>Parhaan käyttökokemuksen saavuttamiseksi suosittelemme avoimeen koodiin perustuvaa <a href="http://www.mozilla-europe.org/fi/firefox" target="_blank" title="Mozilla Firefox">Firefox</a>-selainta, mutta myös muut nykyiset selaimet toimivat.</p>
 </div>
 <br />
 <![endif]-->			
