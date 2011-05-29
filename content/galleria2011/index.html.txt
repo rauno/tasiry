@@ -1,0 +1,30 @@
+---
+title:       Galleria 2011
+layout:      main
+active_menu: 8
+gallery:     5
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: Galleria
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2011-05-29T17:12:39+0300" />
+---
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+         <span style="float: left">Linturetki Puurijärvelle</span>
+         <span style="float: right">La 7.5.2011</span>
+      </div>    
+
+!gallery/linturetki.jpg(Linturetki)!
+   
+Vietimme lämpimän kevätpäivän Puurijärvellä tutustuen ornitologiaan. Tähän Kauvatsalla kunnostettu lintujärvi upeine lintutorneineen tarjosi hienot puitteet. 
+
+Päivän päätteeksi tutustuimme isäntänämme toimineen Tuomo Hinkkasen opastukselle myös Kauvatsa-cityyn, jossa mm. söimme maittavan keittolounaan. 
+
+      <div class="clear_next" style="text-align: center">
+         "Lisää kuvia":/galleria2011/gallery/linturetki/
+      </div>
+   </div>
+</div>
