@@ -1,6 +1,6 @@
-$mainColor = #131998
-$tableColor = #f7f7f7
-$selectedColor = #d7d7f7
+$mainColor: #131998
+$tableColor: #f7f7f7
+$selectedColor: #d7d7f7
 
 h1
    color: $mainColor
@@ -31,7 +31,7 @@ td
    margin-right: 14px
 
 .pic_right
-   float = "right"
+   float: "right"
    margin-left: 14px
    margin-right: 14px
 
@@ -48,4 +48,4 @@ td
    margin-bottom: 1.5em
    
 tr:hover 
-   background-color: !selectedColor
+   background-color: $selectedColor

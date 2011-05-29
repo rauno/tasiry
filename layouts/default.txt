@@ -18,7 +18,7 @@
 	
 </head>
 
-<body>
+<body onload="JavaScript:timedRefresh(43200000);">
    <div id="banner">
       <div id="bannerPic"></div>
   		<div id="header">

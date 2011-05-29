@@ -33,5 +33,5 @@ function display(id, state)
 
 <!-- Provide autorefresh functionality -->
 function timedRefresh(timeoutPeriod) {
-	setTimeout("location.reload(true);",timeoutPeriod);
+	setTimeout("location.reload(true);", timeoutPeriod);
 }
