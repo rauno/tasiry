@@ -3,7 +3,7 @@ title:       Tapahtumat
 layout:      main
 active_menu: 2
 description: Tapahtumat j&auml;senille
-date:        <meta name="date" content="2011-04-01T19:35:52+0300" />
+date:        <meta name="date" content="2011-05-29T18:05:18+0300" />
 ---
  <div class="story">
  
@@ -12,6 +12,7 @@ p(event_caption). %{float: left}Tapahtumakalenteri%
  <iframe src="https://www.google.com/calendar/embed?title=TASI%20ry&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=tasiry%40gmail.com&amp;color=%232952A3&amp;src=ht3jlfaac5lfd6263ulfh4tql8%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=finnish__fi%40holiday.calendar.google.com&amp;color=%230D7813&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23A32929&amp;ctz=Europe%2FHelsinki" style=" border:solid 1px #777 " width="716" height="400"></iframe>
 
  </div>
+ <script>timedRefresh(43200000);</script>
 
  <!-- Happening -->
  <div class="happening">

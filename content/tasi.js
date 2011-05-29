@@ -30,3 +30,8 @@ function display(id, state)
 {
 	document.getElementById(id).style.display = state;
 }
+
+<!-- Provide autorefresh functionality -->
+function timedRefresh(timeoutPeriod) {
+	setTimeout("location.reload(true);",timeoutPeriod);
+}

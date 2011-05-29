@@ -15,6 +15,7 @@
    <link rel="shortcut icon" href="/pic/tasi.png" />			
 	
 	<script src="/tasi.js" type="text/javascript"></script>
+	
 </head>
 
 <body>
@@ -27,7 +28,7 @@
    			<a href="http://www.lousi.fi/" title="Aluetoiminta" onclick="window.open(this.href,'_blank');return false;">Lounais-Suomen Alueen Insinöörit LOUSI ry</a> |
    			<a href="http://www.uil.fi/" title="UIL" onclick="window.open(this.href,'_blank');return false;">Uusi Insinööriliitto UIL ry</a></span>
    	</div><!-- end header -->
-   </div><!-- end banner -->
+   </div><!-- end banner -->   
 		
 <!-- This is only shown with old IE browsers! -->
 <!--[if lte IE 7]>
