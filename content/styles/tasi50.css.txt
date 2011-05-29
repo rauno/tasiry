@@ -1,21 +1,21 @@
-!mainColor = #131998
-!tableColor = #f7f7f7
-!selectedColor = #d7d7f7
+$mainColor = #131998
+$tableColor = #f7f7f7
+$selectedColor = #d7d7f7
 
 h1
-   color: !mainColor
+   color: $mainColor
    
 h2
-   color: !mainColor
+   color: $mainColor
    
 h3
-   color: !mainColor
+   color: $mainColor
 
 .columnLeftBox ul li a
-   color: !mainColor
+   color: $mainColor
 
 tr
-   background-color: !tableColor 
+   background-color: $tableColor 
 
 td
    vertical-align: "top"

@@ -70,6 +70,7 @@
 		<div class="columnLeftBox">
 			<p><b>Valinnat:</b></p>
 			<ul>
+				<li><a href="/galleria2011/" <% if @item[:gallery] == 5 %> class="current" <% end %> title="Vuoden 2011 kuvat">2011</a></li>
 				<li><a href="/galleria2010/" <% if @item[:gallery] == 4 %> class="current" <% end %> title="Vuoden 2010 kuvat">2010</a></li>
 				<li><a href="/galleria2009/" <% if @item[:gallery] == 3 %> class="current" <% end %> title="Vuoden 2009 kuvat">2009</a></li>
 				<li><a href="/galleria2008/" <% if @item[:gallery] == 2 %> class="current" <% end %> title="Vuoden 2008 kuvat">2008</a></li>
