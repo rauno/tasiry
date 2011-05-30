@@ -62,7 +62,7 @@
 				<li><a href="/edustajat/" <% if @item[:active_menu] == 5 %> class="current" <% end %> title="TASI:n edustajat muissa järjestöissä">Edustajat</a></li>
 				<li><a href="/historiikki/" <% if @item[:active_menu] == 6 %> class="current" <% end %> title="TASI:n historiaa vuosilta 1959 - 2008">Historiikki</a></li>
 				<li><a href="/historiaa/" <% if @item[:active_menu] == 7 %> class="current" <% end %> title="Historiallisia tapahtumia">Menneitä</a></li>
-				<li><a href="/galleria2010/" <% if @item[:active_menu] == 8 %> class="current" <% end %> title="Kuva kertokoon enemmän">Galleria</a></li>
+				<li><a href="/galleria2011/" <% if @item[:active_menu] == 8 %> class="current" <% end %> title="Kuva kertokoon enemmän">Galleria</a></li>
 			</ul>
 		</div><!-- columnLeftBox -->
 			
