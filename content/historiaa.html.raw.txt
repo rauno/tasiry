@@ -7,7 +7,7 @@ keywords:    historiaa
 description: Historiaa
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-09-03T11:38:29+0300"/>
+date:        <meta name="date" content="2011-08-29T20:18:13+0300" />
 ---
 			<!-- Main story section -->
 			<div class="story">
@@ -31,6 +31,14 @@ date:        <meta name="date" content="2010-09-03T11:38:29+0300"/>
 				<div class="event_caption">Järjestämiämme tapahtumia</div>
 				<div style="text-align: center"><img src="/pic/historiaa/tapahtumat.png" alt="diagrammi" /></div>
 				<div class="event_story">
+					Vuoden 2010 tapahtumat:
+					<ul>
+						<li>Perhetapahtuma Caribia-kylpylässä</li>
+						<li>Kevätkokous panimoravintola Koulussa</li>
+						<li>Perheretki Puurijärven lintutornille</li>
+						<li>Vares ja nuoruustango teatteri Emmassa.</li>
+					</ul>
+				
 					Vuoden 2009 tapahtumat:
 					<ul>
 						<li>Perhetapahtuma Caribia-kylpylässä</li>

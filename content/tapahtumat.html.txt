@@ -3,7 +3,7 @@ title:       Tapahtumat
 layout:      main
 active_menu: 2
 description: Tapahtumat j&auml;senille
-date:        <meta name="date" content="2011-05-29T20:31:31+0300" />
+date:        <meta name="date" content="2011-08-29T21:59:11+0300" />
 ---
  <div class="story">
  
@@ -16,90 +16,34 @@ p(event_caption). %{float: left}Tapahtumakalenteri%
  <!-- Happening -->
  <div class="happening">
  
-p(event_caption). %{float: left}Koko perhe Caribialle kylpemään% %{float: right}La 12.2.2011 klo 11:00%
-!(article_pic)/pic/pescetto.png!
+p(event_caption). %{float: left}Perinteinen 3-ottelu% %{float: right}To 15.9.2011 klo 18:00%
+!(article_pic)/pic/trophy.png!
 
-p(note). Caribian remontista johtuen jouduimme siirtämään tätä tapahtumaa. Huomaa muuttunut ajankohta! 
+Kaikki jäsenet joukolla kisaamaan ”Tuomon Pokaali”-kiertopalkinnosta ja muista palkinnoista.
+
+* Tapahtumapaikkana toimivat VAK Oy:n tilat osoitteessa "Paattistentie 57, Rusko":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&cp=6722836,23462812&z=2&title=Paattistentie%2057%2C%20Rusko&language=fin.
+* Mestaruutta ratkotaan ilmapistooliammunnassa sekä tikan- ja renkaanheitossa.
+* Ottelun jälkeen jälkipelit kahvitarjoilun lomassa.			
+
+<%= render "partials/ilmoittautuminen", :block => "help1", :day => "6", :month => "9", :year => "2011" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
  
-Kokoontuminen _kylpylän_ vastaanottoon. Mukaan uimavarustus ja pyyhe.
+p(event_caption). %{float: left}Tutustuminen äänentoiston saloihin% %{float: right}Ke 12.10.2011 klo 18:00%
+!(article_pic)/pic/radio.png!
 
-* Paikkana "Kylpylähotelli Caribia":http://www.holidayclubhotels.fi/.
-* Ruokailu sisältyy maksuun.
-* Maksetaan sisäänkäynnin yhteydessä TASI:n edustajalle.
-* Mukaan mahtuu noin 50 ensinnä ilmoittautunutta.
-* *Osallistujien sukupuolet ja lasten iät mainittava ilmoittauduttaessa.*
-						
-Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
-* aikuiset 10 €
-* lapset (alle 13 vuotta) ilmaiseksi
+Tarjolla äänentoiston saloihin tutustuminen Hifimestan tiloissa.
 
-Muut LOUSI:n aluejärjestöt: 15 € / 5 €
+* Aloitamme pienellä esitelmällä äänentoiston kannalta tärkeimmistä perusasioista.
+* Teorioiden paikkansa pitävyyttä pääsemme testaaminen kuunteluhuoneeseen.
+* Tapahtumapaikkana Hifimesta Oy "Kerttulinkatu 16, Turku":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&cp=6704396,23460679&z=2&title=Kerttulinkatu%2016a%2C%20Turku&language=fin.
+* Mukaan mahtuu valitettavasti vain 10 ensinnä ilmoittautunutta.
 
-<%= render "partials/ilmoittautuminen", :block => "help4", :day => "1", :month => "1", :year => "2011" %>
+<%= render "partials/ilmoittautuminen", :block => "help2", :day => "1", :month => "10", :year => "2011" %>
  </div>
-
- <!-- Happening -->
- <div class="happening">
-
-p(event_caption). %{float: left}Sääntömääräinen yhdistyksen kevätkokous jäsenille% %{float: right}To 24.3.2011 klo 18:00%
-!(article_pic)/pic/kokous.png!
-
-"Panimoravintola Koulu":http://www.panimoravintolakoulu.fi/, Eerikinkatu 18, Turku
-
-* Sääntömääräiset asiat
-* Iltapala
-
-<%= render "partials/ilmoittautuminen", :block => "help5", :day => "17", :month => "3", :year => "2011" %>
- </div>
-
- <!-- Happening -->
- <div class="happening">
-
-p(event_caption). %{float: left}Linturetki Kauvatsan luontoon% %{float: right}La 7.5.2011 klo 10:00%
-!(article_pic)/pic/bird.png!
-
-Tutustuminen ornitologiaan eli lähdemme tipuja tiirailemaan. Oppaanamme toimivat kokeneet lintuasiantuntijat Niina Uusi-Seppä ja Kaj Grönqvist. Mukaan mahtuu 50 henkeä.
-
-Ohjelma:
-* Lähtö Turun linja-autoaseman tilausliikennelaiturista klo 10:00.
-* Perillä lämmin mehu ja pulla.
-* Kauvatsan Puurijärvi, lintutorni n. klo 11:45...13:45.
-* Keittolounas Kauvatsan keskustassa (keitto, leipä, leikkeleet, kevyet juomat, kahvi/tee, makea pala) klo 14:00.
-* Bussikierros Kauvatsalla klo 15:00.
-* Takaisin Turussa klo 17:30 - 18:00.
-
-Varustus: ulkoiluvarustus, kiikari tai kaukoputki. (Joitakin kiikareita ja kaukoputkia lainattavissa myös perillä.)
-
-Osallistumismaksu 5 € ja alle kouluikäiset ilmaiseksi. Maksu kerätään linja-autossa, varaa mielellään tasaraha.
-
-Matkan varrelta myös (esim. Auran ABC ja tien 41 varrelta) mahdollisuus päästä kyytiin. 
-
-<%= render "partials/ilmoittautuminen", :block => "help6", :day => "24", :month => "4", :year => "2011" %>
- </div>
-
- <!-- Happening -->
- <div class="happening">
-
-p(event_caption). %{float: left}Vares ja nuoruustango% %{float: right}To 21.7.2011 klo 19:00%
-!(article_pic)/pic/drama-masks.png!
-
-JUSSI VARES VOI LÄHTEÄ MERIKARVIALTA, MUTTA MERIKARVIA EI LÄHDE JUSSI VAREKSESTA.
-
-Muistot palaavat pätkittäin, kun yksityisetsivä Vareksen nuoruudenystäviä alkaa yllättäen putkahdella esiin kotikulmilla Turussa. Vanhat kaverit ovat kylläkin vuosien saatossa vähän muuttuneet – eivätkä välttämättä parempaan suuntaan...
-
-Paikkana "Teatteri Emma":http://www.emmateatteri.fi/, Kailon saari, Naantali.
-
-Varaa paikkasi välittömästi, sillä vain 60 nopeinta mahtuu mukaan. Avec-tilaisuus.
-
-Koko paketin hinta on vain 15 &euro; / henkilö, sisältäen lipun ja väliaikatarjoilut.
-
-Liput on maksettava yhdistyksen tilille viimeistään 23.6. Tilinumero 800027-5167236. Vain lippunsa etukäteen maksaneet pääsevät mukaan!
-
-Liput noudettavissa portilta TASI:n edustajalta 18:50 asti, sen jälkeen lippuluukulta.
-
-<%= render "partials/ilmoittautuminen", :block => "help7", :day => "23", :month => "6", :year => "2011" %>
- </div>
-
+ 
  <!-- Happening -->
  <div class="happening">
 
