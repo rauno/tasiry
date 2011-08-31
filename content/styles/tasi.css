@@ -92,8 +92,6 @@ th
    border-radius: 0.35em;
 	-moz-border-radius: 0.35em;  
    -webkit-border-radius: 0.35em;
-	-moz-transition-property: background-color color;
-	-webkit-transition-property: background-color color;
 	-moz-transition-duration: 0.5s; 
 	-webkit-transition-duration: 0.5s; 
 }
@@ -102,8 +100,6 @@ th
 {
 	color: #fff; 
 	background-color: #69f; 
-	-moz-transition-property: background-color color;
-	-webkit-transition-property: background-color color;
 	-moz-transition-duration: 0.5s; 
 	-webkit-transition-duration: 0.5s; 
 }
@@ -250,7 +246,6 @@ th
 	width: 340px;
 	padding: 15px 0px 0px 0px;
 	border: 1px solid;
-	vertical-align: top;
 	text-align: center;
 }
 
@@ -386,8 +381,6 @@ html>body .columnLeftBox ul li a
 	border-left: 10px solid #03f;
 	border-right: 1px solid #f93;
 	border-bottom: 1px solid #FEE9AA;
-	-moz-transition-property: background-color color;
-	-webkit-transition-property: background-color color;
 	-moz-transition-duration: 0.5s; 
 	-webkit-transition-duration: 0.5s; 
 }
@@ -407,7 +400,7 @@ html>body .columnLeftBox ul li a
 
 .button a
 {
-   margin: -7px 1px; 0px 0px;
+   margin: -7px 1px 0px 0px;
    float: right;
    padding: 2px 6px 2px 6px;
    border: 1px solid #444;

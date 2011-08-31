@@ -3,7 +3,7 @@ title:       Tapahtumat
 layout:      main
 active_menu: 2
 description: Tapahtumat j&auml;senille
-date:        <meta name="date" content="2011-08-29T21:59:11+0300" />
+date:        <meta name="date" content="2011-08-31T20:49:39+0300" />
 ---
  <div class="story">
  
@@ -43,7 +43,70 @@ Tarjolla äänentoiston saloihin tutustuminen Hifimestan tiloissa.
 
 <%= render "partials/ilmoittautuminen", :block => "help2", :day => "1", :month => "10", :year => "2011" %>
  </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Yhdistyksen sääntömääräinen syyskokous jäsenille% %{float: right}Ke 9.11.2011 klo 18:00%
+!(article_pic)/pic/kokous2.png!
+
+ICT-talossa "Joukahaisenkatu 3A":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&cp=6704336,23461264&z=2&title=Joukahaisenkatu%203%2C%20Turku&language=fin.
+
+* Sääntömääräiset asiat
+* Iltapala
+
+<%= render "partials/ilmoittautuminen", :block => "help3", :day => "3", :month => "11", :year => "2011" %>
+ </div>
+
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Pikkujoulujuhlat% %{float: right}La 26.11.2011 klo 16:00%
+!(article_pic)/pic/christmas_tree2.png!
+
+Pikkujoulujuhlat järjestämme vanhaan tapaan Vanhan Raatihuoneen salilla osoitteessa "Vanha Suurtori 5, Turku":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&amp;cp=105093,70435&amp;z=2&amp;title=Vanha%20Suurtori%205%2C%20Turku&amp;language=fin.
+
+Varaa paikkasi välittömästi, sillä vain 80 nopeinta mahtuu mukaan.
+
+* Jouluglöki
+* Jouluinen menu juomineen
+* Kahvi + avec
+* Tanssimusiikkia puoleenyöhön
+* Hinta vain 15 €/hlo (avec-tilaisuus)
+
+Ota pieni muutaman euron paketti mukaan, niin et jää lahjattomaksi!
+
+Osallistuminen on maksettava yhdistyksen tilille viimeistään 10.11 (tilille 800027-5167236). Laita maksuun viestiksi ”TASI pikkujoulu”, oma nimesi ja henkilömäärä. Esim: &#8220;TASI pikkujoulu, Matti Meikäläinen, 2 henkeä&#8221;.
+
+*Vain osallistumisensa etukäteen maksaneet pääsevät mukaan.*
+
+<%= render "partials/ilmoittautuminen", :block => "help4", :day => "10", :month => "11", :year => "2011" %>
+ </div>
  
+ <!-- Happening -->
+ <div class="happening">
+
+p(event_caption). %{float: left}Koko perhe Caribialle kylpemään% %{float: right}La 28.1.2012 klo 11:00%
+ !(article_pic)/pic/pool.png!
+
+Kokoontuminen _kylpylän_ vastaanottoon. Mukaan uimavarustus ja pyyhe.
+
+* Paikkana "Kylpylähotelli Caribia":http://www.holidayclubhotels.fi/.
+* Mukaan uimavarustus ja pyyhe.
+* Ruokailu sisältyy maksuun.
+* Maksetaan sisäänkäynnin yhteydessä TASI:n edustajalle.
+* Mukaan mahtuu noin 50 ensinnä ilmoittautunutta.
+* *Osallistujien sukupuolet ja lasten iät mainittava ilmoittauduttaessa.*
+
+Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
+* aikuiset 10 €
+* lapset (alle 13 vuotta) ilmaiseksi
+
+Muut LOUSI:n aluejärjestöt: 15 € / 5 €
+
+<%= render "partials/ilmoittautuminen", :block => "help5", :day => "14", :month => "1", :year => "2012" %>
+ </div>
+
  <!-- Happening -->
  <div class="happening">
 
