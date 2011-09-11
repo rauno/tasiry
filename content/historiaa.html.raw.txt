@@ -1,13 +1,14 @@
 ---
 title:       Historiaa
 layout:      main
+timeout:     28800
 active_menu: 7
 copyright:   Turun Alueen Sähköinsinöörit TASI ry
 keywords:    historiaa
 description: Historiaa
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2011-08-29T20:18:13+0300" />
+date:        <meta name="date" content="2011-09-11T14:53:07+0300" />
 ---
 			<!-- Main story section -->
 			<div class="story">

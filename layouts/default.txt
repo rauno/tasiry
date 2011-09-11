@@ -11,6 +11,11 @@
 
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
+   <noscript>
+   <!-- We have the "refresh" meta-tag in case the user's browser does not correctly support JavaScript or has JavaScript disabled. -->
+   <meta http-equiv="refresh" content="<%= @item[:timeout] %>" />
+   </noscript>
+
 	<link href="/styles/tasi.css" rel="stylesheet" type="text/css" />	
    <link rel="shortcut icon" href="/pic/tasi.png" />			
 	
@@ -18,7 +23,7 @@
 	
 </head>
 
-<body onload="JavaScript:timedRefresh(43200000);">
+<body onload="JavaScript:timedRefresh(<%= @item[:timeout] %>);">
    <div id="banner">
       <div id="bannerPic"></div>
   		<div id="header">
@@ -47,7 +52,7 @@
       <%= yield %>
 			
       <!-- Markings going under the main story -->
-		<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+		 <div id="footer_left">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div><div id="footer_right"><script type="text/javascript">document.write((new Date).toLocaleString());</script></div>
 	</div><!-- columnRight -->
 			
 	<div id="columnLeft">

@@ -1,6 +1,7 @@
 ---
 title:       Galleria 2011
 layout:      main
+timeout:     28800
 active_menu: 8
 gallery:     5
 copyright:   Turun Alueen Sähköinsinöörit TASI ry
