@@ -1,7 +1,7 @@
 ---
 title:       Ilmittautuminen
 copyright:   Turun Alueen Sähköinsinöörit TASI ry
-date:        <meta name="date" content="2011-02-10T21:28:17+0200" />
+date:        <meta name="date" content="2011-09-28T20:36:50+0300" />
 filter:
   - erb
   - textile
@@ -16,9 +16,10 @@ _Ilmoittautuminen viimeistään <%= day%>.<%= month%>!_
 h3. Ilmoittautuminen 
 
 * Ilmoittaudu lähettämällä sähköpostia osoitteeseen <span class="e-mail">tapahtumat@tasiry.fi</span>.
-* Muista maksaa mahdollinen osallistumismaksu ajoissa! 
+* Muista maksaa mahdollinen osallistumismaksu ajoissa!
+* Ellei tapahtuman tiedoissa muuta sanota, voi mahdollisen tapahtumamaksun maksaa yhdistyksen tilille (IBAN: FI10 8000 2705 1672 36). 
 
-Laita sähköpostin *aiheeksi* "TASI: &lt;tapahtuma&gt;":
+Laita sähköpostilla ilmoittautuessasi *aiheeksi* "TASI: &lt;tapahtuma&gt;":
 * &lt;tapahtuma&gt; = tapahtuman otsikko ilman päiväystä.
 * Tärkeää, koska viesti ohjataan oikealle vastuuhenkilölle sähköpostin aihe-kentän perusteella!
 * Esimerkiksi ??"TASI: Sääntömääräinen yhdistyksen kevätkokous jäsenille"??.
