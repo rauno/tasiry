@@ -10,9 +10,12 @@ function daysLeft(date, month, year)
 <!-- Ilmoita kuinka monta päivää on jäljellä ilmoittautumisaikaan - tai totea, ettei enää onnaa. -->
 function checkDate(date, month, year, acceptMore)
 {
+	if (acceptMore == false)
+		return " (tapahtuma on jo valitettavasti täynnä!)";
+		
 	var left = daysLeft(date, month, year);					
 			
-	return ((left >= 0) && (acceptMore == true)) ? " (vielä " + (left + 1) + " päivää)" : " (tapahtuma on jo täynnä!)";
+	return (left >= 0) ? " (vielä " + (left + 1) + " päivää)" : " (ei enää ilmoittautumisia!)";
 }
 
 <!-- Nykyinen päivämäärä -->

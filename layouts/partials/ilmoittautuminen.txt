@@ -1,12 +1,12 @@
 ---
 title:       Ilmittautuminen
 copyright:   Turun Alueen Sähköinsinöörit TASI ry
-date:        <meta name="date" content="2011-10-28T20:10:46+0300" />
+date:        <meta name="date" content="2011-10-28T20:20:48+0300" />
 filter:
   - erb
   - textile
 ---
-_Viimeinen ilmoittautumispäivä on <%= day%>.<%= month%>, ellei tapahtuma täyty jo ennen sitä!_
+_Viimeinen ilmoittautumispäivä on <%= day%>.<%= month%>, ellei tapahtuma täyty sitä ennen!_
 
  <div id="<%= block%>" style="display:none; margin-bottom: 1em;">
  <hr />
