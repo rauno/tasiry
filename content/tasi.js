@@ -1,11 +1,18 @@
-<!-- Ilmoita kuinka monta päivää on jäljellä ilmoittautumisaikaan - tai totea, ettei enää onnaa. -->
-function checkDate(date, month, year)
+<!-- Montako päivää jäljellä? -->
+function daysLeft(date, month, year)
 {
 	var expire = new Date(year, month - 1, date);
 	var today = new Date();
-	var daysLeft = Math.floor((expire.valueOf() - today.valueOf()) / (24 * 60 * 60 * 1000) + 1);					
+	
+	return Math.floor((expire.valueOf() - today.valueOf()) / (24 * 60 * 60 * 1000) + 1);					
+}
+
+<!-- Ilmoita kuinka monta päivää on jäljellä ilmoittautumisaikaan - tai totea, ettei enää onnaa. -->
+function checkDate(date, month, year, acceptMore)
+{
+	var left = daysLeft(date, month, year);					
 			
-	return (daysLeft >= 0) ? " (vielä enintään " + (daysLeft + 1) + " päivää)" : " (SULJETTU!)";
+	return ((left >= 0) && (acceptMore == true)) ? " (vielä " + (left + 1) + " päivää)" : " (tapahtuma on jo täynnä!)";
 }
 
 <!-- Nykyinen päivämäärä -->

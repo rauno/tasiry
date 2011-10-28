@@ -4,7 +4,7 @@ layout:      main
 timeout:     3600
 active_menu: 2
 description: Tapahtumat j&auml;senille
-date:        <meta name="date" content="2011-09-11T14:51:56+0300" />
+date:        <meta name="date" content="2011-10-28T20:12:25+0300" />
 ---
  <div class="story">
  
@@ -26,7 +26,7 @@ Kaikki jäsenet joukolla kisaamaan ”Tuomon Pokaali”-kiertopalkinnosta ja mui
 * Mestaruutta ratkotaan ilmapistooliammunnassa sekä tikan- ja renkaanheitossa.
 * Ottelun jälkeen jälkipelit kahvitarjoilun lomassa.			
 
-<%= render "partials/ilmoittautuminen", :block => "help1", :day => "6", :month => "9", :year => "2011" %>
+<%= render "partials/ilmoittautuminen", :block => "help1", :day => "6", :month => "9", :year => "2011", :acceptMore => true %>
  </div>
 
  <!-- Happening -->
@@ -42,7 +42,7 @@ Tarjolla äänentoiston saloihin tutustuminen Hifimestan tiloissa.
 * Tapahtumapaikkana Hifimesta Oy "Kerttulinkatu 16, Turku":http://opaskartta.turku.fi/Web/Default.aspx?layers=Opaskartta&cp=6704396,23460679&z=2&title=Kerttulinkatu%2016a%2C%20Turku&language=fin.
 * Mukaan mahtuu valitettavasti vain 10 ensinnä ilmoittautunutta.
 
-<%= render "partials/ilmoittautuminen", :block => "help2", :day => "1", :month => "10", :year => "2011"%>
+<%= render "partials/ilmoittautuminen", :block => "help2", :day => "1", :month => "10", :year => "2011", :acceptMore => true %>
  </div>
 
  <!-- Happening -->
@@ -57,7 +57,7 @@ ICT-talossa "Joukahaisenkatu 3A":http://opaskartta.turku.fi/Web/Default.aspx?lay
 * Sääntömääräiset asiat
 * Iltapala
 
-<%= render "partials/ilmoittautuminen", :block => "help3", :day => "3", :month => "11", :year => "2011" %>
+<%= render "partials/ilmoittautuminen", :block => "help3", :day => "3", :month => "11", :year => "2011", :acceptMore => true %>
  </div>
 
  <!-- Happening -->
@@ -84,7 +84,7 @@ Osallistuminen on maksettava yhdistyksen tilille viimeistään 10.11 (tilille 80
 
 *Vain osallistumisensa etukäteen maksaneet pääsevät mukaan.*
 
-<%= render "partials/ilmoittautuminen", :block => "help4", :day => "10", :month => "11", :year => "2011" %>
+<%= render "partials/ilmoittautuminen", :block => "help4", :day => "10", :month => "11", :year => "2011", :acceptMore => true %>
  </div>
  
  <!-- Happening -->
@@ -108,7 +108,7 @@ Osallistumismaksut TASI:n jäseniltä ja perheenjäseniltä:
 
 Muut LOUSI:n aluejärjestöt: 15 € / 5 €
 
-<%= render "partials/ilmoittautuminen", :block => "help5", :day => "14", :month => "1", :year => "2012" %>
+<%= render "partials/ilmoittautuminen", :block => "help5", :day => "14", :month => "1", :year => "2012", :acceptMore => false %>
  </div>
 
  <!-- Happening -->
@@ -116,6 +116,6 @@ Muut LOUSI:n aluejärjestöt: 15 € / 5 €
 
 p(event_caption). %{float: left}Lisää tapahtumia:% %{float: right}"http://www.lousi.fi/tapahtumat":http://www.lousi.fi/tapahtumat%
 
- Olet tervetullut myös LOUSI:n muiden jäsenjärjestöjen järjestämiin tapahtumiin.
+ Tiesitkö, että olet tervetullut myös LOUSI:n muiden jäsenjärjestöjen tapahtumiin?
 
  </div>
