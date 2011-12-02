@@ -6,7 +6,7 @@ keywords:    sisällysluettelo
 description: Sisälllysluettelo
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2010-09-03T22:56:48+0300"/>
+date:        <meta name="date" content="2011-12-02T18:08:52+0200" />
 ---
 	<!-- Story -->
 	<div id="index" class="story">
@@ -48,4 +48,4 @@ date:        <meta name="date" content="2010-09-03T22:56:48+0300"/>
 	</div><!-- Story -->
 			
 	<!-- Markings going under the main story -->
-	<div id="footer">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
+	<div id="footer_left">webmaster: rauno.uusitalo<span><img src="/pic/ats.png" alt="@" /></span>gmail.com</div>
