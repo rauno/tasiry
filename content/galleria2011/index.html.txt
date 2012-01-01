@@ -9,7 +9,7 @@ keywords:    kuvat, galleria
 description: Galleria
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2012-01-01T18:43:29+0200" />
+date:        <meta name="date" content="2012-01-01T19:39:13+0200" />
 ---
 <div id="galleria">
    <div class="story">
@@ -34,7 +34,7 @@ Päivän päätteeksi tutustuimme isäntänämme toimineen Tuomo Hinkkasen opast
    <div class="story">
       <div class="event_caption">
          <span style="float: left">Pikkujoulut</span>
-         <span style="float: right">La 26.11.2010</span>
+         <span style="float: right">La 26.11.2011</span>
       </div>    
 
 !gallery/pikkujoulut.jpg(Vanha Raatihuone)!
