@@ -1,0 +1,16 @@
+---
+title:       Kuvagalleria
+layout:      main
+timeout:     28800
+active_menu: 8
+gallery:     4
+copyright:   Turun Alueen Sähköinsinöörit TASI ry
+keywords:    kuvat, galleria
+description: Pikkujoulut 2010
+robots:      ALL
+refresh:     0
+date:        <meta name="date" content="2011-09-11T14:56:23+0300" />
+---
+<iframe id="frameBox" class="story" src="/galleria2010/gallery/pikkujoulut/" width="714" height="796">
+   <p>Käytössäsi on vanhentunut selain!</p>
+</iframe> 

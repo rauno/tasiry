@@ -9,7 +9,7 @@ keywords:    kuvat, galleria
 description: Galleria
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2011-05-29T17:12:39+0300" />
+date:        <meta name="date" content="2012-01-01T18:43:29+0200" />
 ---
 <div id="galleria">
    <div class="story">
@@ -26,6 +26,25 @@ Päivän päätteeksi tutustuimme isäntänämme toimineen Tuomo Hinkkasen opast
 
       <div class="clear_next" style="text-align: center">
          "Lisää kuvia":/galleria2011/gallery/linturetki/
+      </div>
+   </div>
+</div>
+
+<div id="galleria">
+   <div class="story">
+      <div class="event_caption">
+         <span style="float: left">Pikkujoulut</span>
+         <span style="float: right">La 26.11.2010</span>
+      </div>    
+
+!gallery/pikkujoulut.jpg(Vanha Raatihuone)!
+
+Pikkujoulut vietimme jälleen perinteikkäästi Vanhan Raatihuoneen salissa.
+
+Nautimme hyvästä jouluruoasta ja tanssista elävän musiikin kera. Joulupukkikin vieraili jälleen luonamme ja illan päätyttyä kaikki lahjakkaat juhlijat sattoivat lähteä hyvillä mielin paluumatkoilleen.  
+
+      <div class="clear_next" style="text-align: center">
+         "Lisää kuvia":/galleria2011/gallery/pikkujoulut/
       </div>
    </div>
 </div>
