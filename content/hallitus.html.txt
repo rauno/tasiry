@@ -8,11 +8,11 @@ keywords:    hallitus
 description: Hallitus
 robots:      ALL
 refresh:     0
-date:        <meta name="date" content="2011-09-11T14:52:47+0300" />
+date:        <meta name="date" content="2012-01-01T19:23:40+0200" />
 ---
  <div class="story">
  
-h1. Hallitus 2011
+h1. Hallitus 2012
 
 *Hallitus on yhdistyksemme toimeenpaneva voima. Halutessasi lisätietoa TASI:n toimintaan liittyvistä asiosta, voit ottaa yhteyttä alla oleviin hallituksen jäseniin.*
 
@@ -31,7 +31,7 @@ jesse.mattila<span>!/pic/at.png(@)!</span>perkinelmer.com
 *Pertti Degerholm*
 <br />
 Varapuheenjohtaja,
-kausi 2010 - 2011
+kausi 2012 - 2013
 <br />
 (040) 842 1177
 pertti.degerholm<span>!/pic/at.png(@)!</span>gmail.com
@@ -39,7 +39,7 @@ pertti.degerholm<span>!/pic/at.png(@)!</span>gmail.com
 |!/pic/Matti.jpg(Matti)!
 *Matti Lehtinen*
 <br />
-Sihteeri, kausi 2010 - 2011
+Sihteeri, kausi 2012 - 2013
 <br />
 (040) 832 3589
 matti.ol.lehtinen<span>!/pic/at.png(@)!</span>metso.com|!/pic/Jukka.jpg(Jukka)!
@@ -62,31 +62,31 @@ Jäsen, kausi 2011 - 2012
 <br />
 (0400) 440 147
 tsto.hinkkanen<span>!/pic/at.png(@)!</span>co.inet.fi|
-|!/pic/Alpo.jpg(Alpo)!
+|!/pic/Jens.jpg(Jens)!
+*Jens Holmström*
+<br />
+Jäsen, kausi 2012 - 2013
+<br />
+(040) 830 9796
+ |!/pic/Alpo.jpg(Alpo)!
 *Alpo Holsti*
 <br />
-Jäsen, kausi 2010 - 2011
+Jäsen, kausi 2012 - 2013
 <br />
 (040) 569 3567
-alpo.holsti<span>!/pic/at.png(@)!</span>pp1.inet.fi|!/pic/Jouko.jpg(Jouko)!
+alpo.holsti<span>!/pic/at.png(@)!</span>pp1.inet.fi|
+|!/pic/Jouko.jpg(Jouko)!
 *Jouko Laine*
 <br />
 Jäsen, kausi 2011 - 2012
 <br />
 (040) 593 1174
-jouko.j.laine<span>!/pic/at.png(@)!</span>gmail.com|
-|!/pic/Viktor.jpg(Viktor)!
+jouko.j.laine<span>!/pic/at.png(@)!</span>gmail.com|!/pic/Viktor.jpg(Viktor)!
 *Viktor van Meer*
 <br />
-Jäsen, kausi 2010 - 2011
+Jäsen, kausi 2012 - 2013
 <br />
 (0500) 784 074
-viktor.meer<span>!/pic/at.png(@)!</span>netti.fi|!/pic/Rauno.jpg(Rauno)!
-*Rauno Uusitalo*
-<br />
-Jäsen, kausi 2010 - 2011
-<br />
-(050) 328 7357
-rauno.uusitalo<span>!/pic/at.png(@)!</span>gmail.com|
+viktor.meer<span>!/pic/at.png(@)!</span>netti.fi|
 
  </div>
